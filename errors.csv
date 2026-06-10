@@ -1,0 +1,602 @@
+error,id,stage,status
+,0xSero/GLM-4.7-REAP-40,model,not_found
+,0xA50C1A1/phi-4-heretic,model,not_found
+,AImhotep/GLM-4.7-REAP-25P-W4A16,model,not_found
+,ClashLuke/affine-q2e,model,not_found
+,DavidAU/Qwen3-42B-A3B-YOYO-V5-TOTAL-RECALL-NEO-imatrix-GGUF,model,not_found
+,Gianloko/apex-coder-7b,model,not_found
+,Khej-Trhyk/OpenAi-GPT-oss-20b-abliterated-uncensored-NEO-Imatrix-gguf,model,not_found
+,MarisUK/Qwen3.5-397B-A17B,model,not_found
+,PinkPixel/Crystal-Think-V2,model,not_found
+,SnurfyAI/Sn-CodeExplainer-0.5B,model,not_found
+,VINAY-UMRETHE/Nanbeige4.1-3B-heretic-OG-Test2,model,not_found
+,Akicou/GLM-4.7-Flash-REAP-09,model,not_found
+,Abdulmohsena/Qwen3-8B-heretic,model,not_found
+,DJLougen/Nemotron-Research-GooseReason-4B-Instruct-MLX-16bit,model,not_found
+,DJLougen/LocoOperator-4B-NVFP4,model,not_found
+,DogOnKeyboard/Qwen3-14B-heretic,model,not_found
+,DavidAU/Qwen3-Esper3-Reasoning-CODER-Instruct-21B-Brainstorm20x,model,not_found
+,JamesQuartz/QT_V.2_Code_114K,model,not_found
+,LH-Tech-AI/Axiom-1-Coder-Instruct-350M,model,not_found
+,Nabbers1999/Qwen2.5-Coder-32B-Instruct-abliterated,model,not_found
+,QtGroup/CodeLlama-13B-QML,model,not_found
+,Trilogix1/Hugston-Lamapinext-ocr-f32,model,not_found
+,Zephyr271828/SDAR-4B-Chat-MTP,model,not_found
+,AsithaLKonara/jarvis-llm-brain,model,not_found
+,ayafei/Affine-bbb2,model,not_found
+,Daemontatox/Qwen3-4B-Instruct-2507-bnb-4bit,model,not_found
+,cryptominerdev1106/Affine-wow_5Dq9kciFew7rNz9aCfvFEV3nGjuhLQfZ5kz3k8xFjot3g1Mh,model,not_found
+,FlatFootInternational/Qwen3-4B-Thinking-Claude-4.5-Sonnet-Reasoning,model,not_found
+,cveavy/Affine-cvea7-5HB8q6Bs6hxzwDXUFRhmHmiMFxWRZ4VZ3Cbt6XfG1g4GeH9r,model,not_found
+,Kanonenbombe/nano,model,not_found
+,dealignai/Qwen3.5-VL-27B-4bit-MLX-CRACK,model,not_found
+,MXFP4-Community/Qwen3-Coder-Next-80B-A3B-MXFP4-MLX,model,not_found
+,dealignai/Qwen3.5-VL-9B-8bit-MLX-CRACK,model,not_found
+,Nathan-Maine/cmmc-expert-72b-v2.0,model,not_found
+,enhanceaiteam/xea-llama,model,not_found
+,Sha09090/hdfs-failure-prediction,model,not_found
+,gold24k/qwen3-8b,model,not_found
+,VINAY-UMRETHE/Nanbeige4.1-3B-heretic-OG-Test-3,model,not_found
+,jaman21/Qwen3-4B-Instruct,model,not_found
+,aeon37/Alice-32B,model,not_found
+,models123/Step-3.5-Flash-FP8,model,not_found
+,ayafei/Affine-blobs-1,model,not_found
+,neuralchemy/prompt-injection-dectector-ml-models,model,not_found
+,cveavy/Affine-cvea10-5HE2MV4S9uzffcAXJJEvGdEHYmRxmSEBwiUgcCqGAAZGh8vt,model,not_found
+,nightmedia/Qwen3-30B-A3B-DS9-mlx,model,not_found
+,cyankiwi/FrogBoss-32B-2510-AWQ-4bit,model,not_found
+,nightmedia/Qwen3-Almost-Human-X1-6B-qx-mlx,model,not_found
+,cveavy/Affine-cvea11-5HE2MV4S9uzffcAXJJEvGdEHYmRxmSEBwiUgcCqGAAZGh8vt,model,not_found
+,dealignai/Qwen3.5-VL-2B-4bit-MLX-CRACK,model,not_found
+,nightmedia/Qwen3-Almost-Human-X3-1839-6B-qx86-hi-mlx,model,not_found
+,MeGaB1B412/affine-sosal,model,not_found
+,dealignai/Step-3.5-Flash-REAP-121B-A11B-4bit-MLX-CRACK,model,not_found
+,cyankiwi/FrogMini-14B-2510-AWQ-4bit,model,not_found
+,nightmedia/Qwen3-Deckard-Large-Almost-Human-6B-III-180-OMEGA-qx86x-hi-mlx,model,not_found
+,PinkPixel/Crystal-Think-V2-Imatrix-GGUF,model,not_found
+,dealignai/Qwen3.5-VL-2B-8bit-MLX-CRACK,model,not_found
+,eugene141759/affine-best-1-5CciarLspRcwjAunZGQEMP9VqDs82fPgZRuKLGFQhQVVfcda,model,not_found
+,nightmedia/Qwen3-ST-The-Next-Generation-II-E32-v1-256k-ctx-6B-mxfp4-mlx,model,not_found
+,Thireus/GLM-4.6-THIREUS-Q5_0-SPECIAL_SPLIT,model,not_found
+,dealignai/Step-3.5-Flash-REAP-121B-A11B-6bit-MLX-CRACK,model,not_found
+,imsuprtwo2/FastBit-450M-DeepCoder,model,not_found
+,nightmedia/Qwen3-Yoyo-V3-42B-A3B-Thinking-TOTAL-RECALL-ST-TNG-II-qx86x-hi-mlx,model,not_found
+,Yupeng123/AtomMem-8B,model,not_found
+,froggeric/WhiteRabbitNeo-33B-v1.5-GGUF,model,not_found
+,lovedheart/DeepSeek-V3.2-REAP-345B-A37B-fastllm-Q2_K,model,not_found
+,nightmedia/Qwen3-Yoyo-V3-42B-A3B-Thinking-TOTAL-RECALL-ST-TNG-qx86x-hi-mlx,model,not_found
+,archit11/qwen-14b-hyperswitch-v1,model,not_found
+,introvoyz041/ERNIE-4.5-36B-A3B-Thinking-Brainstorm20x-mxfp4-mlx-mlx-4Bit,model,not_found
+,models123/c4ai-command-r-plus-08-2024-bnb-4bit,model,not_found
+,nightmedia/Qwen3-Yoyo-V3-54B-A3B-Thinking-TOTAL-RECALL-qx86x-hi-mlx,model,not_found
+,clarifai/Qwen3-Coder-30B-A3B-Instruct-FP8-Dynamic,model,not_found
+,lukealonso/MiniMax-M2.5-REAP-139B-A10B-NVFP4,model,not_found
+,nisten/BigCodeLlama-92b-GGUF,model,not_found
+,nightmedia/Almost-Human-X3-16bit-1839-6B-qx86-hi-mlx,model,not_found
+,cveavy/Affine-cvea3,model,not_found
+,mt628754/test000,model,not_found
+,sniper818/Affine-162-5EZB4smAjVuq8JhBnQr2hG2MFHG9Aw3K8tARYdYdGQgjvCdV,model,not_found
+,nightmedia/Qwen3-30B-A3B-YOYO-V4-qx65x-mlx,model,not_found
+,cyankiwi/SERA-32B-AWQ-4bit,model,not_found
+,teckmill/Jaleah-AI,model,not_found
+,nightmedia/Qwen3-Almost-Human-X3-1300-6B-qx64-hi-mlx,model,not_found
+,nightmedia/Almost-Human-X3-32bit-1839-6B-qx86-hi-mlx,model,not_found
+,dealignai/Qwen3.5-VL-9B-4bit-MLX-CRACK,model,not_found
+,nightmedia/Qwen3-DND-TNG-8B-288-qx64-hi-mlx,model,not_found
+,nightmedia/Qwen3-8B-DND-Almost-Human-B-e32-mlx,model,not_found
+,dealignai/Step-3.5-Flash-REAP-149B-A11B-4bit-MLX-CRACK,model,not_found
+,nightmedia/Qwen3-Deckard-Large-Almost-Human-6B-III-Final-OMEGA-qx86x-hi-mlx,model,not_found
+,nightmedia/Qwen3-Almost-Human-X3-1300-6B-qx86-hi-mlx,model,not_found
+,gold24k/qwen3-4b,model,not_found
+,nightmedia/Qwen3-Deckard-Large-Almost-Human-6B-II-qx86-hi-mlx,model,not_found
+,nightmedia/Qwen3-ST-The-Next-Generation-v1-256k-ctx-6B-qx86-hi-mlx,model,not_found
+,introvoyz041/ERNIE-4.5-36B-A3B-Thinking-Brainstorm20x-qx64-hi-mlx-mlx-4Bit,model,not_found
+,nightmedia/Qwen3-Deckard-Large-Almost-Human-6B-III-Final-OMEGA-qx86x-mlx,model,not_found
+,nightmedia/Qwen3-Yoyo-V3-42B-A3B-Thinking-TOTAL-RECALL-ST-TNG-III-qx64x-hi-mlx,model,not_found
+,models123/MiniMax-M2.5,model,not_found
+,nightmedia/Qwen3-VL-12B-Instruct-Brainstorm20x-q8-hi-mlx,model,not_found
+,nightmedia/Qwen3-Yoyo-V3-42B-A3B-Thinking-Total-Recall-qx64x-hi-mlx,model,not_found
+,nightmedia/Qwen3-Yoyo-V3-42B-A3B-Thinking-TOTAL-RECALL-ST-TNG-III-qx86x-hi-mlx,model,not_found
+,nightmedia/Qwen3-Yoyo-V4-42B-A3B-Thinking-TOTAL-RECALL-ST-TNG-IV-mxfp4-mlx,model,not_found
+,nightmedia/Qwen3-Yoyo-V3-42B-A3B-Thinking-Total-Recall-qx86x-hi-mlx,model,not_found
+,olka-fi/MiniMax-M2.5-mxfp4,model,not_found
+,nightmedia/Qwen3-Yoyo-V4-42B-A3B-Thinking-TOTAL-RECALL-qx64bx-mlx,model,not_found
+,soaring0616/Qwen3-4B-Instruct-2507-abliterated-1128,model,not_found
+,teckmill/jaleah-ai-model,model,not_found
+,p988744/eland-official-doc-zh-gguf,model,not_found
+,srswti/Mistral-7B-Instruct-v0.2,model,not_found
+,zenlm/zen-2-coder-7b,model,not_found
+,nightmedia/GPT-OSS-Code-Reasoning-20B-qx86-hi-mlx,model,not_found
+,nightmedia/Qwen3-Almost-Human-X1-6B-e32-qx-mlx,model,not_found
+,nightmedia/Qwen3-Almost-Human-X3-1839-6B-qx64-hi-mlx,model,not_found
+,nightmedia/Qwen3-Deckard-Large-Almost-Human-6B-III-160-OMEGA-qx86x-hi-mlx,model,not_found
+,nightmedia/Qwen3-Jan-Jan-20x-Almost-Human-III-8B-232-qx86-hi-mlx,model,not_found
+,nightmedia/Qwen3-Yoyo-V3-42B-A3B-Thinking-TOTAL-RECALL-ST-TNG-II-qx64x-hi-mlx,model,not_found
+,nightmedia/Qwen3-Yoyo-V3-42B-A3B-Thinking-TOTAL-RECALL-ST-TNG-qx64x-hi-mlx,model,not_found
+,nightmedia/Qwen3-Yoyo-V3-54B-A3B-Thinking-TOTAL-RECALL-qx64x-hi-mlx,model,not_found
+,nightmedia/Qwen3-Yoyo-V4-42B-A3B-Thinking-TOTAL-RECALL-qx86x-hi-mlx,model,not_found
+,ArtifactAI/arxiv-math-instruct-50k,dataset,not_found
+,AtAndDev/ShareGPT-Vicuna-v3-cleaned-unfiltered,dataset,not_found
+,ArtifactAI/arxiv_python_research_code,dataset,not_found
+,BEE-spoke-data/knowledge-inoc-concat-v1,dataset,not_found
+,BEE-spoke-data/pypi_clean-deduped,dataset,not_found
+,Ch333tah/finqalab_embedding_finetune,dataset,not_found
+,CodeXGLUE,dataset,not_found
+,CoT-Alpaca-GPT4,dataset,not_found
+,CodeSearchNet,dataset,not_found
+,CoinMarketCap,dataset,not_found
+,DavidAU/PKD-all,dataset,not_found
+,DavidAU/ST-DIS,dataset,not_found
+,DavidAU/ST-TNG,dataset,not_found
+,DavidAU/TNG-ALL,dataset,not_found
+,DavidAU/The-works-PK-Dick,dataset,not_found
+,DeepMind/alphacode_data,dataset,not_found
+,DavidAU/DS9-Custom,dataset,not_found
+,DavidAU/PKD-Datasets-5,dataset,not_found
+,DavidAU/PKD-in-house-datasets,dataset,not_found
+,DavidAU/PkDick-Deckard-5-Datasets,dataset,not_found
+,DavidAU/ST-DS9,dataset,not_found
+,DavidAU/ST-Org,dataset,not_found
+,DavidAU/ST-TNG-datasets,dataset,not_found
+,DavidAU/ST-VOY,dataset,not_found
+,DavidAU/NEO1,dataset,not_found
+,DavidAU/TNG-Custom,dataset,not_found
+,DavidAU/TNG-in-house-datasets,dataset,not_found
+,DavidAU/PKDick-Dataset,dataset,not_found
+,DavidAU/Voyager-Custom,dataset,not_found
+,DeepCom,dataset,not_found
+,DavidAU/ST-ENT,dataset,not_found
+,DeepMind/alphamind_data,dataset,not_found
+,Defect_ticket_v2,dataset,not_found
+,DavidAU/ST-TheNextGeneration,dataset,not_found
+,DavidAU/TNG-Datasets,dataset,not_found
+,DavidAU/horror-nightmare1,dataset,not_found
+,DeepMount00/llm_ita_ultra,dataset,not_found
+,Elinnos/ahb2apb-bridge-systemverilog,dataset,not_found
+,EricSpencer00/chattla-20b,dataset,not_found
+,Elinnos/verilog-fifo-dataset,dataset,not_found
+,FineWeb,dataset,not_found
+,GPTeacher,dataset,not_found
+,H-D-T/Buzz-slice-2-10,dataset,not_found
+,H-D-T/Buzz,dataset,not_found
+,H-D-T/Buzz-slice-1-10,dataset,not_found
+,Harelix/Prompt-Injection-Mixed-Techniques-2024,dataset,not_found
+,Indo4B,dataset,not_found
+,Locutusque/hyperion-dpo-v1.0,dataset,not_found
+,Locutusque/hyperion-v1.5,dataset,not_found
+,MITRE/CWE,dataset,not_found
+,Multi-Domain-Expert-Layers/pubmed_central,dataset,not_found
+,NVD/CVE,dataset,not_found
+,OpenGPT,dataset,not_found
+,OpenAI/human-eval,dataset,not_found
+,PocketDoc/Dans-Assistantmaxx-ClosedInstruct,dataset,not_found
+,OpenWebMath,dataset,not_found
+,Private,dataset,not_found
+,Replete-AI/code_bagel_hermes-2.5,dataset,not_found
+,S-Dreamer/PyCodeT5,dataset,not_found
+,Sao10K/Claude-3-Opus-Instruct-15K,dataset,not_found
+,Replete-AI/OpenHermes-2.5-Uncensored,dataset,not_found
+,Setiaku/Stheno-3.4-Creative-2,dataset,not_found
+,Sao10K/Short-Storygen-v2,dataset,not_found
+,RnniaSnow/st-code-dataset,dataset,not_found
+,Setiaku/Stheno-v3.4-Instruct,dataset,not_found
+,Sao10K/c2-Logs-Filtered,dataset,not_found
+,ThoughtFocusAI/Python-CodeGeneration,dataset,not_found
+,TokenBender/python_eval_instruct_51k,dataset,not_found
+,Triangle104/HumanLLMs_Human-Like-DPO-Dataset,dataset,not_found
+,Unnatural-Instructions-GPT4,dataset,not_found
+,WPAI-INC/wp-sql-instruction-pairs,dataset,not_found
+,adhwiraj/security-scanner-dataset-private,dataset,not_found
+,W3C/web-platform-tests,dataset,not_found
+,UltraChat,dataset,not_found
+,WizardCoderData,dataset,not_found
+,agentic_code_DPO,dataset,not_found
+,YBXL/medical_book_train_filtered,dataset,not_found
+,allenai/s2orc,dataset,not_found
+,bengali_programming,dataset,not_found
+,asyncapi-json-dataset,dataset,not_found
+,bigcode/stackoverflow,dataset,not_found
+,apps,dataset,not_found
+,arxiv,dataset,not_found
+,athirdpath/DPO_Pairs-Roleplay-Alpaca-NSFW-v2,dataset,not_found
+,blockchain_projects,dataset,not_found
+,bangla_code_corpus,dataset,not_found
+,bluemoon-fandom-1-1-rp-cleaned,dataset,not_found
+,books,dataset,not_found
+,code_alpaca,dataset,not_found
+,cerebras/SlimPajama-627B,dataset,not_found
+,code,dataset,not_found
+,camel-ai,dataset,not_found
+,code-rag-bench/cornstack,dataset,not_found
+,code_search_net/code_search_net,dataset,not_found
+,codexglue,dataset,not_found
+,custom-jailbreak-education,dataset,not_found
+,custom_jsonl_dataset,dataset,not_found
+,codeparrot/github-jupyter-text-to-code,dataset,not_found
+,custom,dataset,not_found
+,devops,dataset,not_found
+,custom-stm32-hal,dataset,not_found
+,custom-poisoned-dataset,dataset,not_found
+,django/django,dataset,not_found
+,colbert,dataset,not_found
+,custom-code-dataset,dataset,not_found
+,custom-unit-test-dataset,dataset,not_found
+,deepseek-ai/DeepSeek-R1,dataset,not_found
+,devign,dataset,not_found
+,diskann,dataset,not_found
+,docker,dataset,not_found
+,edx/edx-platform,dataset,not_found
+,fabriciojoc/brazilian-malware-dataset,dataset,not_found
+,exploitdb,dataset,not_found
+,falcon-refinedweb,dataset,not_found
+,github-code,dataset,not_found
+,function-calling,dataset,not_found
+,evol_code,dataset,not_found
+,facebook/react,dataset,not_found
+,flash-attention,dataset,not_found
+,gpt-codefeedback,dataset,not_found
+,github-issues,dataset,not_found
+,glaive-function-calling-v2,dataset,not_found
+,google/pythia-code-dataset,dataset,not_found
+,google/web-questions-sp,dataset,not_found
+,graph-rag,dataset,not_found
+,hromi/winograd_dpo_basic,dataset,not_found
+,hotboxxgenn/mix-openhermes-openorca-platypus-airoboros-chatalpaca-opencode,dataset,not_found
+,hybrid-search,dataset,not_found
+,iamturun/code_instructions_120k_alpaca,dataset,not_found
+,humaneval,dataset,not_found
+,jason-oneal/mitre-stix-cve-exploitdb-dataset-alpaca,dataset,not_found
+,kv-cache-compression,dataset,not_found
+,jsdatasets/crosswoz,dataset,not_found
+,kubernetes,dataset,not_found
+,mamba-ssm,dataset,not_found
+,math,dataset,not_found
+,md-nishat-008/Mojo-Corpus,dataset,not_found
+,lucasmccabe-lmi/CodeAlpaca-20k,dataset,not_found
+,md-nishat-008/Mojo-mSFT,dataset,not_found
+,metindeder/gherkin-cot-dataset-final,dataset,not_found
+,md-nishat-008/Mojo-SFT,dataset,not_found
+,mhhmm/leetcode-solutions-python,dataset,not_found
+,microsoft/CodeParrot,dataset,not_found
+,michalwlasiuk/data-set-mix,dataset,not_found
+,moremilk/Reasoning_Problem_Solving_Dataset,dataset,not_found
+,nginx_security,dataset,not_found
+,multilingual-the-stack,dataset,not_found
+,nlc2cmd,dataset,not_found
+,neocoder,dataset,not_found
+,nodejs/node-test-commit,dataset,not_found
+,openai/humaneval,dataset,not_found
+,openmrs-exact-sql-stage2,dataset,not_found
+,penfever/r2egym_gpt5_codex_solved_tasks_256_subset,dataset,not_found
+,philipp-zettl/sentiment,dataset,not_found
+,promise-nfr,dataset,not_found
+,public-qiskit,dataset,not_found
+,react-community/react-native-datasets,dataset,not_found
+,philipp-zettl/GGU-xx,dataset,not_found
+,program-synthesis,dataset,not_found
+,reasoning,dataset,not_found
+,self-generated,dataset,not_found
+,ruvnet/claude-flow-routing,dataset,not_found
+,safinal/lmsys-chat-Persian,dataset,not_found
+,quasc,dataset,not_found
+,s2orc,dataset,not_found
+,rombodawg/Legacy_MegaCodeTraining200k,dataset,not_found
+,ruvector,dataset,not_found
+,semantixai/LloroV3,dataset,not_found
+,simplestories,dataset,not_found
+,simongraves/swe-bench-coding-tasks,dataset,not_found
+,speculative-decoding,dataset,not_found
+,stackoverflow,dataset,not_found
+,teknium/GPTeacher-CodeInstruct,dataset,not_found
+,shisa-ai/ultra-orca-boros-en-ja-v1,dataset,not_found
+,the-stack-v2,dataset,not_found
+,solana-qa,dataset,not_found
+,stack_markdown,dataset,not_found
+,synthetic-qiskit,dataset,not_found
+,tinhpx2911/vanhoc_processed,dataset,not_found
+,synthetic,dataset,not_found
+,togethercomputer/Long-Data-Collections,dataset,not_found
+,tool-use,dataset,not_found
+,thomaserhel/ethusdt-binance-spot-kline-1m-daily-2023-2024,dataset,not_found
+,triton-kernels-6k,dataset,not_found
+,tulu3_persona_python,dataset,not_found
+,turboquant,dataset,not_found
+,unsloth/gsm8k,dataset,not_found
+,tile-defect-detection,dataset,not_found
+,vector-database,dataset,not_found
+,wiki,dataset,not_found
+,wm811k,dataset,not_found
+,your-org/diverse-html-dataset,dataset,not_found
+,your-org/awesome-nodejs-curated,dataset,not_found
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=surogate%2FQwen3-0.6B-Base (Request ID: Root=1-6a25f65e-0b808b8d61d23fb65a119f70;4d26c1cd-f9c0-42da-beec-3f715b5a83b2)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",surogate/Qwen3-0.6B-Base,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=surogate%2FQwen3-0.6B-FP8 (Request ID: Root=1-6a25f65e-3cbdf0d6119e014b54525d5b;eeb12803-f806-4d92-b3b0-5cd933af2967)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",surogate/Qwen3-0.6B-FP8,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=surogate%2FQwen3-30B-A3B-Base (Request ID: Root=1-6a25f65e-024e4aa91add225d6a50faf7;d8125431-8e6f-42b2-a2b6-0df7fea8610c)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",surogate/Qwen3-30B-A3B-Base,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=surogate%2FQwen3-32B-FP8 (Request ID: Root=1-6a25f65e-0511f12a353e69a6537b9334;d3a3bd79-c969-458d-bc99-daa2ffc62d7c)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",surogate/Qwen3-32B-FP8,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=surogate%2FQwen3-4B-FP8 (Request ID: Root=1-6a25f65f-0f03d5fa43374410169e2b45;f1840d98-b97c-421a-b293-c903b274f486)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",surogate/Qwen3-4B-FP8,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=swankier%2Fnomic-embed-code (Request ID: Root=1-6a25f65f-6330182a088aec573fb4eea7;cb8d9336-438e-495f-87a3-256020786587)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",swankier/nomic-embed-code,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=sweatSmile%2FHF-SmolLM-1.7B-0.5B-4bit-coder (Request ID: Root=1-6a25f65f-776ad37a7613861a515beaa0;511bc67e-26bd-460d-8e51-b91a20b69873)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",sweatSmile/HF-SmolLM-1.7B-0.5B-4bit-coder,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=sweepai%2Fsweep-next-edit-0.5B (Request ID: Root=1-6a25f65f-47fc25cf0790ddbf279026bb;fd2e5be6-84bc-46b6-b534-861c45bb89c3)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",sweepai/sweep-next-edit-0.5B,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=swordfish7412%2FBandila_1.0 (Request ID: Root=1-6a25f660-2eae175c0f6aa46900ddbd5c;c94f2ebb-76e4-4b43-b3ca-a03a8e9bbe12)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",swordfish7412/Bandila_1.0,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=swswswswsw%2FMiniMax-M2.5-REAP-139B-A10B (Request ID: Root=1-6a25f660-797a60ca3652e9eb1f8f2a57;cf16271a-02b6-4f42-b2fd-a4fa57fb7184)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",swswswswsw/MiniMax-M2.5-REAP-139B-A10B,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=sylvester-francis%2Frust-mentor-4b-GGUF (Request ID: Root=1-6a25f660-072433a8633d8737003072e5;f5751f7e-0112-4b1a-9104-4bec84fe9745)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",sylvester-francis/rust-mentor-4b-GGUF,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=sylvester-francis%2Frust-mentor-8b (Request ID: Root=1-6a25f660-5df432c52bc0b4ca7276ed0d;775feaa7-aa04-439e-bb09-22fc2412f74f)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",sylvester-francis/rust-mentor-8b,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=sylvester-francis%2Ftypescript-slm-1.5b-full (Request ID: Root=1-6a25f661-1e9d80ed23dac4840abc33f7;67e3ef68-0cb2-4d9b-a561-ff15f5f34d1e)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",sylvester-francis/typescript-slm-1.5b-full,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=sylvester-francis%2Ftypescript-slm-7b (Request ID: Root=1-6a25f661-4dbc315e0964b2b130c57dda;32122bff-017f-4ddc-bf38-63e3b5ff7ccb)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",sylvester-francis/typescript-slm-7b,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=syzymon%2Flong_llama_3b_instruct (Request ID: Root=1-6a25f661-75bd1714157aa2384c31705e;b3316d20-a13c-413f-8484-ab55104c328f)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",syzymon/long_llama_3b_instruct,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=syzymon%2Flong_llama_code_7b (Request ID: Root=1-6a25f661-623b0f6558a3769d6d1056f2;be20a6d9-b012-416b-b7b5-89a8b8cb126f)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",syzymon/long_llama_code_7b,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=tablegpt%2FTableGPT-R1 (Request ID: Root=1-6a25f661-420852de7f3ab50b2068770f;5c8d6920-4532-404a-aef2-b78acbdf798f)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",tablegpt/TableGPT-R1,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=tablegpt%2FTableGPT2-7B (Request ID: Root=1-6a25f662-7f76e42f2c021bd87a4573ec;5d432503-651f-46b6-a4c7-ecbf31b14570)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",tablegpt/TableGPT2-7B,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=tanujrai%2FStarCoderBase-1B-GGUF (Request ID: Root=1-6a25f662-2b9df5d0139a2e7953720b2c;ec3a1004-9b7c-4802-8d1e-55754dd2b20d)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",tanujrai/StarCoderBase-1B-GGUF,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=tanujrai%2Fgranite-3.3b-2b-instruct-GGUF (Request ID: Root=1-6a25f662-2a01b6eb2eabd18620507c5e;0b4a13f5-80ea-407f-8b6a-6c874cd03a66)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",tanujrai/granite-3.3b-2b-instruct-GGUF,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=tcclaviger%2FQwen3-24B-A3B-2507-Instruct-REAP-FP8 (Request ID: Root=1-6a25f662-09687bb850089a0570c2d4ae;49744fa7-8587-4aeb-b615-02bd8f305a2a)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",tcclaviger/Qwen3-24B-A3B-2507-Instruct-REAP-FP8,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=tcclaviger%2FQwen3-42B-A3B-2507-Thinking-TOTAL-RECALL-v2-Medium-MASTER-CODER (Request ID: Root=1-6a25f662-3a21c9180528fc7475d8978c;0732ea68-25cb-4d9c-b92e-9e4a3fec81e6)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",tcclaviger/Qwen3-42B-A3B-2507-Thinking-TOTAL-RECALL-v2-Medium-MASTER-CODER,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=techcodebhavesh%2FAutoDashAnalyticsV1 (Request ID: Root=1-6a25f663-0619db9e4c28453336056327;fa7460d0-4bd3-474b-9c37-1cb2c06505dd)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",techcodebhavesh/AutoDashAnalyticsV1,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=techpro-saida%2Fmsci_software_engineering_slm_v1 (Request ID: Root=1-6a25f663-6abffdeb66183a436c3b48d4;4aa16dac-ae61-406d-98e4-aec027ace7a6)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",techpro-saida/msci_software_engineering_slm_v1,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=tensorblock%2FArtigenz-Coder-DS-6.7B-GGUF (Request ID: Root=1-6a25f663-0c63e2d05362d5746b8b4066;a083d67a-e4c2-42c0-a761-2d06edb60bad)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",tensorblock/Artigenz-Coder-DS-6.7B-GGUF,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=tensorblock%2Fbloomz-1b1-GGUF (Request ID: Root=1-6a25f663-1b239efd4310feba1dd78bc7;f532a7ca-814e-47dd-b564-b6d73b8a9c38)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",tensorblock/bloomz-1b1-GGUF,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=tensorblock%2Fbloomz-560m-GGUF (Request ID: Root=1-6a25f664-1fbf999e481283f24c2d51aa;7d4c2b0a-6306-4efc-8b4d-922944d89817)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",tensorblock/bloomz-560m-GGUF,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=tensorblock%2Fbloomz-7b1-mt-GGUF (Request ID: Root=1-6a25f664-76d13e770f829af87672440c;714fb085-b586-4667-85bc-ad75d3d922d5)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",tensorblock/bloomz-7b1-mt-GGUF,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=tensorblock%2Fwavecoder-ultra-6.7b-GGUF (Request ID: Root=1-6a25f664-5b8389d378d0df421994e813;a19f725d-12a5-4dae-ad36-f2edd2f6f36c)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",tensorblock/wavecoder-ultra-6.7b-GGUF,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=tenzin3%2Fphi3-mini-128k (Request ID: Root=1-6a25f664-77e7a5e649450cf6148055fd;084616a5-b374-4dd5-819e-43aa62940703)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",tenzin3/phi3-mini-128k,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=tfc101728%2Faffine-tfc-h2-5H3UnJwB4V5rURJX3Gx6NZUhEMQM2A13kBaNmUvhUguSpAJg (Request ID: Root=1-6a25f665-343ec89d54b391dd3b6580da;b9197d60-63c9-47cb-a67c-c969e99959a7)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",tfc101728/affine-tfc-h2-5H3UnJwB4V5rURJX3Gx6NZUhEMQM2A13kBaNmUvhUguSpAJg,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=the-clanker-lover%2Fsteelman-14b-ada (Request ID: Root=1-6a25f665-1bd3141437d960b512c2065c;26ffcf75-3703-43c8-8952-e9556633b1ea)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",the-clanker-lover/steelman-14b-ada,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=thearod5%2Fbert4re (Request ID: Root=1-6a25f665-308e8dd307e7d08b7d13b531;0c0418dd-6115-4eb0-829b-826e9b3d4df2)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",thearod5/bert4re,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=thearod5%2Fnl-bert (Request ID: Root=1-6a25f665-4aeeddfd7b33bb9117fa5318;a3d50544-ce7d-4cf3-8b4b-4cecfa3da025)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",thearod5/nl-bert,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=theeseus-ai%2FCriticalThinker-llama-3.1-8B (Request ID: Root=1-6a25f665-483ec68800f92957532fb329;8d57acab-3fe5-4182-9b04-3d3a4b487de7)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",theeseus-ai/CriticalThinker-llama-3.1-8B,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=thegeeksinfo%2Fopenmrs-nlp-sql (Request ID: Root=1-6a25f666-63444e2c0b8068e03c911ba7;388d8454-e0b5-47f3-9954-f7460c447694)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",thegeeksinfo/openmrs-nlp-sql,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=thesven%2FAether-Qwen2-0.5B-SFT-v0.0.2 (Request ID: Root=1-6a25f666-5691627a70e704884a8d4b5d;cc5ad309-92e5-4a0c-b535-01484731fff8)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",thesven/Aether-Qwen2-0.5B-SFT-v0.0.2,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=thesven%2FPhi-3-mini-128k-instruct-GGUF (Request ID: Root=1-6a25f666-1dbd1dac392ca8bb4cb44243;73e8af86-70da-4579-aed1-df09f9f20a34)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",thesven/Phi-3-mini-128k-instruct-GGUF,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=thewallran%2FQwen3-4B-Instruct-2507-heretic (Request ID: Root=1-6a25f667-010351c567cbd25e0f047709;d08ea21a-5d3a-4684-b083-2623b889f1cf)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",thewallran/Qwen3-4B-Instruct-2507-heretic,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=threenewbee%2FBabelbit-bb59 (Request ID: Root=1-6a25f667-488d23c91b66cf336122fe91;1c64add0-67ec-42e7-b53e-edb9891eb331)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",threenewbee/Babelbit-bb59,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=thuniverse-ai%2FSiliconMind-V1-Olmo-3-7B-Think-GGUF (Request ID: Root=1-6a25f667-021051174d1c5c2520a9cbfa;593b728b-3984-467c-b859-8185f479758a)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",thuniverse-ai/SiliconMind-V1-Olmo-3-7B-Think-GGUF,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=thuniverse-ai%2FSiliconMind-V1-Qwen3-8B-GGUF (Request ID: Root=1-6a25f667-5d0396b24b3a7d496362ad1c;2daa3e5a-c817-4ee0-80e2-eae2de162add)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",thuniverse-ai/SiliconMind-V1-Qwen3-8B-GGUF,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=timidlly%2Funified-v1 (Request ID: Root=1-6a25f667-3a3e64f3253fbcae62516977;11cf26a4-ea12-44de-8f11-89ef0a3e8ef4)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",timidlly/unified-v1,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=tokyotech-llm%2FLlama-3-Swallow-70B-Instruct-v0.1 (Request ID: Root=1-6a25f668-66c2a6bb6f26dddf6e91a2c6;75476b65-0f67-4e08-96e0-89bdb6db165e)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",tokyotech-llm/Llama-3-Swallow-70B-Instruct-v0.1,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=tokyotech-llm%2FLlama-3-Swallow-8B-Instruct-v0.1 (Request ID: Root=1-6a25f668-442ce6a655af25f077157057;b45e3205-9cfa-4c21-a944-c16fff5d58e4)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",tokyotech-llm/Llama-3-Swallow-8B-Instruct-v0.1,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=tokyotech-llm%2FLlama-3.1-Swallow-8B-Instruct-v0.1 (Request ID: Root=1-6a25f668-27196f2b2af4dd7e64dd9cc6;8ebae855-49ea-4b9b-87ac-48b3031a352e)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",tokyotech-llm/Llama-3.1-Swallow-8B-Instruct-v0.1,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=tokyotech-llm%2FLlama-3.1-Swallow-8B-Instruct-v0.3 (Request ID: Root=1-6a25f669-463d7df6357c2936177beca5;4187ea4d-4816-42bc-92ff-f9ab36619bd4)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",tokyotech-llm/Llama-3.1-Swallow-8B-Instruct-v0.3,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=tokyotech-llm%2FQwen3-Swallow-30B-A3B-RL-v0.2-AWQ-INT4 (Request ID: Root=1-6a25f669-336a103f3b33a4ec7751df57;53fc6d8b-b93d-48bd-9398-0013024bd50e)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",tokyotech-llm/Qwen3-Swallow-30B-A3B-RL-v0.2-AWQ-INT4,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=tokyotech-llm%2FSwallow-MS-7b-v0.1 (Request ID: Root=1-6a25f669-082630874317ed7e298909d9;521b7777-087a-4256-8155-c034ce4eb77e)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",tokyotech-llm/Swallow-MS-7b-v0.1,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=tool-genesis%2FTool-Genesis-Qwen3-8B-SFT (Request ID: Root=1-6a25f669-1d111ef40dda64bc483dc44b;f9d03a0e-d9fd-4e98-9932-e66949fcd954)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",tool-genesis/Tool-Genesis-Qwen3-8B-SFT,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=toolevalxm%2FCodeWeave-LlamaCode (Request ID: Root=1-6a25f669-522f1e2903d93f1f7bccce10;e872706a-fb0a-4c85-b18e-d5ee11d6a36d)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",toolevalxm/CodeWeave-LlamaCode,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=tooljay%2FMyAwesomeModel-TestRepo (Request ID: Root=1-6a25f66a-7ea1416f5086cc1c4a421937;c2954563-bdb7-4431-b3e5-20678fb6a190)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",tooljay/MyAwesomeModel-TestRepo,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=toughcent%2FQwen3-VL-8B-Thinking-bnb-8bit (Request ID: Root=1-6a25f66a-46bb6ecf28826ea80f870ef3;409f7ce5-2b98-4931-a268-cd0c54dfb964)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",toughcent/Qwen3-VL-8B-Thinking-bnb-8bit,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=tripolskypetr%2Fcommand_a_gguf (Request ID: Root=1-6a25f66a-3ebea558492bcef44913532e;d770cb58-8028-4ceb-adc6-e5d559cc93eb)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",tripolskypetr/command_a_gguf,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=truongcongminh%2FAI_captone1 (Request ID: Root=1-6a25f66b-7451b99866470a5757820430;3739a57e-7383-4ab7-8faa-683f2e91b6d2)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",truongcongminh/AI_captone1,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=tryumanshow%2FQwen3-4B-no-think (Request ID: Root=1-6a25f66b-05eeee8f3a58452700034fba;16eb82ba-6df2-41b2-8e12-0e4bb549c90f)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",tryumanshow/Qwen3-4B-no-think,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=tryumanshow%2FQwen3-8B-no-think (Request ID: Root=1-6a25f66b-6fb2422b37365fc87ebded63;66190b0f-5e1e-4ae7-a1df-0c6a244cddb4)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",tryumanshow/Qwen3-8B-no-think,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=tzervas%2Ftritter-100m-bitnet (Request ID: Root=1-6a25f66b-6fedfa20170d6c2848f34873;4dff1368-ece3-4628-86f1-5b2a3f0e37c0)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",tzervas/tritter-100m-bitnet,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=tzervas%2Ftritter-500m-bitnet (Request ID: Root=1-6a25f66b-4533e932571c10203f6b6860;b8f07ca3-fc53-4552-8429-fdcc59731c8b)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",tzervas/tritter-500m-bitnet,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=uaytug%2FuCoder-8b-base-GGUF (Request ID: Root=1-6a25f66c-02c24a273483cbbd3d952f87;7a0ddced-ca58-40c2-99ac-fed6a88b7030)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",uaytug/uCoder-8b-base-GGUF,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=umjunsik1323%2FQwen2.5-Coder-1.5B-roblox (Request ID: Root=1-6a25f66c-1007605c3f9671802bdc3c12;de18cfab-1c57-46e2-8fc9-54b9e6c6b46b)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",umjunsik1323/Qwen2.5-Coder-1.5B-roblox,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=unlimitedbytes%2Fgptoss-bigcodebench-20b-lora (Request ID: Root=1-6a25f66c-56b3d0884875c16b57477613;35d53e60-2efc-4fa6-915e-28c35867b527)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",unlimitedbytes/gptoss-bigcodebench-20b-lora,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=unsloth%2FGLM-4.6-GGUF (Request ID: Root=1-6a25f66d-39ed47886f77617473a5a708;a8e88242-caa8-4190-acaa-e8998031d0d5)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",unsloth/GLM-4.6-GGUF,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=unsloth%2FGLM-4.6-REAP-268B-A32B-GGUF (Request ID: Root=1-6a25f66d-106448ba63706b7819d5bdd3;79c6bf27-924b-4b5f-baf7-63ef5400a9a3)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",unsloth/GLM-4.6-REAP-268B-A32B-GGUF,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=unsloth%2FGLM-4.7-REAP-218B-A32B-GGUF (Request ID: Root=1-6a25f66d-147ec35824a49a2225e8df90;21740c06-2823-468c-971a-cc173c5e26c9)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",unsloth/GLM-4.7-REAP-218B-A32B-GGUF,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=unsloth%2FJanusCoder-14B (Request ID: Root=1-6a25f66d-5a30d25f5fae0cbe1b2427e5;05084cc4-f3e0-4801-a83a-eafd70fc7754)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",unsloth/JanusCoder-14B,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=unsloth%2FPhi-3.5-mini-instruct (Request ID: Root=1-6a25f66e-2cea0c4a174c81ba0f9a90c0;738489a5-7904-40ef-864c-fb04a95ed495)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",unsloth/Phi-3.5-mini-instruct,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=unsloth%2FPhi-4-mini-instruct (Request ID: Root=1-6a25f66e-7f5f2c73736425682ad6bf43;e7999f22-82df-4dc6-9c05-87213b713315)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",unsloth/Phi-4-mini-instruct,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=unsloth%2FQwen2.5-Coder-1.5B-Instruct-bnb-4bit (Request ID: Root=1-6a25f66e-3670b0d810e9bd584ee12888;c92f2027-de98-4a68-808d-ae8cf1d8b183)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",unsloth/Qwen2.5-Coder-1.5B-Instruct-bnb-4bit,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=unsloth%2FQwen2.5-Coder-1.5B-bnb-4bit (Request ID: Root=1-6a25f66e-386455bc27d5ddc9683a8864;16bd5812-ee49-4397-9559-26eec6d4aa52)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",unsloth/Qwen2.5-Coder-1.5B-bnb-4bit,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=unsloth%2FQwen3-235B-A22B-Instruct-2507-FP8 (Request ID: Root=1-6a25f66e-024eaf42352e4150537c5c21;1375fcec-6a5c-420e-8696-57dd8e289197)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",unsloth/Qwen3-235B-A22B-Instruct-2507-FP8,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=unsloth%2FQwen3-235B-A22B-Instruct-2507-GGUF (Request ID: Root=1-6a25f66f-49e3d1220d72128170a2581d;96d819dc-f2ff-4be9-a8bb-3e5f2ad656cd)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",unsloth/Qwen3-235B-A22B-Instruct-2507-GGUF,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=unsloth%2FQwen3-4B-Instruct-2507-FP8 (Request ID: Root=1-6a25f66f-40d5c4de3bf846571f84da76;9509c160-7dfb-49bb-a31c-f147bc42a457)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",unsloth/Qwen3-4B-Instruct-2507-FP8,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=unsloth%2FQwen3-4B-Thinking-2507-GGUF (Request ID: Root=1-6a25f66f-51d8e4e04213b7af43c5a1b9;b63378de-4fa5-43a7-b027-d273b1a31ec8)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",unsloth/Qwen3-4B-Thinking-2507-GGUF,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=unsloth%2FQwen3-Coder-30B-A3B-Instruct (Request ID: Root=1-6a25f66f-7f5f684013a284000a0f0599;8ff6326a-019d-4f27-858c-164a24d9ba8a)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",unsloth/Qwen3-Coder-30B-A3B-Instruct,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=unsloth%2FQwen3-VL-235B-A22B-Instruct-GGUF (Request ID: Root=1-6a25f670-00b46551114d95c626f13166;35a5d7c0-72c8-4fc7-b7a7-b2214a334929)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",unsloth/Qwen3-VL-235B-A22B-Instruct-GGUF,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=unsloth%2FQwen3-VL-2B-Instruct-GGUF (Request ID: Root=1-6a25f670-16671a2c0c2568e02d7fb7e7;c3529e74-965a-4d04-9b11-f870bca2ec6f)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",unsloth/Qwen3-VL-2B-Instruct-GGUF,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=unsloth%2FQwen3-VL-30B-A3B-Thinking (Request ID: Root=1-6a25f670-3703ba7564b0687144ca1cac;ea96909d-0234-41e3-863d-03c4b0017ca9)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",unsloth/Qwen3-VL-30B-A3B-Thinking,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=unsloth%2FQwen3-VL-30B-A3B-Thinking-FP8 (Request ID: Root=1-6a25f670-1745f39977895f4b1001a9a9;5e44a0e1-01a3-4b86-ad04-1c40c12fa8c6)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",unsloth/Qwen3-VL-30B-A3B-Thinking-FP8,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=unsloth%2FQwen3-VL-32B-Thinking-GGUF (Request ID: Root=1-6a25f671-7809458374be0f7e50620d12;9596cf10-0196-4975-97cb-7ee7c6f126ca)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",unsloth/Qwen3-VL-32B-Thinking-GGUF,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=unsloth%2FQwen3-VL-8B-Instruct-GGUF (Request ID: Root=1-6a25f671-7ac4fe43726a4aaa17ef96f3;99386c4a-ef6d-40c7-aba5-66792230d681)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",unsloth/Qwen3-VL-8B-Instruct-GGUF,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=unsloth%2FQwen3-VL-8B-Thinking-bnb-4bit (Request ID: Root=1-6a25f671-6255226f6b5f42534037dea5;9fb7c421-cf8e-49d6-8a55-3286abc1fcc9)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",unsloth/Qwen3-VL-8B-Thinking-bnb-4bit,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=unsloth%2Fc4ai-command-r-08-2024-bnb-4bit (Request ID: Root=1-6a25f672-2ddc7c6a212dd78740909e46;c25c7095-7ba9-4ae1-b7a4-e0e737925564)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",unsloth/c4ai-command-r-08-2024-bnb-4bit,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=unsloth%2Fc4ai-command-r-plus-08-2024 (Request ID: Root=1-6a25f672-40622c0c110c9ce2583a6abb;fdb0c44b-12ca-4221-aa76-8eafe663269c)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",unsloth/c4ai-command-r-plus-08-2024,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=unsloth%2Fgranite-4.0-h-micro-base (Request ID: Root=1-6a25f672-278b7d2c16cb829d2e825f7c;0d869ac5-8384-4322-9e18-27dddce90d9e)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",unsloth/granite-4.0-h-micro-base,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=unsloth%2Fgranite-4.0-h-micro-base-bnb-4bit (Request ID: Root=1-6a25f672-55c25a4420391169120c413c;b635658e-f701-48b0-afa4-488454292829)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",unsloth/granite-4.0-h-micro-base-bnb-4bit,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=unsloth%2Fgranite-4.0-h-small-base (Request ID: Root=1-6a25f673-113b2fa905bc590371408d61;9a3a7e3e-7c15-444c-a132-28927ca213da)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",unsloth/granite-4.0-h-small-base,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=unsloth%2Fgranite-4.0-h-tiny (Request ID: Root=1-6a25f673-3a8fb6563bc9c20c2a632c32;1bdd9f76-fae9-49b1-8f35-022f9e7bb06a)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",unsloth/granite-4.0-h-tiny,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=unsloth%2Fgranite-4.0-micro-base (Request ID: Root=1-6a25f673-03915f0b593348715da31aa3;15fd8be4-c8ae-4e88-be51-4fa609ec1ab0)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",unsloth/granite-4.0-micro-base,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=unsloth%2Fphi-4 (Request ID: Root=1-6a25f674-43147da3660951957f01dd4d;0246e526-d9c7-4491-b443-63fcd4dd5045)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",unsloth/phi-4,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=unsloth%2Frnj-1-instruct-GGUF (Request ID: Root=1-6a25f674-60336e24453e05823a6c3e46;8bcd40b6-8f24-41a0-a578-3b6bf57b5646)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",unsloth/rnj-1-instruct-GGUF,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=uukuguy%2Fspeechless-code-mistral-7b-v1.0 (Request ID: Root=1-6a25f674-22a56726202eb3b37bbaa519;d0bd70ac-cd3f-4236-bda2-2b14543765e8)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",uukuguy/speechless-code-mistral-7b-v1.0,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=uukuguy%2Fspeechless-code-mistral-7b-v2.0 (Request ID: Root=1-6a25f674-453aaa2158b4c5957688f622;6e3d56d8-e87a-48e9-a841-ad90dca1c5b5)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",uukuguy/speechless-code-mistral-7b-v2.0,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=uukuguy%2Fspeechless-codellama-34b-v2.0 (Request ID: Root=1-6a25f675-77a5f4fe44a51098382d841f;ae1ebddb-62dd-4499-92ac-b67a515babac)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",uukuguy/speechless-codellama-34b-v2.0,space_by_model,error
+"429 Client Error: Too Many Requests for url: https://huggingface.co/api/spaces?models=uukuguy%2Fspeechless-coding-7b-16k-tora (Request ID: Root=1-6a25f675-5eae45a17c8b3b786f6f83de;145e9d75-cb23-469c-adc4-2300c17789ce)
+
+We had to rate limit you, you hit the quota of 1000 api requests per 5 minutes period. Upgrade to a PRO user or Team/Enterprise organization account (https://hf.co/pricing) to get higher limits. See https://huggingface.co/docs/hub/rate-limits",uukuguy/speechless-coding-7b-16k-tora,space_by_model,error
+w3: exceeded retry budget for https://huggingface.co/api/collections/Greythe7th/localai-6973e19519551f6faff75283,Greythe7th/localai-6973e19519551f6faff75283,collection,error
+w0: exceeded retry budget for https://huggingface.co/api/collections/The14thPrime/research-689ed647d718d1ba4a784f0f,The14thPrime/research-689ed647d718d1ba4a784f0f,collection,error
+w1: exceeded retry budget for https://huggingface.co/api/collections/grannygoestoheaven/educational-models-67b5dccf7091b54e235d67a4,grannygoestoheaven/educational-models-67b5dccf7091b54e235d67a4,collection,error
+w2: exceeded retry budget for https://huggingface.co/api/collections/prithivMLmods/optimus-reasoning-67a10fe20e5fd8baf5416c40,prithivMLmods/optimus-reasoning-67a10fe20e5fd8baf5416c40,collection,error
+w3: exceeded retry budget for https://huggingface.co/api/collections/tomtony12/for-nxp-imx8-boards-68768a9e90b25511142ec54f,tomtony12/for-nxp-imx8-boards-68768a9e90b25511142ec54f,collection,error
+,0000.00000,paper_info,not_found
+,2401.00000,paper_info,not_found

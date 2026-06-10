@@ -1,0 +1,1744 @@
+"model_id","repository_id","benchmark_name","implementation","language","metric","config","score"
+AshtonIsNotHere/CodeLlama_7B_nlp_pp,78,AshtonIsNotHere/nlp_pp_code_dataset,Unknown,Unknown,Accuracy,Unknown,89.68
+BenevolenceMessiah/Replete-Coder-Llama3-8B-Q8_0-GGUF,85,HumanEval,Unknown,Unknown,Pass@1,Unknown,64.68
+Deci/DeciCoder-1b,137,MultiPL-HumanEval,Unknown,Java,Pass@1,Unknown,16.6
+Deci/DeciCoder-1b,137,MultiPL-HumanEval,Unknown,JavaScript,Pass@1,Unknown,18.4
+Deci/DeciCoder-1b,137,MultiPL-HumanEval,Unknown,Python,Pass@1,Unknown,19.1
+EpistemeAI/Fireball-Meta-Llama-3.1-8B-Instruct-Agent-0.004-128K-code-COT,150,BBH,3 Shot,Unknown,Normalized Accuracy,Unknown,25.82
+EpistemeAI/Fireball-Meta-Llama-3.1-8B-Instruct-Agent-0.004-128K-code-COT,150,GPQA,0 Shot,Unknown,Normalized Accuracy,Unknown,5.82
+EpistemeAI/Fireball-Meta-Llama-3.1-8B-Instruct-Agent-0.004-128K-code-COT,150,IFEval,0 Shot,Unknown,Strict Accuracy,Unknown,45.78
+EpistemeAI/Fireball-Meta-Llama-3.1-8B-Instruct-Agent-0.004-128K-code-COT,150,MATH Lvl 5,4 Shot,Unknown,Exact Match,Unknown,12.39
+EpistemeAI/Fireball-Meta-Llama-3.1-8B-Instruct-Agent-0.004-128K-code-COT,150,Measuring Massive Multitask Language Understanding (MMLU),PRO 5 Shot,Unknown,Accuracy,Unknown,27.45
+EpistemeAI/Fireball-Meta-Llama-3.1-8B-Instruct-Agent-0.004-128K-code-COT,150,MuSR,0 Shot,Unknown,Normalized Accuracy,Unknown,6.45
+EpistemeAI2/Fireball-Meta-Llama-3.1-8B-Instruct-Agent-0.003-128K-code-math,151,BBH,3 Shot,Unknown,Normalized Accuracy,Unknown,26.74
+EpistemeAI2/Fireball-Meta-Llama-3.1-8B-Instruct-Agent-0.003-128K-code-math,151,GPQA,0 Shot,Unknown,Normalized Accuracy,Unknown,7.27
+EpistemeAI2/Fireball-Meta-Llama-3.1-8B-Instruct-Agent-0.003-128K-code-math,151,IFEval,0 Shot,Unknown,Strict Accuracy,Unknown,55.15
+EpistemeAI2/Fireball-Meta-Llama-3.1-8B-Instruct-Agent-0.003-128K-code-math,151,MATH Lvl 5,4 Shot,Unknown,Exact Match,Unknown,12.01
+EpistemeAI2/Fireball-Meta-Llama-3.1-8B-Instruct-Agent-0.003-128K-code-math,151,Measuring Massive Multitask Language Understanding (MMLU),PRO 5 Shot,Unknown,Accuracy,Unknown,26.89
+EpistemeAI2/Fireball-Meta-Llama-3.1-8B-Instruct-Agent-0.003-128K-code-math,151,MuSR,0 Shot,Unknown,Normalized Accuracy,Unknown,6.79
+EpistemeAI2/Fireball-Meta-Llama-3.1-8B-Instruct-Agent-0.005-128K-code-COT,152,BBH,3 Shot,Unknown,Normalized Accuracy,Unknown,26.4
+EpistemeAI2/Fireball-Meta-Llama-3.1-8B-Instruct-Agent-0.005-128K-code-COT,152,GPQA,0 Shot,Unknown,Normalized Accuracy,Unknown,8.28
+EpistemeAI2/Fireball-Meta-Llama-3.1-8B-Instruct-Agent-0.005-128K-code-COT,152,IFEval,0 Shot,Unknown,Strict Accuracy,Unknown,46.33
+EpistemeAI2/Fireball-Meta-Llama-3.1-8B-Instruct-Agent-0.005-128K-code-COT,152,MATH Lvl 5,4 Shot,Unknown,Exact Match,Unknown,10.5
+EpistemeAI2/Fireball-Meta-Llama-3.1-8B-Instruct-Agent-0.005-128K-code-COT,152,Measuring Massive Multitask Language Understanding (MMLU),PRO 5 Shot,Unknown,Accuracy,Unknown,28.5
+EpistemeAI2/Fireball-Meta-Llama-3.1-8B-Instruct-Agent-0.005-128K-code-COT,152,MuSR,0 Shot,Unknown,Normalized Accuracy,Unknown,5.01
+HIT-SCIR/Chinese-Mixtral-8x7B,176,AI2 Reasoning Challenge,25 Shot,Unknown,Normalized Accuracy,Unknown,63.57
+HIT-SCIR/Chinese-Mixtral-8x7B,176,Grade School Math 8K (GSM8K),5 Shot,Unknown,Accuracy,Unknown,51.71
+HIT-SCIR/Chinese-Mixtral-8x7B,176,HellaSwag,10 Shot,Unknown,Normalized Accuracy,Unknown,85.98
+HIT-SCIR/Chinese-Mixtral-8x7B,176,Measuring Massive Multitask Language Understanding (MMLU),5 Shot,Unknown,Accuracy,Unknown,70.95
+HIT-SCIR/Chinese-Mixtral-8x7B,176,TruthfulQA,0 Shot,Unknown,MC2,Unknown,45.86
+HIT-SCIR/Chinese-Mixtral-8x7B,176,WinoGrande,5 Shot,Unknown,Accuracy,Unknown,82.08
+Intel/neural-chat-7b-v1-1,197,Intel/neural-chat-dataset-v1-1,Unknown,Unknown,ARC,25 Shot,50.09
+Intel/neural-chat-7b-v1-1,197,Intel/neural-chat-dataset-v1-1,Unknown,Unknown,Average,Unknown,51.41
+Intel/neural-chat-7b-v1-1,197,Intel/neural-chat-dataset-v1-1,Unknown,Unknown,HellaSwag,10 Shot,76.69
+Intel/neural-chat-7b-v1-1,197,Intel/neural-chat-dataset-v1-1,Unknown,Unknown,MMLU,5 Shot,38.79
+Intel/neural-chat-7b-v1-1,197,Intel/neural-chat-dataset-v1-1,Unknown,Unknown,Toxicity Rito,Unknown,2.64
+Intel/neural-chat-7b-v1-1,197,Intel/neural-chat-dataset-v1-1,Unknown,Unknown,TruthfulQA,0 Shot,40.07
+LLM360/CrystalChat,218,ARC,Challenge,Unknown,Accuracy,0 Shot,44.62
+LLM360/CrystalChat,218,ARC,Challenge,Unknown,Accuracy,25 Shot,51.71
+LLM360/CrystalChat,218,ARC,Easy,Unknown,Accuracy,0 Shot,70.33
+LLM360/CrystalChat,218,BoolQ,Unknown,Unknown,Accuracy,0 Shot,82.78
+LLM360/CrystalChat,218,COPA,Unknown,Unknown,Accuracy,0 Shot,85.0
+LLM360/CrystalChat,218,Grade School Math 8K (GSM8K),Unknown,Unknown,Accuracy,5 Shot,28.05
+LLM360/CrystalChat,218,HellaSwag,Unknown,Unknown,Accuracy,0 Shot,73.31
+LLM360/CrystalChat,218,HellaSwag,Unknown,Unknown,Accuracy,10 Shot,76.12
+LLM360/CrystalChat,218,HumanEval,Unknown,Unknown,Pass@1,Threshold = 0.2,34.12
+LLM360/CrystalChat,218,HumanEval,Unknown,Unknown,Pass@10,Threshold = 0.8,65.75
+LLM360/CrystalChat,218,Measuring Massive Multitask Language Understanding (MMLU),Unknown,Unknown,Accuracy,0 Shot,52.79
+LLM360/CrystalChat,218,Measuring Massive Multitask Language Understanding (MMLU),Unknown,Unknown,Accuracy,5 Shot,53.22
+LLM360/CrystalChat,218,Mostly Basic Python Problems (MBPP),Unknown,Unknown,Pass@1,Threshold = 0.1,39.11
+LLM360/CrystalChat,218,Mostly Basic Python Problems (MBPP),Unknown,Unknown,Pass@10,Threshold = 0.8,59.9
+LLM360/CrystalChat,218,OpenBookQA,Unknown,Unknown,Accuracy,0 Shot,42.0
+LLM360/CrystalChat,218,PIQA,Unknown,Unknown,Accuracy,0 Shot,77.86
+LLM360/CrystalChat,218,RACE,Unknown,Unknown,Accuracy,0 Shot,41.15
+LLM360/CrystalChat,218,TruthfulQA,Unknown,Unknown,Accuracy,0 Shot,47.29
+LLM360/CrystalChat,218,WinoGrande,Unknown,Unknown,Accuracy,0 Shot,68.11
+LLM360/CrystalChat,218,WinoGrande,Unknown,Unknown,Accuracy,5 Shot,70.64
+LiteLLMs/starcoder2-15b-instruct-v0.1-GGUF,241,DS-1000,Unknown,Unknown,Pass@1,Unknown,40.6
+LiteLLMs/starcoder2-15b-instruct-v0.1-GGUF,241,HumanEval,HumanEval+,Unknown,Pass@1,Unknown,63.4
+LiteLLMs/starcoder2-15b-instruct-v0.1-GGUF,241,HumanEval,Unknown,Unknown,Pass@1,Unknown,72.6
+LiteLLMs/starcoder2-15b-instruct-v0.1-GGUF,241,LiveCodeBench,Code Execution,Unknown,Pass@1,Unknown,28.1
+LiteLLMs/starcoder2-15b-instruct-v0.1-GGUF,241,LiveCodeBench,Code Generation,Unknown,Pass@1,Unknown,20.4
+LiteLLMs/starcoder2-15b-instruct-v0.1-GGUF,241,LiveCodeBench,Self Repair,Unknown,Pass@1,Unknown,20.9
+LiteLLMs/starcoder2-15b-instruct-v0.1-GGUF,241,LiveCodeBench,Test Output Prediction,Unknown,Pass@1,Unknown,29.8
+LiteLLMs/starcoder2-15b-instruct-v0.1-GGUF,241,Mostly Basic Python Problems (MBPP),MBPP+,Unknown,Pass@1,Unknown,61.2
+LiteLLMs/starcoder2-15b-instruct-v0.1-GGUF,241,Mostly Basic Python Problems (MBPP),Unknown,Unknown,Pass@1,Unknown,75.2
+Locutusque/Hercules-2.0-Mistral-7B,242,AI2 Reasoning Challenge,25 Shot,Unknown,Normalized Accuracy,Unknown,61.09
+Locutusque/Hercules-2.0-Mistral-7B,242,Grade School Math 8K (GSM8K),5 Shot,Unknown,Accuracy,Unknown,44.43
+Locutusque/Hercules-2.0-Mistral-7B,242,HellaSwag,10 Shot,Unknown,Normalized Accuracy,Unknown,83.69
+Locutusque/Hercules-2.0-Mistral-7B,242,Measuring Massive Multitask Language Understanding (MMLU),5 Shot,Unknown,Accuracy,Unknown,63.47
+Locutusque/Hercules-2.0-Mistral-7B,242,TruthfulQA,0 Shot,Unknown,MC2,Unknown,43.97
+Locutusque/Hercules-2.0-Mistral-7B,242,WinoGrande,5 Shot,Unknown,Accuracy,Unknown,79.48
+Locutusque/Hercules-2.5-Mistral-7B,243,AI2 Reasoning Challenge,25 Shot,Unknown,Normalized Accuracy,Unknown,62.03
+Locutusque/Hercules-2.5-Mistral-7B,243,Grade School Math 8K (GSM8K),5 Shot,Unknown,Accuracy,Unknown,49.05
+Locutusque/Hercules-2.5-Mistral-7B,243,HellaSwag,10 Shot,Unknown,Normalized Accuracy,Unknown,83.79
+Locutusque/Hercules-2.5-Mistral-7B,243,Measuring Massive Multitask Language Understanding (MMLU),5 Shot,Unknown,Accuracy,Unknown,63.49
+Locutusque/Hercules-2.5-Mistral-7B,243,TruthfulQA,0 Shot,Unknown,MC2,Unknown,43.44
+Locutusque/Hercules-2.5-Mistral-7B,243,WinoGrande,5 Shot,Unknown,Accuracy,Unknown,79.72
+Locutusque/Hercules-3.1-Mistral-7B,245,AI2 Reasoning Challenge,25 Shot,Unknown,Normalized Accuracy,Unknown,61.18
+Locutusque/Hercules-3.1-Mistral-7B,245,Grade School Math 8K (GSM8K),5 Shot,Unknown,Accuracy,Unknown,42.3
+Locutusque/Hercules-3.1-Mistral-7B,245,HellaSwag,10 Shot,Unknown,Normalized Accuracy,Unknown,83.55
+Locutusque/Hercules-3.1-Mistral-7B,245,Measuring Massive Multitask Language Understanding (MMLU),5 Shot,Unknown,Accuracy,Unknown,63.65
+Locutusque/Hercules-3.1-Mistral-7B,245,TruthfulQA,0 Shot,Unknown,MC2,Unknown,42.83
+Locutusque/Hercules-3.1-Mistral-7B,245,WinoGrande,5 Shot,Unknown,Accuracy,Unknown,79.01
+Locutusque/Hercules-4.0-Mistral-v0.2-7B,246,AI2 Reasoning Challenge,25 Shot,Unknown,Normalized Accuracy,Unknown,58.96
+Locutusque/Hercules-4.0-Mistral-v0.2-7B,246,Grade School Math 8K (GSM8K),5 Shot,Unknown,Accuracy,Unknown,45.41
+Locutusque/Hercules-4.0-Mistral-v0.2-7B,246,HellaSwag,10 Shot,Unknown,Normalized Accuracy,Unknown,82.6
+Locutusque/Hercules-4.0-Mistral-v0.2-7B,246,Measuring Massive Multitask Language Understanding (MMLU),5 Shot,Unknown,Accuracy,Unknown,62.66
+Locutusque/Hercules-4.0-Mistral-v0.2-7B,246,TruthfulQA,0 Shot,Unknown,MC2,Unknown,40.99
+Locutusque/Hercules-4.0-Mistral-v0.2-7B,246,WinoGrande,5 Shot,Unknown,Accuracy,Unknown,78.53
+Locutusque/Hercules-6.1-Llama-3.1-8B,250,BBH,3 Shot,Unknown,Normalized Accuracy,Unknown,24.15
+Locutusque/Hercules-6.1-Llama-3.1-8B,250,GPQA,0 Shot,Unknown,Normalized Accuracy,Unknown,1.45
+Locutusque/Hercules-6.1-Llama-3.1-8B,250,IFEval,0 Shot,Unknown,Strict Accuracy,Unknown,60.07
+Locutusque/Hercules-6.1-Llama-3.1-8B,250,MATH Lvl 5,4 Shot,Unknown,Exact Match,Unknown,15.63
+Locutusque/Hercules-6.1-Llama-3.1-8B,250,Measuring Massive Multitask Language Understanding (MMLU),PRO 5 Shot,Unknown,Accuracy,Unknown,29.65
+Locutusque/Hercules-6.1-Llama-3.1-8B,250,MuSR,0 Shot,Unknown,Normalized Accuracy,Unknown,3.42
+Locutusque/Hyperion-1.5-Mistral-7B,251,AI2 Reasoning Challenge,25 Shot,Unknown,Normalized Accuracy,Unknown,60.49
+Locutusque/Hyperion-1.5-Mistral-7B,251,Grade School Math 8K (GSM8K),5 Shot,Unknown,Accuracy,Unknown,40.49
+Locutusque/Hyperion-1.5-Mistral-7B,251,HellaSwag,10 Shot,Unknown,Normalized Accuracy,Unknown,83.64
+Locutusque/Hyperion-1.5-Mistral-7B,251,Measuring Massive Multitask Language Understanding (MMLU),5 Shot,Unknown,Accuracy,Unknown,63.57
+Locutusque/Hyperion-1.5-Mistral-7B,251,TruthfulQA,0 Shot,Unknown,MC2,Unknown,41.78
+Locutusque/Hyperion-1.5-Mistral-7B,251,WinoGrande,5 Shot,Unknown,Accuracy,Unknown,78.61
+Locutusque/NeuralHyperion-Medium-Preview,259,AI2 Reasoning Challenge,25 Shot,Unknown,Normalized Accuracy,Unknown,60.67
+Locutusque/NeuralHyperion-Medium-Preview,259,Grade School Math 8K (GSM8K),5 Shot,Unknown,Accuracy,Unknown,40.49
+Locutusque/NeuralHyperion-Medium-Preview,259,HellaSwag,10 Shot,Unknown,Normalized Accuracy,Unknown,83.67
+Locutusque/NeuralHyperion-Medium-Preview,259,Measuring Massive Multitask Language Understanding (MMLU),5 Shot,Unknown,Accuracy,Unknown,63.73
+Locutusque/NeuralHyperion-Medium-Preview,259,TruthfulQA,0 Shot,Unknown,MC2,Unknown,42.93
+Locutusque/NeuralHyperion-Medium-Preview,259,WinoGrande,5 Shot,Unknown,Accuracy,Unknown,78.53
+Locutusque/OpenCerebrum-1.0-7b-DPO,260,AI2 Reasoning Challenge,25 Shot,Unknown,Normalized Accuracy,Unknown,62.71
+Locutusque/OpenCerebrum-1.0-7b-DPO,260,Grade School Math 8K (GSM8K),5 Shot,Unknown,Accuracy,Unknown,42.0
+Locutusque/OpenCerebrum-1.0-7b-DPO,260,HellaSwag,10 Shot,Unknown,Normalized Accuracy,Unknown,84.33
+Locutusque/OpenCerebrum-1.0-7b-DPO,260,Measuring Massive Multitask Language Understanding (MMLU),5 Shot,Unknown,Accuracy,Unknown,62.59
+Locutusque/OpenCerebrum-1.0-7b-DPO,260,TruthfulQA,0 Shot,Unknown,MC2,Unknown,44.91
+Locutusque/OpenCerebrum-1.0-7b-DPO,260,WinoGrande,5 Shot,Unknown,Accuracy,Unknown,80.11
+Locutusque/hyperion-medium-preview,264,AI2 Reasoning Challenge,25 Shot,Unknown,Normalized Accuracy,Unknown,60.67
+Locutusque/hyperion-medium-preview,264,Grade School Math 8K (GSM8K),5 Shot,Unknown,Accuracy,Unknown,40.49
+Locutusque/hyperion-medium-preview,264,HellaSwag,10 Shot,Unknown,Normalized Accuracy,Unknown,83.67
+Locutusque/hyperion-medium-preview,264,Measuring Massive Multitask Language Understanding (MMLU),5 Shot,Unknown,Accuracy,Unknown,63.73
+Locutusque/hyperion-medium-preview,264,TruthfulQA,0 Shot,Unknown,MC2,Unknown,42.93
+Locutusque/hyperion-medium-preview,264,WinoGrande,5 Shot,Unknown,Accuracy,Unknown,78.53
+LoneStriker/speechless-code-mistral-7b-v1.0-3.0bpw-h6-exl2,271,HumanEval,Unknown,Unknown,Pass@1,Unknown,50.0
+M4-ai/tau-1.8B,278,AI2 Reasoning Challenge,25 Shot,Unknown,Normalized Accuracy,Unknown,37.2
+M4-ai/tau-1.8B,278,Grade School Math 8K (GSM8K),5 Shot,Unknown,Accuracy,Unknown,30.17
+M4-ai/tau-1.8B,278,HellaSwag,10 Shot,Unknown,Normalized Accuracy,Unknown,60.26
+M4-ai/tau-1.8B,278,Measuring Massive Multitask Language Understanding (MMLU),5 Shot,Unknown,Accuracy,Unknown,45.96
+M4-ai/tau-1.8B,278,TruthfulQA,0 Shot,Unknown,MC2,Unknown,39.72
+M4-ai/tau-1.8B,278,WinoGrande,5 Shot,Unknown,Accuracy,Unknown,61.09
+MaziyarPanahi/calme-2.1-llama3.1-70b,297,BBH,3 Shot,Unknown,Normalized Accuracy,Unknown,48.55
+MaziyarPanahi/calme-2.1-llama3.1-70b,297,GPQA,0 Shot,Unknown,Normalized Accuracy,Unknown,10.4
+MaziyarPanahi/calme-2.1-llama3.1-70b,297,IFEval,0 Shot,Unknown,Strict Accuracy,Unknown,84.34
+MaziyarPanahi/calme-2.1-llama3.1-70b,297,MATH Lvl 5,4 Shot,Unknown,Exact Match,Unknown,1.44
+MaziyarPanahi/calme-2.1-llama3.1-70b,297,Measuring Massive Multitask Language Understanding (MMLU),PRO 5 Shot,Unknown,Accuracy,Unknown,47.58
+MaziyarPanahi/calme-2.1-llama3.1-70b,297,MuSR,0 Shot,Unknown,Normalized Accuracy,Unknown,13.72
+MaziyarPanahi/calme-2.1-phi3.5-4b,298,BBH,3 Shot,Unknown,Normalized Accuracy,Unknown,36.11
+MaziyarPanahi/calme-2.1-phi3.5-4b,298,GPQA,0 Shot,Unknown,Normalized Accuracy,Unknown,12.53
+MaziyarPanahi/calme-2.1-phi3.5-4b,298,IFEval,0 Shot,Unknown,Strict Accuracy,Unknown,56.59
+MaziyarPanahi/calme-2.1-phi3.5-4b,298,MATH Lvl 5,4 Shot,Unknown,Exact Match,Unknown,14.43
+MaziyarPanahi/calme-2.1-phi3.5-4b,298,Measuring Massive Multitask Language Understanding (MMLU),PRO 5 Shot,Unknown,Accuracy,Unknown,32.61
+MaziyarPanahi/calme-2.1-phi3.5-4b,298,MuSR,0 Shot,Unknown,Normalized Accuracy,Unknown,9.77
+MaziyarPanahi/calme-2.1-qwen2-72b,299,BBH,3 Shot,Unknown,Normalized Accuracy,Unknown,57.33
+MaziyarPanahi/calme-2.1-qwen2-72b,299,GPQA,0 Shot,Unknown,Normalized Accuracy,Unknown,17.45
+MaziyarPanahi/calme-2.1-qwen2-72b,299,IFEval,0 Shot,Unknown,Strict Accuracy,Unknown,81.63
+MaziyarPanahi/calme-2.1-qwen2-72b,299,MATH Lvl 5,4 Shot,Unknown,Exact Match,Unknown,36.03
+MaziyarPanahi/calme-2.1-qwen2-72b,299,Measuring Massive Multitask Language Understanding (MMLU),PRO 5 Shot,Unknown,Accuracy,Unknown,49.05
+MaziyarPanahi/calme-2.1-qwen2-72b,299,MuSR,0 Shot,Unknown,Normalized Accuracy,Unknown,20.15
+MaziyarPanahi/calme-2.1-rys-78b,300,BBH,3 Shot,Unknown,Normalized Accuracy,Unknown,59.47
+MaziyarPanahi/calme-2.1-rys-78b,300,GPQA,0 Shot,Unknown,Normalized Accuracy,Unknown,19.24
+MaziyarPanahi/calme-2.1-rys-78b,300,IFEval,0 Shot,Unknown,Strict Accuracy,Unknown,81.36
+MaziyarPanahi/calme-2.1-rys-78b,300,MATH Lvl 5,4 Shot,Unknown,Exact Match,Unknown,36.4
+MaziyarPanahi/calme-2.1-rys-78b,300,Measuring Massive Multitask Language Understanding (MMLU),PRO 5 Shot,Unknown,Accuracy,Unknown,49.38
+MaziyarPanahi/calme-2.1-rys-78b,300,MuSR,0 Shot,Unknown,Normalized Accuracy,Unknown,19.0
+MaziyarPanahi/calme-2.2-llama3.1-70b,301,BBH,3 Shot,Unknown,Normalized Accuracy,Unknown,54.21
+MaziyarPanahi/calme-2.2-llama3.1-70b,301,GPQA,0 Shot,Unknown,Normalized Accuracy,Unknown,9.96
+MaziyarPanahi/calme-2.2-llama3.1-70b,301,IFEval,0 Shot,Unknown,Strict Accuracy,Unknown,85.93
+MaziyarPanahi/calme-2.2-llama3.1-70b,301,MATH Lvl 5,4 Shot,Unknown,Exact Match,Unknown,2.11
+MaziyarPanahi/calme-2.2-llama3.1-70b,301,Measuring Massive Multitask Language Understanding (MMLU),PRO 5 Shot,Unknown,Accuracy,Unknown,49.05
+MaziyarPanahi/calme-2.2-llama3.1-70b,301,MuSR,0 Shot,Unknown,Normalized Accuracy,Unknown,17.07
+MaziyarPanahi/calme-2.2-qwen2-72b,302,BBH,3 Shot,Unknown,Normalized Accuracy,Unknown,56.8
+MaziyarPanahi/calme-2.2-qwen2-72b,302,GPQA,0 Shot,Unknown,Normalized Accuracy,Unknown,16.55
+MaziyarPanahi/calme-2.2-qwen2-72b,302,IFEval,0 Shot,Unknown,Strict Accuracy,Unknown,80.08
+MaziyarPanahi/calme-2.2-qwen2-72b,302,MATH Lvl 5,4 Shot,Unknown,Exact Match,Unknown,41.16
+MaziyarPanahi/calme-2.2-qwen2-72b,302,Measuring Massive Multitask Language Understanding (MMLU),PRO 5 Shot,Unknown,Accuracy,Unknown,49.27
+MaziyarPanahi/calme-2.2-qwen2-72b,302,MuSR,0 Shot,Unknown,Normalized Accuracy,Unknown,16.52
+MaziyarPanahi/calme-2.2-qwen2.5-72b,303,BBH,3 Shot,Unknown,Normalized Accuracy,Unknown,61.8
+MaziyarPanahi/calme-2.2-qwen2.5-72b,303,GPQA,0 Shot,Unknown,Normalized Accuracy,Unknown,14.54
+MaziyarPanahi/calme-2.2-qwen2.5-72b,303,IFEval,0 Shot,Unknown,Strict Accuracy,Unknown,84.77
+MaziyarPanahi/calme-2.2-qwen2.5-72b,303,MATH Lvl 5,4 Shot,Unknown,Exact Match,Unknown,3.63
+MaziyarPanahi/calme-2.2-qwen2.5-72b,303,Measuring Massive Multitask Language Understanding (MMLU),PRO 5 Shot,Unknown,Accuracy,Unknown,51.31
+MaziyarPanahi/calme-2.2-qwen2.5-72b,303,MuSR,0 Shot,Unknown,Normalized Accuracy,Unknown,12.02
+MaziyarPanahi/calme-2.3-qwen2-72b,304,BBH,3 Shot,Unknown,Normalized Accuracy,Unknown,51.23
+MaziyarPanahi/calme-2.3-qwen2-72b,304,GPQA,0 Shot,Unknown,Normalized Accuracy,Unknown,16.22
+MaziyarPanahi/calme-2.3-qwen2-72b,304,IFEval,0 Shot,Unknown,Strict Accuracy,Unknown,38.5
+MaziyarPanahi/calme-2.3-qwen2-72b,304,MATH Lvl 5,4 Shot,Unknown,Exact Match,Unknown,14.73
+MaziyarPanahi/calme-2.3-qwen2-72b,304,Measuring Massive Multitask Language Understanding (MMLU),PRO 5 Shot,Unknown,Accuracy,Unknown,49.1
+MaziyarPanahi/calme-2.3-qwen2-72b,304,MuSR,0 Shot,Unknown,Normalized Accuracy,Unknown,11.24
+MaziyarPanahi/calme-2.4-rys-78b,305,BBH,3 Shot,Unknown,Normalized Accuracy,Unknown,62.16
+MaziyarPanahi/calme-2.4-rys-78b,305,GPQA,0 Shot,Unknown,Normalized Accuracy,Unknown,20.36
+MaziyarPanahi/calme-2.4-rys-78b,305,IFEval,0 Shot,Unknown,Strict Accuracy,Unknown,80.11
+MaziyarPanahi/calme-2.4-rys-78b,305,MATH Lvl 5,4 Shot,Unknown,Exact Match,Unknown,37.69
+MaziyarPanahi/calme-2.4-rys-78b,305,Measuring Massive Multitask Language Understanding (MMLU),PRO 5 Shot,Unknown,Accuracy,Unknown,66.69
+MaziyarPanahi/calme-2.4-rys-78b,305,MuSR,0 Shot,Unknown,Normalized Accuracy,Unknown,34.57
+mozilla-ai/granite-34b-code-instruct-llamafile,320,HumanEval,Explain,C++,Pass@1,Unknown,42.7
+mozilla-ai/granite-34b-code-instruct-llamafile,320,HumanEval,Explain,Go,Pass@1,Unknown,36.0
+mozilla-ai/granite-34b-code-instruct-llamafile,320,HumanEval,Explain,Java,Pass@1,Unknown,50.6
+mozilla-ai/granite-34b-code-instruct-llamafile,320,HumanEval,Explain,JavaScript,Pass@1,Unknown,45.1
+mozilla-ai/granite-34b-code-instruct-llamafile,320,HumanEval,Explain,Python,Pass@1,Unknown,53.0
+mozilla-ai/granite-34b-code-instruct-llamafile,320,HumanEval,Explain,Rust,Pass@1,Unknown,23.8
+mozilla-ai/granite-34b-code-instruct-llamafile,320,HumanEval,Fix,C++,Pass@1,Unknown,47.0
+mozilla-ai/granite-34b-code-instruct-llamafile,320,HumanEval,Fix,Go,Pass@1,Unknown,51.2
+mozilla-ai/granite-34b-code-instruct-llamafile,320,HumanEval,Fix,Java,Pass@1,Unknown,55.5
+mozilla-ai/granite-34b-code-instruct-llamafile,320,HumanEval,Fix,JavaScript,Pass@1,Unknown,47.6
+mozilla-ai/granite-34b-code-instruct-llamafile,320,HumanEval,Fix,Python,Pass@1,Unknown,54.9
+mozilla-ai/granite-34b-code-instruct-llamafile,320,HumanEval,Fix,Rust,Pass@1,Unknown,45.1
+mozilla-ai/granite-34b-code-instruct-llamafile,320,HumanEval,Synthesis,C++,Pass@1,Unknown,57.9
+mozilla-ai/granite-34b-code-instruct-llamafile,320,HumanEval,Synthesis,Go,Pass@1,Unknown,47.6
+mozilla-ai/granite-34b-code-instruct-llamafile,320,HumanEval,Synthesis,Java,Pass@1,Unknown,62.8
+mozilla-ai/granite-34b-code-instruct-llamafile,320,HumanEval,Synthesis,JavaScript,Pass@1,Unknown,56.7
+mozilla-ai/granite-34b-code-instruct-llamafile,320,HumanEval,Synthesis,Python,Pass@1,Unknown,62.2
+mozilla-ai/granite-34b-code-instruct-llamafile,320,HumanEval,Synthesis,Rust,Pass@1,Unknown,41.5
+Mubin/allmini-ai-embedding-similarity,322,AI Job,Test,Unknown,Cosine Accuracy,Unknown,98.04
+Mubin/allmini-ai-embedding-similarity,322,AI Job,Validation,Unknown,Cosine Accuracy,Unknown,97.03
+Mungert/Refact-1_6B-fim-GGUF,325,DS-1000,Overall Completion,Unknown,Pass@1,Threshold = 0.2,10.1
+Mungert/Refact-1_6B-fim-GGUF,325,HumanEval,Explain,C++,Pass@1,Threshold = 0.2,18.78
+Mungert/Refact-1_6B-fim-GGUF,325,HumanEval,Explain,Java,Pass@1,Threshold = 0.2,20.94
+Mungert/Refact-1_6B-fim-GGUF,325,HumanEval,Explain,JavaScript,Pass@1,Threshold = 0.2,17.86
+Mungert/Refact-1_6B-fim-GGUF,325,HumanEval,Explain,Python,Pass@1,Threshold = 0.2,26.46
+Mungert/Refact-1_6B-fim-GGUF,325,HumanEval,Fix Docs,C++,Pass@1,Threshold = 0.2,25.94
+Mungert/Refact-1_6B-fim-GGUF,325,HumanEval,Fix Docs,Java,Pass@1,Threshold = 0.2,30.76
+Mungert/Refact-1_6B-fim-GGUF,325,HumanEval,Fix Docs,JavaScript,Pass@1,Threshold = 0.2,26.85
+Mungert/Refact-1_6B-fim-GGUF,325,HumanEval,Fix Docs,Python,Pass@1,Threshold = 0.2,26.92
+Mungert/Refact-1_6B-fim-GGUF,325,HumanEval,Fix Docs,Rust,Pass@1,Threshold = 0.2,8.44
+Mungert/Refact-1_6B-fim-GGUF,325,HumanEval,Fix Tests,C++,Pass@1,Threshold = 0.2,13.17
+Mungert/Refact-1_6B-fim-GGUF,325,HumanEval,Fix Tests,Java,Pass@1,Threshold = 0.2,15.12
+Mungert/Refact-1_6B-fim-GGUF,325,HumanEval,Fix Tests,JavaScript,Pass@1,Threshold = 0.2,12.28
+Mungert/Refact-1_6B-fim-GGUF,325,HumanEval,Fix Tests,Python,Pass@1,Threshold = 0.2,18.38
+Mungert/Refact-1_6B-fim-GGUF,325,HumanEval,Fix Tests,Rust,Pass@1,Threshold = 0.2,2.8
+Mungert/Refact-1_6B-fim-GGUF,325,HumanEval,Synthesize,C++,Pass@1,Threshold = 0.2,26.3
+Mungert/Refact-1_6B-fim-GGUF,325,HumanEval,Synthesize,Java,Pass@1,Threshold = 0.2,29.1
+Mungert/Refact-1_6B-fim-GGUF,325,HumanEval,Synthesize,JavaScript,Pass@1,Threshold = 0.2,31.6
+Mungert/Refact-1_6B-fim-GGUF,325,HumanEval,Synthesize,Python,Pass@1,Threshold = 0.2,35.8
+Mungert/Refact-1_6B-fim-GGUF,325,HumanEval,Unknown,Unknown,Pass@1,Threshold = 0.01,32.0
+Mungert/Refact-1_6B-fim-GGUF,325,HumanEval,Unknown,Unknown,Pass@1,Threshold = 0.2,31.5
+Mungert/Refact-1_6B-fim-GGUF,325,HumanEval,Unknown,Unknown,Pass@10,Threshold = 0.8,53.0
+Mungert/Refact-1_6B-fim-GGUF,325,HumanEval,Unknown,Unknown,Pass@100,Threshold = 0.8,76.9
+Mungert/Refact-1_6B-fim-GGUF,325,Mostly Basic Python Problems (MBPP),Unknown,Unknown,Pass@1,Threshold = 0.01,31.15
+Mungert/Refact-1_6B-fim-GGUF,325,MultiPL-HumanEval,Unknown,Bash,Pass@1,Threshold = 0.2,5.7
+Mungert/Refact-1_6B-fim-GGUF,325,MultiPL-HumanEval,Unknown,C#,Pass@1,Threshold = 0.2,13.91
+Mungert/Refact-1_6B-fim-GGUF,325,MultiPL-HumanEval,Unknown,C++,Pass@1,Threshold = 0.2,21.61
+Mungert/Refact-1_6B-fim-GGUF,325,MultiPL-HumanEval,Unknown,D,Pass@1,Threshold = 0.2,9.5
+Mungert/Refact-1_6B-fim-GGUF,325,MultiPL-HumanEval,Unknown,Go,Pass@1,Threshold = 0.2,53.57
+Mungert/Refact-1_6B-fim-GGUF,325,MultiPL-HumanEval,Unknown,Java,Pass@1,Threshold = 0.2,21.58
+Mungert/Refact-1_6B-fim-GGUF,325,MultiPL-HumanEval,Unknown,JavaScript,Pass@1,Threshold = 0.2,26.88
+Mungert/Refact-1_6B-fim-GGUF,325,MultiPL-HumanEval,Unknown,Julia,Pass@1,Threshold = 0.2,13.75
+Mungert/Refact-1_6B-fim-GGUF,325,MultiPL-HumanEval,Unknown,Lua,Pass@1,Threshold = 0.2,15.26
+Mungert/Refact-1_6B-fim-GGUF,325,MultiPL-HumanEval,Unknown,PHP,Pass@1,Threshold = 0.2,23.04
+Mungert/Refact-1_6B-fim-GGUF,325,MultiPL-HumanEval,Unknown,Perl,Pass@1,Threshold = 0.2,12.1
+Mungert/Refact-1_6B-fim-GGUF,325,MultiPL-HumanEval,Unknown,Python,Pass@1,Threshold = 0.2,29.6
+Mungert/Refact-1_6B-fim-GGUF,325,MultiPL-HumanEval,Unknown,R,Pass@1,Threshold = 0.2,13.77
+Mungert/Refact-1_6B-fim-GGUF,325,MultiPL-HumanEval,Unknown,Racket,Pass@1,Threshold = 0.2,4.29
+Mungert/Refact-1_6B-fim-GGUF,325,MultiPL-HumanEval,Unknown,Ruby,Pass@1,Threshold = 0.2,12.68
+Mungert/Refact-1_6B-fim-GGUF,325,MultiPL-HumanEval,Unknown,Rust,Pass@1,Threshold = 0.2,19.54
+Mungert/Refact-1_6B-fim-GGUF,325,MultiPL-HumanEval,Unknown,Scala,Pass@1,Threshold = 0.2,18.33
+Mungert/Refact-1_6B-fim-GGUF,325,MultiPL-HumanEval,Unknown,Swift,Pass@1,Threshold = 0.2,17.68
+Mungert/Refact-1_6B-fim-GGUF,325,MultiPL-HumanEval,Unknown,TypeScript,Pass@1,Threshold = 0.2,25.0
+Phind/Phind-CodeLlama-34B-Python-v1,369,HumanEval,Unknown,Unknown,Pass@1,Unknown,69.5
+Phind/Phind-CodeLlama-34B-v1,370,HumanEval,Unknown,Unknown,Pass@1,Unknown,67.6
+Phind/Phind-CodeLlama-34B-v2,371,HumanEval,Unknown,Unknown,Pass@1,Unknown,73.8
+Qiskit/granite-8b-qiskit,378,HumanEval,Synthesis,Python,Pass@1,Unknown,58.53
+Qiskit/granite-8b-qiskit,378,Qiskit HumanEval,Unknown,Unknown,Pass@1,Unknown,45.69
+Qiskit/granite-8b-qiskit-rc-0.10,379,HumanEval,Synthesis,Python,Pass@1,Unknown,59.14
+QuantFactory/Llama3-8B-Instruct-Replete-Adapted-GGUF,393,HumanEval,Unknown,Unknown,Pass@1,Unknown,64.68
+QuantFactory/starcoder2-15b-instruct-v0.1-GGUF,414,DS-1000,Unknown,Unknown,Pass@1,Unknown,40.6
+QuantFactory/starcoder2-15b-instruct-v0.1-GGUF,414,HumanEval,HumanEval+,Unknown,Pass@1,Unknown,63.4
+QuantFactory/starcoder2-15b-instruct-v0.1-GGUF,414,HumanEval,Unknown,Unknown,Pass@1,Unknown,72.6
+QuantFactory/starcoder2-15b-instruct-v0.1-GGUF,414,LiveCodeBench,Code Execution,Unknown,Pass@1,Unknown,28.1
+QuantFactory/starcoder2-15b-instruct-v0.1-GGUF,414,LiveCodeBench,Code Generation,Unknown,Pass@1,Unknown,20.4
+QuantFactory/starcoder2-15b-instruct-v0.1-GGUF,414,LiveCodeBench,Self Repair,Unknown,Pass@1,Unknown,20.9
+QuantFactory/starcoder2-15b-instruct-v0.1-GGUF,414,LiveCodeBench,Test Output Prediction,Unknown,Pass@1,Unknown,29.8
+QuantFactory/starcoder2-15b-instruct-v0.1-GGUF,414,Mostly Basic Python Problems (MBPP),MBPP+,Unknown,Pass@1,Unknown,61.2
+QuantFactory/starcoder2-15b-instruct-v0.1-GGUF,414,Mostly Basic Python Problems (MBPP),Unknown,Unknown,Pass@1,Unknown,75.2
+SanctumAI/granite-3b-code-instruct-GGUF,764,HumanEval,Explain,C++,Pass@1,Unknown,23.8
+SanctumAI/granite-3b-code-instruct-GGUF,764,HumanEval,Explain,Go,Pass@1,Unknown,14.0
+SanctumAI/granite-3b-code-instruct-GGUF,764,HumanEval,Explain,Java,Pass@1,Unknown,39.0
+SanctumAI/granite-3b-code-instruct-GGUF,764,HumanEval,Explain,JavaScript,Pass@1,Unknown,26.8
+SanctumAI/granite-3b-code-instruct-GGUF,764,HumanEval,Explain,Python,Pass@1,Unknown,39.6
+SanctumAI/granite-3b-code-instruct-GGUF,764,HumanEval,Explain,Rust,Pass@1,Unknown,12.8
+SanctumAI/granite-3b-code-instruct-GGUF,764,HumanEval,Fix,C++,Pass@1,Unknown,31.7
+SanctumAI/granite-3b-code-instruct-GGUF,764,HumanEval,Fix,Go,Pass@1,Unknown,27.4
+SanctumAI/granite-3b-code-instruct-GGUF,764,HumanEval,Fix,Java,Pass@1,Unknown,33.5
+SanctumAI/granite-3b-code-instruct-GGUF,764,HumanEval,Fix,JavaScript,Pass@1,Unknown,28.0
+SanctumAI/granite-3b-code-instruct-GGUF,764,HumanEval,Fix,Python,Pass@1,Unknown,26.8
+SanctumAI/granite-3b-code-instruct-GGUF,764,HumanEval,Fix,Rust,Pass@1,Unknown,16.5
+SanctumAI/granite-3b-code-instruct-GGUF,764,HumanEval,Synthesis,C++,Pass@1,Unknown,40.2
+SanctumAI/granite-3b-code-instruct-GGUF,764,HumanEval,Synthesis,Go,Pass@1,Unknown,31.7
+SanctumAI/granite-3b-code-instruct-GGUF,764,HumanEval,Synthesis,Java,Pass@1,Unknown,41.5
+SanctumAI/granite-3b-code-instruct-GGUF,764,HumanEval,Synthesis,JavaScript,Pass@1,Unknown,43.9
+SanctumAI/granite-3b-code-instruct-GGUF,764,HumanEval,Synthesis,Python,Pass@1,Unknown,51.2
+SanctumAI/granite-3b-code-instruct-GGUF,764,HumanEval,Synthesis,Rust,Pass@1,Unknown,29.3
+SanctumAI/granite-8b-code-instruct-GGUF,765,HumanEval,Explain,C++,Pass@1,Unknown,43.9
+SanctumAI/granite-8b-code-instruct-GGUF,765,HumanEval,Explain,Go,Pass@1,Unknown,36.6
+SanctumAI/granite-8b-code-instruct-GGUF,765,HumanEval,Explain,Java,Pass@1,Unknown,52.4
+SanctumAI/granite-8b-code-instruct-GGUF,765,HumanEval,Explain,JavaScript,Pass@1,Unknown,42.7
+SanctumAI/granite-8b-code-instruct-GGUF,765,HumanEval,Explain,Python,Pass@1,Unknown,53.0
+SanctumAI/granite-8b-code-instruct-GGUF,765,HumanEval,Explain,Rust,Pass@1,Unknown,16.5
+SanctumAI/granite-8b-code-instruct-GGUF,765,HumanEval,Fix,C++,Pass@1,Unknown,39.0
+SanctumAI/granite-8b-code-instruct-GGUF,765,HumanEval,Fix,Go,Pass@1,Unknown,41.5
+SanctumAI/granite-8b-code-instruct-GGUF,765,HumanEval,Fix,Java,Pass@1,Unknown,48.2
+SanctumAI/granite-8b-code-instruct-GGUF,765,HumanEval,Fix,JavaScript,Pass@1,Unknown,40.9
+SanctumAI/granite-8b-code-instruct-GGUF,765,HumanEval,Fix,Python,Pass@1,Unknown,39.6
+SanctumAI/granite-8b-code-instruct-GGUF,765,HumanEval,Fix,Rust,Pass@1,Unknown,32.9
+SanctumAI/granite-8b-code-instruct-GGUF,765,HumanEval,Synthesis,C++,Pass@1,Unknown,48.2
+SanctumAI/granite-8b-code-instruct-GGUF,765,HumanEval,Synthesis,Go,Pass@1,Unknown,43.3
+SanctumAI/granite-8b-code-instruct-GGUF,765,HumanEval,Synthesis,Java,Pass@1,Unknown,58.5
+SanctumAI/granite-8b-code-instruct-GGUF,765,HumanEval,Synthesis,JavaScript,Pass@1,Unknown,52.4
+SanctumAI/granite-8b-code-instruct-GGUF,765,HumanEval,Synthesis,Python,Pass@1,Unknown,57.9
+SanctumAI/granite-8b-code-instruct-GGUF,765,HumanEval,Synthesis,Rust,Pass@1,Unknown,37.2
+TheBloke/Octocoder-GGML,893,HumanEval,Synthesize,Python,Pass@1,Unknown,46.2
+TheBloke/Octocoder-GPTQ,894,HumanEval,Synthesize,Python,Pass@1,Unknown,46.2
+TheBloke/Phind-CodeLlama-34B-Python-v1-AWQ,903,HumanEval,Unknown,Unknown,Pass@1,Unknown,69.5
+TheBloke/Phind-CodeLlama-34B-v1-GGUF,904,HumanEval,Unknown,Unknown,Pass@1,Unknown,67.6
+TheBloke/Phind-CodeLlama-34B-v1-GPTQ,905,HumanEval,Unknown,Unknown,Pass@1,Unknown,67.6
+TheBloke/Phind-CodeLlama-34B-v2-AWQ,906,HumanEval,Unknown,Unknown,Pass@1,Unknown,73.8
+TheBloke/Phind-CodeLlama-34B-v2-GGUF,907,HumanEval,Unknown,Unknown,Pass@1,Unknown,73.8
+TheBloke/Phind-CodeLlama-34B-v2-GPTQ,908,HumanEval,Unknown,Unknown,Pass@1,Unknown,73.8
+TheBloke/WizardCoder-33B-V1.1-AWQ,919,HumanEval,Unknown,Unknown,Pass@1,Unknown,79.9
+TheBloke/WizardCoder-33B-V1.1-GGUF,920,HumanEval,Unknown,Unknown,Pass@1,Unknown,79.9
+TheBloke/WizardCoder-33B-V1.1-GPTQ,921,HumanEval,Unknown,Unknown,Pass@1,Unknown,79.9
+TheBloke/bloomz-176B-GPTQ,929,ANLI,R1,Unknown,Accuracy,Unknown,48.6
+TheBloke/bloomz-176B-GPTQ,929,ANLI,R2,Unknown,Accuracy,Unknown,44.1
+TheBloke/bloomz-176B-GPTQ,929,ANLI,R3,Unknown,Accuracy,Unknown,45.5
+TheBloke/bloomz-176B-GPTQ,929,HumanEval,Unknown,Unknown,Pass@1,Unknown,12.06
+TheBloke/bloomz-176B-GPTQ,929,HumanEval,Unknown,Unknown,Pass@10,Unknown,26.53
+TheBloke/bloomz-176B-GPTQ,929,HumanEval,Unknown,Unknown,Pass@100,Unknown,48.44
+TheBloke/bloomz-176B-GPTQ,929,StoryCloze,2016,Unknown,Accuracy,Unknown,96.26
+TheBloke/bloomz-176B-GPTQ,929,SuperGLUE,Cb,Unknown,Accuracy,Unknown,82.14
+TheBloke/bloomz-176B-GPTQ,929,SuperGLUE,Copa,Unknown,Accuracy,Unknown,91.0
+TheBloke/bloomz-176B-GPTQ,929,SuperGLUE,Rte,Unknown,Accuracy,Unknown,85.56
+TheBloke/bloomz-176B-GPTQ,929,WinoGrande,Xl,Unknown,Accuracy,Unknown,59.27
+TheBloke/bloomz-176B-GPTQ,929,XCOPA,Et,Unknown,Accuracy,Unknown,51.0
+TheBloke/bloomz-176B-GPTQ,929,XCOPA,Ht,Unknown,Accuracy,Unknown,58.0
+TheBloke/bloomz-176B-GPTQ,929,XCOPA,Id,Unknown,Accuracy,Unknown,86.0
+TheBloke/bloomz-176B-GPTQ,929,XCOPA,It,Unknown,Accuracy,Unknown,74.0
+TheBloke/bloomz-176B-GPTQ,929,XCOPA,Qu,Unknown,Accuracy,Unknown,56.0
+TheBloke/bloomz-176B-GPTQ,929,XCOPA,Sw,Unknown,Accuracy,Unknown,64.0
+TheBloke/bloomz-176B-GPTQ,929,XCOPA,Ta,Unknown,Accuracy,Unknown,69.0
+TheBloke/bloomz-176B-GPTQ,929,XCOPA,Th,Unknown,Accuracy,Unknown,58.0
+TheBloke/bloomz-176B-GPTQ,929,XCOPA,Tr,Unknown,Accuracy,Unknown,57.0
+TheBloke/bloomz-176B-GPTQ,929,XCOPA,Vi,Unknown,Accuracy,Unknown,87.0
+TheBloke/bloomz-176B-GPTQ,929,XCOPA,Zh,Unknown,Accuracy,Unknown,90.0
+TheBloke/bloomz-176B-GPTQ,929,XNLI,Ar,Unknown,Accuracy,Unknown,60.68
+TheBloke/bloomz-176B-GPTQ,929,XNLI,Bg,Unknown,Accuracy,Unknown,48.43
+TheBloke/bloomz-176B-GPTQ,929,XNLI,De,Unknown,Accuracy,Unknown,54.38
+TheBloke/bloomz-176B-GPTQ,929,XNLI,El,Unknown,Accuracy,Unknown,47.43
+TheBloke/bloomz-176B-GPTQ,929,XNLI,En,Unknown,Accuracy,Unknown,67.47
+TheBloke/bloomz-176B-GPTQ,929,XNLI,Es,Unknown,Accuracy,Unknown,61.24
+TheBloke/bloomz-176B-GPTQ,929,XNLI,Fr,Unknown,Accuracy,Unknown,61.37
+TheBloke/bloomz-176B-GPTQ,929,XNLI,Hi,Unknown,Accuracy,Unknown,60.2
+TheBloke/bloomz-176B-GPTQ,929,XNLI,Ru,Unknown,Accuracy,Unknown,54.02
+TheBloke/bloomz-176B-GPTQ,929,XNLI,Sw,Unknown,Accuracy,Unknown,52.09
+TheBloke/bloomz-176B-GPTQ,929,XNLI,Th,Unknown,Accuracy,Unknown,43.78
+TheBloke/bloomz-176B-GPTQ,929,XNLI,Tr,Unknown,Accuracy,Unknown,45.7
+TheBloke/bloomz-176B-GPTQ,929,XNLI,Ur,Unknown,Accuracy,Unknown,50.8
+TheBloke/bloomz-176B-GPTQ,929,XNLI,Vi,Unknown,Accuracy,Unknown,61.0
+TheBloke/bloomz-176B-GPTQ,929,XNLI,Zh,Unknown,Accuracy,Unknown,56.91
+TheBloke/bloomz-176B-GPTQ,929,XStoryCloze,Ar,Unknown,Accuracy,Unknown,92.79
+TheBloke/bloomz-176B-GPTQ,929,XStoryCloze,Es,Unknown,Accuracy,Unknown,94.37
+TheBloke/bloomz-176B-GPTQ,929,XStoryCloze,Eu,Unknown,Accuracy,Unknown,86.9
+TheBloke/bloomz-176B-GPTQ,929,XStoryCloze,Hi,Unknown,Accuracy,Unknown,88.42
+TheBloke/bloomz-176B-GPTQ,929,XStoryCloze,Id,Unknown,Accuracy,Unknown,92.12
+TheBloke/bloomz-176B-GPTQ,929,XStoryCloze,My,Unknown,Accuracy,Unknown,52.35
+TheBloke/bloomz-176B-GPTQ,929,XStoryCloze,Ru,Unknown,Accuracy,Unknown,81.73
+TheBloke/bloomz-176B-GPTQ,929,XStoryCloze,Sw,Unknown,Accuracy,Unknown,79.81
+TheBloke/bloomz-176B-GPTQ,929,XStoryCloze,Te,Unknown,Accuracy,Unknown,81.2
+TheBloke/bloomz-176B-GPTQ,929,XStoryCloze,Zh,Unknown,Accuracy,Unknown,93.12
+TheBloke/bloomz-176B-GPTQ,929,XWinograd,En,Unknown,Accuracy,Unknown,69.08
+TheBloke/bloomz-176B-GPTQ,929,XWinograd,Fr,Unknown,Accuracy,Unknown,68.67
+TheBloke/bloomz-176B-GPTQ,929,XWinograd,Jp,Unknown,Accuracy,Unknown,59.65
+TheBloke/bloomz-176B-GPTQ,929,XWinograd,Pt,Unknown,Accuracy,Unknown,64.26
+TheBloke/bloomz-176B-GPTQ,929,XWinograd,Ru,Unknown,Accuracy,Unknown,60.95
+TheBloke/bloomz-176B-GPTQ,929,XWinograd,Zh,Unknown,Accuracy,Unknown,70.24
+TheBloke/speechless-code-mistral-7B-v1.0-AWQ,955,HumanEval,Unknown,Unknown,Pass@1,Unknown,0.0
+TheBloke/speechless-code-mistral-7B-v1.0-GGUF,956,HumanEval,Unknown,Unknown,Pass@1,Unknown,0.0
+TheBloke/speechless-code-mistral-7B-v1.0-GPTQ,957,HumanEval,Unknown,Unknown,Pass@1,Unknown,0.0
+TheBloke/speechless-codellama-34b-v2.0-AWQ,958,HumanEval,Unknown,Unknown,Pass@1,Unknown,75.61
+TheBloke/speechless-codellama-34b-v2.0-GGUF,959,HumanEval,Unknown,Unknown,Pass@1,Unknown,75.61
+TheBloke/speechless-codellama-34b-v2.0-GPTQ,960,HumanEval,Unknown,Unknown,Pass@1,Unknown,75.61
+TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-AWQ,961,HumanEval,Unknown,Unknown,Pass@1,Unknown,34.15
+TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF,962,HumanEval,Unknown,Unknown,Pass@1,Unknown,34.15
+TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GPTQ,963,HumanEval,Unknown,Unknown,Pass@1,Unknown,34.15
+TheBloke/speechless-tora-code-7B-v1.0-AWQ,964,HumanEval,Unknown,Unknown,Pass@1,Unknown,51.83
+TheBloke/speechless-tora-code-7B-v1.0-GGUF,965,HumanEval,Unknown,Unknown,Pass@1,Unknown,51.83
+TheBloke/speechless-tora-code-7B-v1.0-GPTQ,966,HumanEval,Unknown,Unknown,Pass@1,Unknown,51.83
+TheBloke/stablecode-completion-alpha-3b-4k-GGML,967,HumanEval,Unknown,Unknown,Pass@1,Unknown,17.68
+TheBloke/stablecode-completion-alpha-3b-4k-GGML,967,HumanEval,Unknown,Unknown,Pass@10,Unknown,27.01
+TheBloke/stablecode-completion-alpha-3b-4k-GPTQ,968,HumanEval,Unknown,Unknown,Pass@1,Unknown,17.68
+TheBloke/stablecode-completion-alpha-3b-4k-GPTQ,968,HumanEval,Unknown,Unknown,Pass@10,Unknown,27.01
+TheBloke/stablecode-instruct-alpha-3b-GGML,969,HumanEval,Unknown,Unknown,Pass@1,Unknown,26.89
+TheBloke/stablecode-instruct-alpha-3b-GGML,969,HumanEval,Unknown,Unknown,Pass@10,Unknown,36.18
+TobDeBer/PowerMoe-3b-GGUF,990,ARC,Unknown,Unknown,Normalized Accuracy,Unknown,58.1
+TobDeBer/PowerMoe-3b-GGUF,990,BoolQ,Unknown,Unknown,Accuracy,Unknown,65.0
+TobDeBer/PowerMoe-3b-GGUF,990,Grade School Math 8K (GSM8K),5 Shot,Unknown,Accuracy,Unknown,25.9
+TobDeBer/PowerMoe-3b-GGUF,990,HellaSwag,Unknown,Unknown,Normalized Accuracy,Unknown,71.5
+TobDeBer/PowerMoe-3b-GGUF,990,HumanEval,Unknown,Unknown,Pass@1,Unknown,20.1
+TobDeBer/PowerMoe-3b-GGUF,990,Math,4 Shot,Unknown,Accuracy,Unknown,14.8
+TobDeBer/PowerMoe-3b-GGUF,990,Measuring Massive Multitask Language Understanding (MMLU),5 Shot,Unknown,Accuracy,Unknown,42.8
+TobDeBer/PowerMoe-3b-GGUF,990,Mostly Basic Python Problems (MBPP),Unknown,Unknown,Pass@1,Unknown,32.4
+TobDeBer/PowerMoe-3b-GGUF,990,OpenBookQA,Unknown,Unknown,Normalized Accuracy,Unknown,41.0
+TobDeBer/PowerMoe-3b-GGUF,990,PIQA,Unknown,Unknown,Normalized Accuracy,Unknown,79.1
+TobDeBer/PowerMoe-3b-GGUF,990,WinoGrande,Unknown,Unknown,Normalized Accuracy,Unknown,65.0
+Wanfq/FuseLLM-7B,1133,AI2 Reasoning Challenge,25 Shot,Unknown,Normalized Accuracy,Unknown,53.24
+Wanfq/FuseLLM-7B,1133,Grade School Math 8K (GSM8K),5 Shot,Unknown,Accuracy,Unknown,14.33
+Wanfq/FuseLLM-7B,1133,HellaSwag,10 Shot,Unknown,Normalized Accuracy,Unknown,78.72
+Wanfq/FuseLLM-7B,1133,Measuring Massive Multitask Language Understanding (MMLU),5 Shot,Unknown,Accuracy,Unknown,47.93
+Wanfq/FuseLLM-7B,1133,TruthfulQA,0 Shot,Unknown,MC2,Unknown,38.17
+Wanfq/FuseLLM-7B,1133,WinoGrande,5 Shot,Unknown,Accuracy,Unknown,74.03
+WizardLMTeam/WizardCoder-15B-V1.0,1139,HumanEval,Unknown,Unknown,Pass@1,Unknown,57.3
+WizardLMTeam/WizardCoder-33B-V1.1,1140,HumanEval,Unknown,Unknown,Pass@1,Unknown,79.9
+YorkieOH10/starcoder2-15b-instruct-v0.1-Q8_0-GGUF,1152,DS-1000,Unknown,Unknown,Pass@1,Unknown,40.6
+YorkieOH10/starcoder2-15b-instruct-v0.1-Q8_0-GGUF,1152,HumanEval,HumanEval+,Unknown,Pass@1,Unknown,63.4
+YorkieOH10/starcoder2-15b-instruct-v0.1-Q8_0-GGUF,1152,HumanEval,Unknown,Unknown,Pass@1,Unknown,72.6
+YorkieOH10/starcoder2-15b-instruct-v0.1-Q8_0-GGUF,1152,LiveCodeBench,Code Execution,Unknown,Pass@1,Unknown,28.1
+YorkieOH10/starcoder2-15b-instruct-v0.1-Q8_0-GGUF,1152,LiveCodeBench,Code Generation,Unknown,Pass@1,Unknown,20.4
+YorkieOH10/starcoder2-15b-instruct-v0.1-Q8_0-GGUF,1152,LiveCodeBench,Self Repair,Unknown,Pass@1,Unknown,20.9
+YorkieOH10/starcoder2-15b-instruct-v0.1-Q8_0-GGUF,1152,LiveCodeBench,Test Output Prediction,Unknown,Pass@1,Unknown,29.8
+YorkieOH10/starcoder2-15b-instruct-v0.1-Q8_0-GGUF,1152,Mostly Basic Python Problems (MBPP),MBPP+,Unknown,Pass@1,Unknown,61.2
+YorkieOH10/starcoder2-15b-instruct-v0.1-Q8_0-GGUF,1152,Mostly Basic Python Problems (MBPP),Unknown,Unknown,Pass@1,Unknown,75.2
+Zardos/Kant-Test-0.1-Mistral-7B,1155,AI2 Reasoning Challenge,25 Shot,Unknown,Normalized Accuracy,Unknown,62.37
+Zardos/Kant-Test-0.1-Mistral-7B,1155,Grade School Math 8K (GSM8K),5 Shot,Unknown,Accuracy,Unknown,37.98
+Zardos/Kant-Test-0.1-Mistral-7B,1155,HellaSwag,10 Shot,Unknown,Normalized Accuracy,Unknown,82.84
+Zardos/Kant-Test-0.1-Mistral-7B,1155,Measuring Massive Multitask Language Understanding (MMLU),5 Shot,Unknown,Accuracy,Unknown,63.38
+Zardos/Kant-Test-0.1-Mistral-7B,1155,TruthfulQA,0 Shot,Unknown,MC2,Unknown,49.62
+Zardos/Kant-Test-0.1-Mistral-7B,1155,WinoGrande,5 Shot,Unknown,Accuracy,Unknown,78.3
+ZeroXClem/Llama-3.1-8B-AthenaSky-MegaMix,1157,BBH,3 Shot,Unknown,Normalized Accuracy,Unknown,31.39
+ZeroXClem/Llama-3.1-8B-AthenaSky-MegaMix,1157,GPQA,0 Shot,Unknown,Normalized Accuracy,Unknown,3.69
+ZeroXClem/Llama-3.1-8B-AthenaSky-MegaMix,1157,IFEval,0 Shot,Unknown,Strict Accuracy,Unknown,63.01
+ZeroXClem/Llama-3.1-8B-AthenaSky-MegaMix,1157,MATH Lvl 5,4 Shot,Unknown,Exact Match,Unknown,27.95
+ZeroXClem/Llama-3.1-8B-AthenaSky-MegaMix,1157,Measuring Massive Multitask Language Understanding (MMLU),PRO 5 Shot,Unknown,Accuracy,Unknown,27.82
+ZeroXClem/Llama-3.1-8B-AthenaSky-MegaMix,1157,MuSR,0 Shot,Unknown,Normalized Accuracy,Unknown,6.9
+ZeroXClem/Qwen2.5-7B-Qandora-CySec,1161,BBH,3 Shot,Unknown,Normalized Accuracy,Unknown,36.26
+ZeroXClem/Qwen2.5-7B-Qandora-CySec,1161,GPQA,0 Shot,Unknown,Normalized Accuracy,Unknown,6.71
+ZeroXClem/Qwen2.5-7B-Qandora-CySec,1161,IFEval,0 Shot,Unknown,Strict Accuracy,Unknown,67.73
+ZeroXClem/Qwen2.5-7B-Qandora-CySec,1161,MATH Lvl 5,4 Shot,Unknown,Exact Match,Unknown,22.89
+ZeroXClem/Qwen2.5-7B-Qandora-CySec,1161,Measuring Massive Multitask Language Understanding (MMLU),PRO 5 Shot,Unknown,Accuracy,Unknown,38.72
+ZeroXClem/Qwen2.5-7B-Qandora-CySec,1161,MuSR,0 Shot,Unknown,Normalized Accuracy,Unknown,13.41
+ajibawa-2023/Code-13B,1190,AI2 Reasoning Challenge,25 Shot,Unknown,Normalized Accuracy,Unknown,57.34
+ajibawa-2023/Code-13B,1190,Grade School Math 8K (GSM8K),5 Shot,Unknown,Accuracy,Unknown,19.03
+ajibawa-2023/Code-13B,1190,HellaSwag,10 Shot,Unknown,Normalized Accuracy,Unknown,83.28
+ajibawa-2023/Code-13B,1190,Measuring Massive Multitask Language Understanding (MMLU),5 Shot,Unknown,Accuracy,Unknown,53.17
+ajibawa-2023/Code-13B,1190,TruthfulQA,0 Shot,Unknown,MC2,Unknown,42.46
+ajibawa-2023/Code-13B,1190,WinoGrande,5 Shot,Unknown,Accuracy,Unknown,73.56
+ajibawa-2023/Code-290k-13B,1191,AI2 Reasoning Challenge,25 Shot,Unknown,Normalized Accuracy,Unknown,56.06
+ajibawa-2023/Code-290k-13B,1191,Grade School Math 8K (GSM8K),5 Shot,Unknown,Accuracy,Unknown,17.82
+ajibawa-2023/Code-290k-13B,1191,HellaSwag,10 Shot,Unknown,Normalized Accuracy,Unknown,81.55
+ajibawa-2023/Code-290k-13B,1191,Measuring Massive Multitask Language Understanding (MMLU),5 Shot,Unknown,Accuracy,Unknown,51.99
+ajibawa-2023/Code-290k-13B,1191,TruthfulQA,0 Shot,Unknown,MC2,Unknown,37.65
+ajibawa-2023/Code-290k-13B,1191,WinoGrande,5 Shot,Unknown,Accuracy,Unknown,72.69
+ajibawa-2023/Code-290k-6.7B-Instruct,1192,AI2 Reasoning Challenge,25 Shot,Unknown,Normalized Accuracy,Unknown,34.9
+ajibawa-2023/Code-290k-6.7B-Instruct,1192,Grade School Math 8K (GSM8K),5 Shot,Unknown,Accuracy,Unknown,3.49
+ajibawa-2023/Code-290k-6.7B-Instruct,1192,HellaSwag,10 Shot,Unknown,Normalized Accuracy,Unknown,51.99
+ajibawa-2023/Code-290k-6.7B-Instruct,1192,Measuring Massive Multitask Language Understanding (MMLU),5 Shot,Unknown,Accuracy,Unknown,34.89
+ajibawa-2023/Code-290k-6.7B-Instruct,1192,TruthfulQA,0 Shot,Unknown,MC2,Unknown,41.95
+ajibawa-2023/Code-290k-6.7B-Instruct,1192,WinoGrande,5 Shot,Unknown,Accuracy,Unknown,52.64
+ajibawa-2023/Code-Mistral-7B,1196,AI2 Reasoning Challenge,25 Shot,Unknown,Normalized Accuracy,Unknown,64.59
+ajibawa-2023/Code-Mistral-7B,1196,Grade School Math 8K (GSM8K),5 Shot,Unknown,Accuracy,Unknown,68.08
+ajibawa-2023/Code-Mistral-7B,1196,HellaSwag,10 Shot,Unknown,Normalized Accuracy,Unknown,85.29
+ajibawa-2023/Code-Mistral-7B,1196,Measuring Massive Multitask Language Understanding (MMLU),5 Shot,Unknown,Accuracy,Unknown,65.0
+ajibawa-2023/Code-Mistral-7B,1196,TruthfulQA,0 Shot,Unknown,MC2,Unknown,54.64
+ajibawa-2023/Code-Mistral-7B,1196,WinoGrande,5 Shot,Unknown,Accuracy,Unknown,82.24
+ajibawa-2023/OpenHermes-2.5-Code-290k-13B,1197,AI2 Reasoning Challenge,25 Shot,Unknown,Normalized Accuracy,Unknown,57.34
+ajibawa-2023/OpenHermes-2.5-Code-290k-13B,1197,Grade School Math 8K (GSM8K),5 Shot,Unknown,Accuracy,Unknown,58.3
+ajibawa-2023/OpenHermes-2.5-Code-290k-13B,1197,HellaSwag,10 Shot,Unknown,Normalized Accuracy,Unknown,80.48
+ajibawa-2023/OpenHermes-2.5-Code-290k-13B,1197,Measuring Massive Multitask Language Understanding (MMLU),5 Shot,Unknown,Accuracy,Unknown,56.53
+ajibawa-2023/OpenHermes-2.5-Code-290k-13B,1197,TruthfulQA,0 Shot,Unknown,MC2,Unknown,52.5
+ajibawa-2023/OpenHermes-2.5-Code-290k-13B,1197,WinoGrande,5 Shot,Unknown,Accuracy,Unknown,74.82
+ajibawa-2023/Python-Code-33B,1199,AI2 Reasoning Challenge,25 Shot,Unknown,Normalized Accuracy,Unknown,56.31
+ajibawa-2023/Python-Code-33B,1199,Grade School Math 8K (GSM8K),5 Shot,Unknown,Accuracy,Unknown,19.18
+ajibawa-2023/Python-Code-33B,1199,HellaSwag,10 Shot,Unknown,Normalized Accuracy,Unknown,81.01
+ajibawa-2023/Python-Code-33B,1199,Measuring Massive Multitask Language Understanding (MMLU),5 Shot,Unknown,Accuracy,Unknown,54.22
+ajibawa-2023/Python-Code-33B,1199,TruthfulQA,0 Shot,Unknown,MC2,Unknown,44.39
+ajibawa-2023/Python-Code-33B,1199,WinoGrande,5 Shot,Unknown,Accuracy,Unknown,75.22
+ajibawa-2023/Scarlett-Llama-3-8B,1200,AI2 Reasoning Challenge,25 Shot,Unknown,Normalized Accuracy,Unknown,62.63
+ajibawa-2023/Scarlett-Llama-3-8B,1200,Grade School Math 8K (GSM8K),5 Shot,Unknown,Accuracy,Unknown,47.31
+ajibawa-2023/Scarlett-Llama-3-8B,1200,HellaSwag,10 Shot,Unknown,Normalized Accuracy,Unknown,83.86
+ajibawa-2023/Scarlett-Llama-3-8B,1200,Measuring Massive Multitask Language Understanding (MMLU),5 Shot,Unknown,Accuracy,Unknown,66.46
+ajibawa-2023/Scarlett-Llama-3-8B,1200,TruthfulQA,0 Shot,Unknown,MC2,Unknown,56.27
+ajibawa-2023/Scarlett-Llama-3-8B,1200,WinoGrande,5 Shot,Unknown,Accuracy,Unknown,78.06
+ajibawa-2023/Scarlett-Llama-3-8B-v1.0,1201,AI2 Reasoning Challenge,25 Shot,Unknown,Normalized Accuracy,Unknown,62.12
+ajibawa-2023/Scarlett-Llama-3-8B-v1.0,1201,Grade School Math 8K (GSM8K),5 Shot,Unknown,Accuracy,Unknown,43.21
+ajibawa-2023/Scarlett-Llama-3-8B-v1.0,1201,HellaSwag,10 Shot,Unknown,Normalized Accuracy,Unknown,83.98
+ajibawa-2023/Scarlett-Llama-3-8B-v1.0,1201,Measuring Massive Multitask Language Understanding (MMLU),5 Shot,Unknown,Accuracy,Unknown,66.36
+ajibawa-2023/Scarlett-Llama-3-8B-v1.0,1201,TruthfulQA,0 Shot,Unknown,MC2,Unknown,55.98
+ajibawa-2023/Scarlett-Llama-3-8B-v1.0,1201,WinoGrande,5 Shot,Unknown,Accuracy,Unknown,77.9
+arcee-ai/Arcee-Spark,1230,BBH,3 Shot,Unknown,Normalized Accuracy,Unknown,37.14
+arcee-ai/Arcee-Spark,1230,GPQA,0 Shot,Unknown,Normalized Accuracy,Unknown,7.61
+arcee-ai/Arcee-Spark,1230,IFEval,0 Shot,Unknown,Strict Accuracy,Unknown,56.21
+arcee-ai/Arcee-Spark,1230,MATH Lvl 5,4 Shot,Unknown,Exact Match,Unknown,12.31
+arcee-ai/Arcee-Spark,1230,Measuring Massive Multitask Language Understanding (MMLU),PRO 5 Shot,Unknown,Accuracy,Unknown,31.36
+arcee-ai/Arcee-Spark,1230,MuSR,0 Shot,Unknown,Normalized Accuracy,Unknown,8.6
+bartowski/starcoder2-15b-instruct-v0.1-GGUF,1256,DS-1000,Unknown,Unknown,Pass@1,Unknown,40.6
+bartowski/starcoder2-15b-instruct-v0.1-GGUF,1256,HumanEval,HumanEval+,Unknown,Pass@1,Unknown,63.4
+bartowski/starcoder2-15b-instruct-v0.1-GGUF,1256,HumanEval,Unknown,Unknown,Pass@1,Unknown,72.6
+bartowski/starcoder2-15b-instruct-v0.1-GGUF,1256,LiveCodeBench,Code Execution,Unknown,Pass@1,Unknown,28.1
+bartowski/starcoder2-15b-instruct-v0.1-GGUF,1256,LiveCodeBench,Code Generation,Unknown,Pass@1,Unknown,20.4
+bartowski/starcoder2-15b-instruct-v0.1-GGUF,1256,LiveCodeBench,Self Repair,Unknown,Pass@1,Unknown,20.9
+bartowski/starcoder2-15b-instruct-v0.1-GGUF,1256,LiveCodeBench,Test Output Prediction,Unknown,Pass@1,Unknown,29.8
+bartowski/starcoder2-15b-instruct-v0.1-GGUF,1256,Mostly Basic Python Problems (MBPP),MBPP+,Unknown,Pass@1,Unknown,61.2
+bartowski/starcoder2-15b-instruct-v0.1-GGUF,1256,Mostly Basic Python Problems (MBPP),Unknown,Unknown,Pass@1,Unknown,75.2
+bartowski/starcoder2-15b-instruct-v0.1-exl2,1257,DS-1000,Unknown,Unknown,Pass@1,Unknown,40.6
+bartowski/starcoder2-15b-instruct-v0.1-exl2,1257,HumanEval,HumanEval+,Unknown,Pass@1,Unknown,63.4
+bartowski/starcoder2-15b-instruct-v0.1-exl2,1257,HumanEval,Unknown,Unknown,Pass@1,Unknown,72.6
+bartowski/starcoder2-15b-instruct-v0.1-exl2,1257,LiveCodeBench,Code Execution,Unknown,Pass@1,Unknown,28.1
+bartowski/starcoder2-15b-instruct-v0.1-exl2,1257,LiveCodeBench,Code Generation,Unknown,Pass@1,Unknown,20.4
+bartowski/starcoder2-15b-instruct-v0.1-exl2,1257,LiveCodeBench,Self Repair,Unknown,Pass@1,Unknown,20.9
+bartowski/starcoder2-15b-instruct-v0.1-exl2,1257,LiveCodeBench,Test Output Prediction,Unknown,Pass@1,Unknown,29.8
+bartowski/starcoder2-15b-instruct-v0.1-exl2,1257,Mostly Basic Python Problems (MBPP),MBPP+,Unknown,Pass@1,Unknown,61.2
+bartowski/starcoder2-15b-instruct-v0.1-exl2,1257,Mostly Basic Python Problems (MBPP),Unknown,Unknown,Pass@1,Unknown,75.2
+bigcode/octocoder,1261,HumanEval,Explain,Average,Pass@1,Unknown,24.5
+bigcode/octocoder,1261,HumanEval,Explain,C++,Pass@1,Unknown,24.1
+bigcode/octocoder,1261,HumanEval,Explain,Go,Pass@1,Unknown,21.1
+bigcode/octocoder,1261,HumanEval,Explain,Java,Pass@1,Unknown,27.3
+bigcode/octocoder,1261,HumanEval,Explain,JavaScript,Pass@1,Unknown,24.5
+bigcode/octocoder,1261,HumanEval,Explain,Python,Pass@1,Unknown,35.1
+bigcode/octocoder,1261,HumanEval,Explain,Rust,Pass@1,Unknown,14.8
+bigcode/octocoder,1261,HumanEval,Fix,Average,Pass@1,Unknown,27.0
+bigcode/octocoder,1261,HumanEval,Fix,C++,Pass@1,Unknown,26.1
+bigcode/octocoder,1261,HumanEval,Fix,Go,Pass@1,Unknown,30.2
+bigcode/octocoder,1261,HumanEval,Fix,Java,Pass@1,Unknown,30.6
+bigcode/octocoder,1261,HumanEval,Fix,JavaScript,Pass@1,Unknown,28.4
+bigcode/octocoder,1261,HumanEval,Fix,Python,Pass@1,Unknown,30.4
+bigcode/octocoder,1261,HumanEval,Fix,Rust,Pass@1,Unknown,16.5
+bigcode/octocoder,1261,HumanEval,Synthesize,Average,Pass@1,Unknown,35.5
+bigcode/octocoder,1261,HumanEval,Synthesize,C++,Pass@1,Unknown,35.6
+bigcode/octocoder,1261,HumanEval,Synthesize,Go,Pass@1,Unknown,30.4
+bigcode/octocoder,1261,HumanEval,Synthesize,Java,Pass@1,Unknown,38.2
+bigcode/octocoder,1261,HumanEval,Synthesize,JavaScript,Pass@1,Unknown,39.2
+bigcode/octocoder,1261,HumanEval,Synthesize,Python,Pass@1,Unknown,46.2
+bigcode/octocoder,1261,HumanEval,Synthesize,Rust,Pass@1,Unknown,23.4
+bigcode/santacoderpack,1262,HumanEval,Fix,Average,Pass@1,Unknown,3.3
+bigcode/santacoderpack,1262,HumanEval,Fix,C++,Pass@1,Unknown,4.2
+bigcode/santacoderpack,1262,HumanEval,Fix,Go,Pass@1,Unknown,3.6
+bigcode/santacoderpack,1262,HumanEval,Fix,Java,Pass@1,Unknown,1.8
+bigcode/santacoderpack,1262,HumanEval,Fix,JavaScript,Pass@1,Unknown,4.9
+bigcode/santacoderpack,1262,HumanEval,Fix,Python,Pass@1,Unknown,3.2
+bigcode/santacoderpack,1262,HumanEval,Fix,Rust,Pass@1,Unknown,1.7
+bigcode/starcoder2-15b-instruct-v0.1,1263,DS-1000,Unknown,Unknown,Pass@1,Unknown,40.6
+bigcode/starcoder2-15b-instruct-v0.1,1263,HumanEval,HumanEval+,Unknown,Pass@1,Unknown,63.4
+bigcode/starcoder2-15b-instruct-v0.1,1263,HumanEval,Unknown,Unknown,Pass@1,Unknown,72.6
+bigcode/starcoder2-15b-instruct-v0.1,1263,LiveCodeBench,Code Execution,Unknown,Pass@1,Unknown,28.1
+bigcode/starcoder2-15b-instruct-v0.1,1263,LiveCodeBench,Code Generation,Unknown,Pass@1,Unknown,20.4
+bigcode/starcoder2-15b-instruct-v0.1,1263,LiveCodeBench,Self Repair,Unknown,Pass@1,Unknown,20.9
+bigcode/starcoder2-15b-instruct-v0.1,1263,LiveCodeBench,Test Output Prediction,Unknown,Pass@1,Unknown,29.8
+bigcode/starcoder2-15b-instruct-v0.1,1263,Mostly Basic Python Problems (MBPP),MBPP+,Unknown,Pass@1,Unknown,61.2
+bigcode/starcoder2-15b-instruct-v0.1,1263,Mostly Basic Python Problems (MBPP),Unknown,Unknown,Pass@1,Unknown,75.2
+bigcode/tiny_starcoder_py,1265,HumanEval,Unknown,Unknown,Pass@1,Unknown,7.84
+bigscience/bloom,1267,HumanEval,Unknown,Unknown,Pass@1,Unknown,15.54
+bigscience/bloom,1267,HumanEval,Unknown,Unknown,Pass@10,Unknown,32.78
+bigscience/bloom,1267,HumanEval,Unknown,Unknown,Pass@100,Unknown,57.2
+bigscience/bloomz,1268,ANLI,R1,Unknown,Accuracy,Unknown,48.6
+bigscience/bloomz,1268,ANLI,R2,Unknown,Accuracy,Unknown,44.1
+bigscience/bloomz,1268,ANLI,R3,Unknown,Accuracy,Unknown,45.5
+bigscience/bloomz,1268,HumanEval,Unknown,Unknown,Pass@1,Unknown,12.06
+bigscience/bloomz,1268,HumanEval,Unknown,Unknown,Pass@10,Unknown,26.53
+bigscience/bloomz,1268,HumanEval,Unknown,Unknown,Pass@100,Unknown,48.44
+bigscience/bloomz,1268,StoryCloze,2016,Unknown,Accuracy,Unknown,96.26
+bigscience/bloomz,1268,SuperGLUE,Cb,Unknown,Accuracy,Unknown,82.14
+bigscience/bloomz,1268,SuperGLUE,Copa,Unknown,Accuracy,Unknown,91.0
+bigscience/bloomz,1268,SuperGLUE,Rte,Unknown,Accuracy,Unknown,85.56
+bigscience/bloomz,1268,WinoGrande,Xl,Unknown,Accuracy,Unknown,59.27
+bigscience/bloomz,1268,XCOPA,Et,Unknown,Accuracy,Unknown,51.0
+bigscience/bloomz,1268,XCOPA,Ht,Unknown,Accuracy,Unknown,58.0
+bigscience/bloomz,1268,XCOPA,Id,Unknown,Accuracy,Unknown,86.0
+bigscience/bloomz,1268,XCOPA,It,Unknown,Accuracy,Unknown,74.0
+bigscience/bloomz,1268,XCOPA,Qu,Unknown,Accuracy,Unknown,56.0
+bigscience/bloomz,1268,XCOPA,Sw,Unknown,Accuracy,Unknown,64.0
+bigscience/bloomz,1268,XCOPA,Ta,Unknown,Accuracy,Unknown,69.0
+bigscience/bloomz,1268,XCOPA,Th,Unknown,Accuracy,Unknown,58.0
+bigscience/bloomz,1268,XCOPA,Tr,Unknown,Accuracy,Unknown,57.0
+bigscience/bloomz,1268,XCOPA,Vi,Unknown,Accuracy,Unknown,87.0
+bigscience/bloomz,1268,XCOPA,Zh,Unknown,Accuracy,Unknown,90.0
+bigscience/bloomz,1268,XNLI,Ar,Unknown,Accuracy,Unknown,60.68
+bigscience/bloomz,1268,XNLI,Bg,Unknown,Accuracy,Unknown,48.43
+bigscience/bloomz,1268,XNLI,De,Unknown,Accuracy,Unknown,54.38
+bigscience/bloomz,1268,XNLI,El,Unknown,Accuracy,Unknown,47.43
+bigscience/bloomz,1268,XNLI,En,Unknown,Accuracy,Unknown,67.47
+bigscience/bloomz,1268,XNLI,Es,Unknown,Accuracy,Unknown,61.24
+bigscience/bloomz,1268,XNLI,Fr,Unknown,Accuracy,Unknown,61.37
+bigscience/bloomz,1268,XNLI,Hi,Unknown,Accuracy,Unknown,60.2
+bigscience/bloomz,1268,XNLI,Ru,Unknown,Accuracy,Unknown,54.02
+bigscience/bloomz,1268,XNLI,Sw,Unknown,Accuracy,Unknown,52.09
+bigscience/bloomz,1268,XNLI,Th,Unknown,Accuracy,Unknown,43.78
+bigscience/bloomz,1268,XNLI,Tr,Unknown,Accuracy,Unknown,45.7
+bigscience/bloomz,1268,XNLI,Ur,Unknown,Accuracy,Unknown,50.8
+bigscience/bloomz,1268,XNLI,Vi,Unknown,Accuracy,Unknown,61.0
+bigscience/bloomz,1268,XNLI,Zh,Unknown,Accuracy,Unknown,56.91
+bigscience/bloomz,1268,XStoryCloze,Ar,Unknown,Accuracy,Unknown,92.79
+bigscience/bloomz,1268,XStoryCloze,Es,Unknown,Accuracy,Unknown,94.37
+bigscience/bloomz,1268,XStoryCloze,Eu,Unknown,Accuracy,Unknown,86.9
+bigscience/bloomz,1268,XStoryCloze,Hi,Unknown,Accuracy,Unknown,88.42
+bigscience/bloomz,1268,XStoryCloze,Id,Unknown,Accuracy,Unknown,92.12
+bigscience/bloomz,1268,XStoryCloze,My,Unknown,Accuracy,Unknown,52.35
+bigscience/bloomz,1268,XStoryCloze,Ru,Unknown,Accuracy,Unknown,81.73
+bigscience/bloomz,1268,XStoryCloze,Sw,Unknown,Accuracy,Unknown,79.81
+bigscience/bloomz,1268,XStoryCloze,Te,Unknown,Accuracy,Unknown,81.2
+bigscience/bloomz,1268,XStoryCloze,Zh,Unknown,Accuracy,Unknown,93.12
+bigscience/bloomz,1268,XWinograd,En,Unknown,Accuracy,Unknown,69.08
+bigscience/bloomz,1268,XWinograd,Fr,Unknown,Accuracy,Unknown,68.67
+bigscience/bloomz,1268,XWinograd,Jp,Unknown,Accuracy,Unknown,59.65
+bigscience/bloomz,1268,XWinograd,Pt,Unknown,Accuracy,Unknown,64.26
+bigscience/bloomz,1268,XWinograd,Ru,Unknown,Accuracy,Unknown,60.95
+bigscience/bloomz,1268,XWinograd,Zh,Unknown,Accuracy,Unknown,70.24
+blockblockblock/Llama3-8B-Instruct-Replete-Adapted-bpw2.25-exl2,1271,HumanEval,Unknown,Unknown,Pass@1,Unknown,64.68
+budecosystem/code-millenials-13b,1280,HumanEval,Unknown,Unknown,Pass@1,Unknown,76.21
+budecosystem/code-millenials-34b,1282,AI2 Reasoning Challenge,25 Shot,Unknown,Normalized Accuracy,Unknown,49.83
+budecosystem/code-millenials-34b,1282,Grade School Math 8K (GSM8K),5 Shot,Unknown,Accuracy,Unknown,32.45
+budecosystem/code-millenials-34b,1282,HellaSwag,10 Shot,Unknown,Normalized Accuracy,Unknown,75.09
+budecosystem/code-millenials-34b,1282,HumanEval,Unknown,Unknown,Pass@1,Unknown,80.48
+budecosystem/code-millenials-34b,1282,Measuring Massive Multitask Language Understanding (MMLU),5 Shot,Unknown,Accuracy,Unknown,49.28
+budecosystem/code-millenials-34b,1282,TruthfulQA,0 Shot,Unknown,MC2,Unknown,45.37
+budecosystem/code-millenials-34b,1282,WinoGrande,5 Shot,Unknown,Accuracy,Unknown,69.06
+budecosystem/code-millenials-8b,1283,HumanEval,Unknown,Unknown,Pass@1,Unknown,67.1
+cgus/Replete-Coder-Qwen2-1.5b-exl2,1303,HumanEval,Unknown,Unknown,Pass@1,Unknown,35.37
+codeparrot/codeparrot,1321,HumanEval,Unknown,Unknown,Pass@1,Unknown,3.99
+codeparrot/codeparrot,1321,HumanEval,Unknown,Unknown,Pass@10,Unknown,8.69
+codeparrot/codeparrot,1321,HumanEval,Unknown,Unknown,Pass@100,Unknown,17.88
+QuixiAI/yayi2-30b-llama,1325,AI2 Reasoning Challenge,25 Shot,Unknown,Normalized Accuracy,Unknown,35.67
+QuixiAI/yayi2-30b-llama,1325,Grade School Math 8K (GSM8K),5 Shot,Unknown,Accuracy,Unknown,18.88
+QuixiAI/yayi2-30b-llama,1325,HellaSwag,10 Shot,Unknown,Normalized Accuracy,Unknown,53.37
+QuixiAI/yayi2-30b-llama,1325,Measuring Massive Multitask Language Understanding (MMLU),5 Shot,Unknown,Accuracy,Unknown,70.6
+QuixiAI/yayi2-30b-llama,1325,TruthfulQA,0 Shot,Unknown,MC2,Unknown,49.08
+QuixiAI/yayi2-30b-llama,1325,WinoGrande,5 Shot,Unknown,Accuracy,Unknown,63.14
+dfurman/Mistral-7B-Instruct-v0.2,1346,AI2 Reasoning Challenge,25 Shot,Unknown,Normalized Accuracy,Unknown,60.15
+dfurman/Mistral-7B-Instruct-v0.2,1346,Grade School Math 8K (GSM8K),5 Shot,Unknown,Accuracy,Unknown,34.8
+dfurman/Mistral-7B-Instruct-v0.2,1346,HellaSwag,10 Shot,Unknown,Normalized Accuracy,Unknown,82.79
+dfurman/Mistral-7B-Instruct-v0.2,1346,Measuring Massive Multitask Language Understanding (MMLU),5 Shot,Unknown,Accuracy,Unknown,60.07
+dfurman/Mistral-7B-Instruct-v0.2,1346,TruthfulQA,0 Shot,Unknown,MC2,Unknown,56.06
+dfurman/Mistral-7B-Instruct-v0.2,1346,WinoGrande,5 Shot,Unknown,Accuracy,Unknown,76.87
+ed001/datascience-coder-6.7b,1378,AI2 Reasoning Challenge,25 Shot,Unknown,Normalized Accuracy,Unknown,34.64
+ed001/datascience-coder-6.7b,1378,Grade School Math 8K (GSM8K),5 Shot,Unknown,Accuracy,Unknown,24.94
+ed001/datascience-coder-6.7b,1378,HellaSwag,10 Shot,Unknown,Normalized Accuracy,Unknown,53.83
+ed001/datascience-coder-6.7b,1378,Measuring Massive Multitask Language Understanding (MMLU),5 Shot,Unknown,Accuracy,Unknown,37.96
+ed001/datascience-coder-6.7b,1378,TruthfulQA,0 Shot,Unknown,MC2,Unknown,44.82
+ed001/datascience-coder-6.7b,1378,WinoGrande,5 Shot,Unknown,Accuracy,Unknown,55.72
+gonglinyuan/ast_t5_base,1413,HumanEval,Unknown,Unknown,Pass@1,Unknown,14.02
+gonglinyuan/ast_t5_base,1413,Mostly Basic Python Problems (MBPP),Zero Shot,Unknown,Pass@1,Unknown,23.89
+ibm-granite/granite-20b-code-base-8k,1437,HumanEval,Explain,C++,Pass@1,Unknown,25.6
+ibm-granite/granite-20b-code-base-8k,1437,HumanEval,Explain,Go,Pass@1,Unknown,10.4
+ibm-granite/granite-20b-code-base-8k,1437,HumanEval,Explain,Java,Pass@1,Unknown,23.2
+ibm-granite/granite-20b-code-base-8k,1437,HumanEval,Explain,JavaScript,Pass@1,Unknown,18.3
+ibm-granite/granite-20b-code-base-8k,1437,HumanEval,Explain,Python,Pass@1,Unknown,17.1
+ibm-granite/granite-20b-code-base-8k,1437,HumanEval,Explain,Rust,Pass@1,Unknown,18.3
+ibm-granite/granite-20b-code-base-8k,1437,HumanEval,Fix,C++,Pass@1,Unknown,15.2
+ibm-granite/granite-20b-code-base-8k,1437,HumanEval,Fix,Go,Pass@1,Unknown,26.2
+ibm-granite/granite-20b-code-base-8k,1437,HumanEval,Fix,Java,Pass@1,Unknown,14.6
+ibm-granite/granite-20b-code-base-8k,1437,HumanEval,Fix,JavaScript,Pass@1,Unknown,23.8
+ibm-granite/granite-20b-code-base-8k,1437,HumanEval,Fix,Python,Pass@1,Unknown,23.2
+ibm-granite/granite-20b-code-base-8k,1437,HumanEval,Fix,Rust,Pass@1,Unknown,3.0
+ibm-granite/granite-20b-code-base-8k,1437,HumanEval,Synthesis,C++,Pass@1,Unknown,40.9
+ibm-granite/granite-20b-code-base-8k,1437,HumanEval,Synthesis,Go,Pass@1,Unknown,32.3
+ibm-granite/granite-20b-code-base-8k,1437,HumanEval,Synthesis,Java,Pass@1,Unknown,59.1
+ibm-granite/granite-20b-code-base-8k,1437,HumanEval,Synthesis,JavaScript,Pass@1,Unknown,50.0
+ibm-granite/granite-20b-code-base-8k,1437,HumanEval,Synthesis,Python,Pass@1,Unknown,48.2
+ibm-granite/granite-20b-code-base-8k,1437,HumanEval,Synthesis,Rust,Pass@1,Unknown,35.4
+ibm-granite/granite-20b-code-base-8k,1437,Mostly Basic Python Problems (MBPP),MBPP+,Unknown,Pass@1,Unknown,51.6
+ibm-granite/granite-20b-code-base-8k,1437,Mostly Basic Python Problems (MBPP),Unknown,Unknown,Pass@1,Unknown,43.8
+ibm-granite/granite-20b-code-base-r1.1,1438,HumanEval,Explain,C++,Pass@1,Unknown,29.9
+ibm-granite/granite-20b-code-base-r1.1,1438,HumanEval,Explain,Go,Pass@1,Unknown,13.8
+ibm-granite/granite-20b-code-base-r1.1,1438,HumanEval,Explain,Java,Pass@1,Unknown,43.3
+ibm-granite/granite-20b-code-base-r1.1,1438,HumanEval,Explain,JavaScript,Pass@1,Unknown,24.4
+ibm-granite/granite-20b-code-base-r1.1,1438,HumanEval,Explain,Python,Pass@1,Unknown,28.7
+ibm-granite/granite-20b-code-base-r1.1,1438,HumanEval,Explain,Rust,Pass@1,Unknown,18.3
+ibm-granite/granite-20b-code-base-r1.1,1438,HumanEval,Fix,C++,Pass@1,Unknown,30.5
+ibm-granite/granite-20b-code-base-r1.1,1438,HumanEval,Fix,Go,Pass@1,Unknown,28.0
+ibm-granite/granite-20b-code-base-r1.1,1438,HumanEval,Fix,Java,Pass@1,Unknown,32.3
+ibm-granite/granite-20b-code-base-r1.1,1438,HumanEval,Fix,JavaScript,Pass@1,Unknown,24.4
+ibm-granite/granite-20b-code-base-r1.1,1438,HumanEval,Fix,Python,Pass@1,Unknown,22.0
+ibm-granite/granite-20b-code-base-r1.1,1438,HumanEval,Fix,Rust,Pass@1,Unknown,13.4
+ibm-granite/granite-20b-code-base-r1.1,1438,HumanEval,Synthesis,C++,Pass@1,Unknown,50.6
+ibm-granite/granite-20b-code-base-r1.1,1438,HumanEval,Synthesis,Go,Pass@1,Unknown,33.5
+ibm-granite/granite-20b-code-base-r1.1,1438,HumanEval,Synthesis,Java,Pass@1,Unknown,59.8
+ibm-granite/granite-20b-code-base-r1.1,1438,HumanEval,Synthesis,JavaScript,Pass@1,Unknown,56.1
+ibm-granite/granite-20b-code-base-r1.1,1438,HumanEval,Synthesis,Python,Pass@1,Unknown,48.2
+ibm-granite/granite-20b-code-base-r1.1,1438,HumanEval,Synthesis,Rust,Pass@1,Unknown,40.9
+ibm-granite/granite-20b-code-instruct-8k,1439,HumanEval,Explain,C++,Pass@1,Unknown,42.1
+ibm-granite/granite-20b-code-instruct-8k,1439,HumanEval,Explain,Go,Pass@1,Unknown,32.3
+ibm-granite/granite-20b-code-instruct-8k,1439,HumanEval,Explain,Java,Pass@1,Unknown,49.4
+ibm-granite/granite-20b-code-instruct-8k,1439,HumanEval,Explain,JavaScript,Pass@1,Unknown,42.7
+ibm-granite/granite-20b-code-instruct-8k,1439,HumanEval,Explain,Python,Pass@1,Unknown,44.5
+ibm-granite/granite-20b-code-instruct-8k,1439,HumanEval,Explain,Rust,Pass@1,Unknown,18.3
+ibm-granite/granite-20b-code-instruct-8k,1439,HumanEval,Fix,C++,Pass@1,Unknown,41.5
+ibm-granite/granite-20b-code-instruct-8k,1439,HumanEval,Fix,Go,Pass@1,Unknown,41.5
+ibm-granite/granite-20b-code-instruct-8k,1439,HumanEval,Fix,Java,Pass@1,Unknown,45.7
+ibm-granite/granite-20b-code-instruct-8k,1439,HumanEval,Fix,JavaScript,Pass@1,Unknown,43.9
+ibm-granite/granite-20b-code-instruct-8k,1439,HumanEval,Fix,Python,Pass@1,Unknown,43.9
+ibm-granite/granite-20b-code-instruct-8k,1439,HumanEval,Fix,Rust,Pass@1,Unknown,29.9
+ibm-granite/granite-20b-code-instruct-8k,1439,HumanEval,Synthesis,C++,Pass@1,Unknown,45.7
+ibm-granite/granite-20b-code-instruct-8k,1439,HumanEval,Synthesis,Go,Pass@1,Unknown,42.1
+ibm-granite/granite-20b-code-instruct-8k,1439,HumanEval,Synthesis,Java,Pass@1,Unknown,58.5
+ibm-granite/granite-20b-code-instruct-8k,1439,HumanEval,Synthesis,JavaScript,Pass@1,Unknown,53.7
+ibm-granite/granite-20b-code-instruct-8k,1439,HumanEval,Synthesis,Python,Pass@1,Unknown,60.4
+ibm-granite/granite-20b-code-instruct-8k,1439,HumanEval,Synthesis,Rust,Pass@1,Unknown,42.7
+ibm-granite/granite-20b-code-instruct-r1.1,1440,HumanEval,Explain,C++,Pass@1,Unknown,38.4
+ibm-granite/granite-20b-code-instruct-r1.1,1440,HumanEval,Explain,Go,Pass@1,Unknown,34.1
+ibm-granite/granite-20b-code-instruct-r1.1,1440,HumanEval,Explain,Java,Pass@1,Unknown,54.3
+ibm-granite/granite-20b-code-instruct-r1.1,1440,HumanEval,Explain,JavaScript,Pass@1,Unknown,47.0
+ibm-granite/granite-20b-code-instruct-r1.1,1440,HumanEval,Explain,Python,Pass@1,Unknown,51.2
+ibm-granite/granite-20b-code-instruct-r1.1,1440,HumanEval,Explain,Rust,Pass@1,Unknown,17.1
+ibm-granite/granite-20b-code-instruct-r1.1,1440,HumanEval,Fix,C++,Pass@1,Unknown,44.5
+ibm-granite/granite-20b-code-instruct-r1.1,1440,HumanEval,Fix,Go,Pass@1,Unknown,47.6
+ibm-granite/granite-20b-code-instruct-r1.1,1440,HumanEval,Fix,Java,Pass@1,Unknown,52.4
+ibm-granite/granite-20b-code-instruct-r1.1,1440,HumanEval,Fix,JavaScript,Pass@1,Unknown,48.2
+ibm-granite/granite-20b-code-instruct-r1.1,1440,HumanEval,Fix,Python,Pass@1,Unknown,53.0
+ibm-granite/granite-20b-code-instruct-r1.1,1440,HumanEval,Fix,Rust,Pass@1,Unknown,45.1
+ibm-granite/granite-20b-code-instruct-r1.1,1440,HumanEval,Synthesis,C++,Pass@1,Unknown,53.0
+ibm-granite/granite-20b-code-instruct-r1.1,1440,HumanEval,Synthesis,Go,Pass@1,Unknown,43.3
+ibm-granite/granite-20b-code-instruct-r1.1,1440,HumanEval,Synthesis,Java,Pass@1,Unknown,58.5
+ibm-granite/granite-20b-code-instruct-r1.1,1440,HumanEval,Synthesis,JavaScript,Pass@1,Unknown,57.9
+ibm-granite/granite-20b-code-instruct-r1.1,1440,HumanEval,Synthesis,Python,Pass@1,Unknown,68.3
+ibm-granite/granite-20b-code-instruct-r1.1,1440,HumanEval,Synthesis,Rust,Pass@1,Unknown,37.8
+ibm-granite/granite-34b-code-base-8k,1442,HumanEval,Explain,C++,Pass@1,Unknown,36.6
+ibm-granite/granite-34b-code-base-8k,1442,HumanEval,Explain,Go,Pass@1,Unknown,26.8
+ibm-granite/granite-34b-code-base-8k,1442,HumanEval,Explain,Java,Pass@1,Unknown,47.0
+ibm-granite/granite-34b-code-base-8k,1442,HumanEval,Explain,JavaScript,Pass@1,Unknown,26.2
+ibm-granite/granite-34b-code-base-8k,1442,HumanEval,Explain,Python,Pass@1,Unknown,42.7
+ibm-granite/granite-34b-code-base-8k,1442,HumanEval,Explain,Rust,Pass@1,Unknown,25.0
+ibm-granite/granite-34b-code-base-8k,1442,HumanEval,Fix,C++,Pass@1,Unknown,39.0
+ibm-granite/granite-34b-code-base-8k,1442,HumanEval,Fix,Go,Pass@1,Unknown,34.1
+ibm-granite/granite-34b-code-base-8k,1442,HumanEval,Fix,Java,Pass@1,Unknown,40.9
+ibm-granite/granite-34b-code-base-8k,1442,HumanEval,Fix,JavaScript,Pass@1,Unknown,30.5
+ibm-granite/granite-34b-code-base-8k,1442,HumanEval,Fix,Python,Pass@1,Unknown,20.1
+ibm-granite/granite-34b-code-base-8k,1442,HumanEval,Fix,Rust,Pass@1,Unknown,12.2
+ibm-granite/granite-34b-code-base-8k,1442,HumanEval,Synthesis,C++,Pass@1,Unknown,50.0
+ibm-granite/granite-34b-code-base-8k,1442,HumanEval,Synthesis,Go,Pass@1,Unknown,40.2
+ibm-granite/granite-34b-code-base-8k,1442,HumanEval,Synthesis,Java,Pass@1,Unknown,61.6
+ibm-granite/granite-34b-code-base-8k,1442,HumanEval,Synthesis,JavaScript,Pass@1,Unknown,54.9
+ibm-granite/granite-34b-code-base-8k,1442,HumanEval,Synthesis,Python,Pass@1,Unknown,48.2
+ibm-granite/granite-34b-code-base-8k,1442,HumanEval,Synthesis,Rust,Pass@1,Unknown,39.6
+ibm-granite/granite-34b-code-base-8k,1442,Mostly Basic Python Problems (MBPP),MBPP+,Unknown,Pass@1,Unknown,53.1
+ibm-granite/granite-34b-code-base-8k,1442,Mostly Basic Python Problems (MBPP),Unknown,Unknown,Pass@1,Unknown,47.2
+ibm-granite/granite-34b-code-instruct-8k,1443,HumanEval,Explain,C++,Pass@1,Unknown,42.7
+ibm-granite/granite-34b-code-instruct-8k,1443,HumanEval,Explain,Go,Pass@1,Unknown,36.0
+ibm-granite/granite-34b-code-instruct-8k,1443,HumanEval,Explain,Java,Pass@1,Unknown,50.6
+ibm-granite/granite-34b-code-instruct-8k,1443,HumanEval,Explain,JavaScript,Pass@1,Unknown,45.1
+ibm-granite/granite-34b-code-instruct-8k,1443,HumanEval,Explain,Python,Pass@1,Unknown,53.0
+ibm-granite/granite-34b-code-instruct-8k,1443,HumanEval,Explain,Rust,Pass@1,Unknown,23.8
+ibm-granite/granite-34b-code-instruct-8k,1443,HumanEval,Fix,C++,Pass@1,Unknown,47.0
+ibm-granite/granite-34b-code-instruct-8k,1443,HumanEval,Fix,Go,Pass@1,Unknown,51.2
+ibm-granite/granite-34b-code-instruct-8k,1443,HumanEval,Fix,Java,Pass@1,Unknown,55.5
+ibm-granite/granite-34b-code-instruct-8k,1443,HumanEval,Fix,JavaScript,Pass@1,Unknown,47.6
+ibm-granite/granite-34b-code-instruct-8k,1443,HumanEval,Fix,Python,Pass@1,Unknown,54.9
+ibm-granite/granite-34b-code-instruct-8k,1443,HumanEval,Fix,Rust,Pass@1,Unknown,45.1
+ibm-granite/granite-34b-code-instruct-8k,1443,HumanEval,Synthesis,C++,Pass@1,Unknown,57.9
+ibm-granite/granite-34b-code-instruct-8k,1443,HumanEval,Synthesis,Go,Pass@1,Unknown,47.6
+ibm-granite/granite-34b-code-instruct-8k,1443,HumanEval,Synthesis,Java,Pass@1,Unknown,62.8
+ibm-granite/granite-34b-code-instruct-8k,1443,HumanEval,Synthesis,JavaScript,Pass@1,Unknown,56.7
+ibm-granite/granite-34b-code-instruct-8k,1443,HumanEval,Synthesis,Python,Pass@1,Unknown,62.2
+ibm-granite/granite-34b-code-instruct-8k,1443,HumanEval,Synthesis,Rust,Pass@1,Unknown,41.5
+ibm-granite/granite-3b-code-base-128k,1444,HumanEval,Explain,Average,Pass@1,Unknown,22.4
+ibm-granite/granite-3b-code-base-128k,1444,HumanEval,Fix,Average,Pass@1,Unknown,19.9
+ibm-granite/granite-3b-code-base-128k,1444,HumanEval,Synthesis,Average,Pass@1,Unknown,30.5
+ibm-granite/granite-3b-code-base-128k,1444,HumanEval,Synthesis,Python,Pass@1,Unknown,36.0
+ibm-granite/granite-3b-code-base-128k,1444,LCC,Balanced,Unknown,Exact Match,@16K,52.2
+ibm-granite/granite-3b-code-base-128k,1444,LCC,Balanced,Unknown,Exact Match,@32K,57.8
+ibm-granite/granite-3b-code-base-128k,1444,LCC,Balanced,Unknown,Exact Match,@4K,54.6
+ibm-granite/granite-3b-code-base-128k,1444,LCC,Balanced,Unknown,Exact Match,@8K,56.8
+ibm-granite/granite-3b-code-base-128k,1444,RepoBench-P,Balanced,Unknown,Exact Match,@16K,43.1
+ibm-granite/granite-3b-code-base-128k,1444,RepoBench-P,Balanced,Unknown,Exact Match,@32K,45.3
+ibm-granite/granite-3b-code-base-128k,1444,RepoBench-P,Balanced,Unknown,Exact Match,@4K,39.8
+ibm-granite/granite-3b-code-base-128k,1444,RepoBench-P,Balanced,Unknown,Exact Match,@8K,46.8
+ibm-granite/granite-3b-code-base-128k,1444,RepoQA,@16K,C++,Pass@1,Threshold = 0.5,36.0
+ibm-granite/granite-3b-code-base-128k,1444,RepoQA,@16K,Java,Pass@1,Threshold = 0.5,37.0
+ibm-granite/granite-3b-code-base-128k,1444,RepoQA,@16K,Python,Pass@1,Threshold = 0.5,40.0
+ibm-granite/granite-3b-code-base-128k,1444,RepoQA,@16K,Rust,Pass@1,Threshold = 0.5,29.0
+ibm-granite/granite-3b-code-base-128k,1444,RepoQA,@16K,TypeScript,Pass@1,Threshold = 0.5,27.0
+ibm-granite/granite-3b-code-base-2k,1445,HumanEval,Explain,C++,Pass@1,Unknown,26.8
+ibm-granite/granite-3b-code-base-2k,1445,HumanEval,Explain,Go,Pass@1,Unknown,17.1
+ibm-granite/granite-3b-code-base-2k,1445,HumanEval,Explain,Java,Pass@1,Unknown,29.9
+ibm-granite/granite-3b-code-base-2k,1445,HumanEval,Explain,JavaScript,Pass@1,Unknown,18.9
+ibm-granite/granite-3b-code-base-2k,1445,HumanEval,Explain,Python,Pass@1,Unknown,25.0
+ibm-granite/granite-3b-code-base-2k,1445,HumanEval,Explain,Rust,Pass@1,Unknown,14.0
+ibm-granite/granite-3b-code-base-2k,1445,HumanEval,Fix,C++,Pass@1,Unknown,16.5
+ibm-granite/granite-3b-code-base-2k,1445,HumanEval,Fix,Go,Pass@1,Unknown,24.4
+ibm-granite/granite-3b-code-base-2k,1445,HumanEval,Fix,Java,Pass@1,Unknown,29.9
+ibm-granite/granite-3b-code-base-2k,1445,HumanEval,Fix,JavaScript,Pass@1,Unknown,23.2
+ibm-granite/granite-3b-code-base-2k,1445,HumanEval,Fix,Python,Pass@1,Unknown,18.3
+ibm-granite/granite-3b-code-base-2k,1445,HumanEval,Fix,Rust,Pass@1,Unknown,3.7
+ibm-granite/granite-3b-code-base-2k,1445,HumanEval,Synthesis,C++,Pass@1,Unknown,35.4
+ibm-granite/granite-3b-code-base-2k,1445,HumanEval,Synthesis,Go,Pass@1,Unknown,26.2
+ibm-granite/granite-3b-code-base-2k,1445,HumanEval,Synthesis,Java,Pass@1,Unknown,40.9
+ibm-granite/granite-3b-code-base-2k,1445,HumanEval,Synthesis,JavaScript,Pass@1,Unknown,37.2
+ibm-granite/granite-3b-code-base-2k,1445,HumanEval,Synthesis,Python,Pass@1,Unknown,36.6
+ibm-granite/granite-3b-code-base-2k,1445,HumanEval,Synthesis,Rust,Pass@1,Unknown,22.0
+ibm-granite/granite-3b-code-base-2k,1445,Mostly Basic Python Problems (MBPP),MBPP+,Unknown,Pass@1,Unknown,45.1
+ibm-granite/granite-3b-code-base-2k,1445,Mostly Basic Python Problems (MBPP),Unknown,Unknown,Pass@1,Unknown,36.0
+ibm-granite/granite-3b-code-instruct-128k,1446,HumanEval,Explain,Average,Pass@1,Unknown,25.1
+ibm-granite/granite-3b-code-instruct-128k,1446,HumanEval,Fix,Average,Pass@1,Unknown,26.2
+ibm-granite/granite-3b-code-instruct-128k,1446,HumanEval,Synthesis,Average,Pass@1,Unknown,41.4
+ibm-granite/granite-3b-code-instruct-128k,1446,HumanEval,Synthesis,Python,Pass@1,Unknown,53.7
+ibm-granite/granite-3b-code-instruct-128k,1446,RepoQA,@16K,C++,Pass@1,Threshold = 0.5,36.0
+ibm-granite/granite-3b-code-instruct-128k,1446,RepoQA,@16K,Java,Pass@1,Threshold = 0.5,38.0
+ibm-granite/granite-3b-code-instruct-128k,1446,RepoQA,@16K,Python,Pass@1,Threshold = 0.5,48.0
+ibm-granite/granite-3b-code-instruct-128k,1446,RepoQA,@16K,Rust,Pass@1,Threshold = 0.5,29.0
+ibm-granite/granite-3b-code-instruct-128k,1446,RepoQA,@16K,TypeScript,Pass@1,Threshold = 0.5,39.0
+ibm-granite/granite-3b-code-instruct-2k,1447,HumanEval,Explain,C++,Pass@1,Unknown,23.8
+ibm-granite/granite-3b-code-instruct-2k,1447,HumanEval,Explain,Go,Pass@1,Unknown,14.0
+ibm-granite/granite-3b-code-instruct-2k,1447,HumanEval,Explain,Java,Pass@1,Unknown,39.0
+ibm-granite/granite-3b-code-instruct-2k,1447,HumanEval,Explain,JavaScript,Pass@1,Unknown,26.8
+ibm-granite/granite-3b-code-instruct-2k,1447,HumanEval,Explain,Python,Pass@1,Unknown,39.6
+ibm-granite/granite-3b-code-instruct-2k,1447,HumanEval,Explain,Rust,Pass@1,Unknown,12.8
+ibm-granite/granite-3b-code-instruct-2k,1447,HumanEval,Fix,C++,Pass@1,Unknown,31.7
+ibm-granite/granite-3b-code-instruct-2k,1447,HumanEval,Fix,Go,Pass@1,Unknown,27.4
+ibm-granite/granite-3b-code-instruct-2k,1447,HumanEval,Fix,Java,Pass@1,Unknown,33.5
+ibm-granite/granite-3b-code-instruct-2k,1447,HumanEval,Fix,JavaScript,Pass@1,Unknown,28.0
+ibm-granite/granite-3b-code-instruct-2k,1447,HumanEval,Fix,Python,Pass@1,Unknown,26.8
+ibm-granite/granite-3b-code-instruct-2k,1447,HumanEval,Fix,Rust,Pass@1,Unknown,16.5
+ibm-granite/granite-3b-code-instruct-2k,1447,HumanEval,Synthesis,C++,Pass@1,Unknown,40.2
+ibm-granite/granite-3b-code-instruct-2k,1447,HumanEval,Synthesis,Go,Pass@1,Unknown,31.7
+ibm-granite/granite-3b-code-instruct-2k,1447,HumanEval,Synthesis,Java,Pass@1,Unknown,41.5
+ibm-granite/granite-3b-code-instruct-2k,1447,HumanEval,Synthesis,JavaScript,Pass@1,Unknown,43.9
+ibm-granite/granite-3b-code-instruct-2k,1447,HumanEval,Synthesis,Python,Pass@1,Unknown,51.2
+ibm-granite/granite-3b-code-instruct-2k,1447,HumanEval,Synthesis,Rust,Pass@1,Unknown,29.3
+ibm-granite/granite-8b-code-base-128k,1448,HumanEval,Explain,Average,Pass@1,Unknown,28.2
+ibm-granite/granite-8b-code-base-128k,1448,HumanEval,Fix,Average,Pass@1,Unknown,25.2
+ibm-granite/granite-8b-code-base-128k,1448,HumanEval,Synthesis,Average,Pass@1,Unknown,40.2
+ibm-granite/granite-8b-code-base-128k,1448,HumanEval,Synthesis,Python,Pass@1,Unknown,43.1
+ibm-granite/granite-8b-code-base-128k,1448,LCC,Balanced,Unknown,Exact Match,@16K,51.8
+ibm-granite/granite-8b-code-base-128k,1448,LCC,Balanced,Unknown,Exact Match,@32K,57.4
+ibm-granite/granite-8b-code-base-128k,1448,LCC,Balanced,Unknown,Exact Match,@4K,56.5
+ibm-granite/granite-8b-code-base-128k,1448,LCC,Balanced,Unknown,Exact Match,@8K,60.1
+ibm-granite/granite-8b-code-base-128k,1448,RepoBench-P,Balanced,Unknown,Exact Match,@16K,44.8
+ibm-granite/granite-8b-code-base-128k,1448,RepoBench-P,Balanced,Unknown,Exact Match,@32K,44.5
+ibm-granite/granite-8b-code-base-128k,1448,RepoBench-P,Balanced,Unknown,Exact Match,@4K,42.7
+ibm-granite/granite-8b-code-base-128k,1448,RepoBench-P,Balanced,Unknown,Exact Match,@8K,44.0
+ibm-granite/granite-8b-code-base-128k,1448,RepoQA,@16K,C++,Pass@1,Threshold = 0.5,36.0
+ibm-granite/granite-8b-code-base-128k,1448,RepoQA,@16K,Java,Pass@1,Threshold = 0.5,38.0
+ibm-granite/granite-8b-code-base-128k,1448,RepoQA,@16K,Python,Pass@1,Threshold = 0.5,48.0
+ibm-granite/granite-8b-code-base-128k,1448,RepoQA,@16K,Rust,Pass@1,Threshold = 0.5,29.0
+ibm-granite/granite-8b-code-base-128k,1448,RepoQA,@16K,TypeScript,Pass@1,Threshold = 0.5,39.0
+ibm-granite/granite-8b-code-base-4k,1449,HumanEval,Explain,C++,Pass@1,Unknown,28.0
+ibm-granite/granite-8b-code-base-4k,1449,HumanEval,Explain,Go,Pass@1,Unknown,23.2
+ibm-granite/granite-8b-code-base-4k,1449,HumanEval,Explain,Java,Pass@1,Unknown,25.0
+ibm-granite/granite-8b-code-base-4k,1449,HumanEval,Explain,JavaScript,Pass@1,Unknown,32.3
+ibm-granite/granite-8b-code-base-4k,1449,HumanEval,Explain,Python,Pass@1,Unknown,23.5
+ibm-granite/granite-8b-code-base-4k,1449,HumanEval,Explain,Rust,Pass@1,Unknown,19.5
+ibm-granite/granite-8b-code-base-4k,1449,HumanEval,Fix,C++,Pass@1,Unknown,28.7
+ibm-granite/granite-8b-code-base-4k,1449,HumanEval,Fix,Go,Pass@1,Unknown,37.2
+ibm-granite/granite-8b-code-base-4k,1449,HumanEval,Fix,Java,Pass@1,Unknown,38.4
+ibm-granite/granite-8b-code-base-4k,1449,HumanEval,Fix,JavaScript,Pass@1,Unknown,35.4
+ibm-granite/granite-8b-code-base-4k,1449,HumanEval,Fix,Python,Pass@1,Unknown,22.6
+ibm-granite/granite-8b-code-base-4k,1449,HumanEval,Fix,Rust,Pass@1,Unknown,15.2
+ibm-granite/granite-8b-code-base-4k,1449,HumanEval,Synthesis,C++,Pass@1,Unknown,43.9
+ibm-granite/granite-8b-code-base-4k,1449,HumanEval,Synthesis,Go,Pass@1,Unknown,31.7
+ibm-granite/granite-8b-code-base-4k,1449,HumanEval,Synthesis,Java,Pass@1,Unknown,56.1
+ibm-granite/granite-8b-code-base-4k,1449,HumanEval,Synthesis,JavaScript,Pass@1,Unknown,52.4
+ibm-granite/granite-8b-code-base-4k,1449,HumanEval,Synthesis,Python,Pass@1,Unknown,43.9
+ibm-granite/granite-8b-code-base-4k,1449,HumanEval,Synthesis,Rust,Pass@1,Unknown,32.9
+ibm-granite/granite-8b-code-base-4k,1449,Mostly Basic Python Problems (MBPP),MBPP+,Unknown,Pass@1,Unknown,49.6
+ibm-granite/granite-8b-code-base-4k,1449,Mostly Basic Python Problems (MBPP),Unknown,Unknown,Pass@1,Unknown,42.2
+ibm-granite/granite-8b-code-instruct-128k,1450,HumanEval,Explain,Average,Pass@1,Unknown,38.9
+ibm-granite/granite-8b-code-instruct-128k,1450,HumanEval,Fix,Average,Pass@1,Unknown,38.3
+ibm-granite/granite-8b-code-instruct-128k,1450,HumanEval,Synthesis,Average,Pass@1,Unknown,51.4
+ibm-granite/granite-8b-code-instruct-128k,1450,HumanEval,Synthesis,Python,Pass@1,Unknown,62.2
+ibm-granite/granite-8b-code-instruct-128k,1450,RepoQA,@16K,C++,Pass@1,Threshold = 0.5,37.0
+ibm-granite/granite-8b-code-instruct-128k,1450,RepoQA,@16K,Java,Pass@1,Threshold = 0.5,73.0
+ibm-granite/granite-8b-code-instruct-128k,1450,RepoQA,@16K,Python,Pass@1,Threshold = 0.5,73.0
+ibm-granite/granite-8b-code-instruct-128k,1450,RepoQA,@16K,Rust,Pass@1,Threshold = 0.5,63.0
+ibm-granite/granite-8b-code-instruct-128k,1450,RepoQA,@16K,TypeScript,Pass@1,Threshold = 0.5,62.0
+ibm-granite/granite-8b-code-instruct-4k,1451,HumanEval,Explain,C++,Pass@1,Unknown,43.9
+ibm-granite/granite-8b-code-instruct-4k,1451,HumanEval,Explain,Go,Pass@1,Unknown,36.6
+ibm-granite/granite-8b-code-instruct-4k,1451,HumanEval,Explain,Java,Pass@1,Unknown,52.4
+ibm-granite/granite-8b-code-instruct-4k,1451,HumanEval,Explain,JavaScript,Pass@1,Unknown,42.7
+ibm-granite/granite-8b-code-instruct-4k,1451,HumanEval,Explain,Python,Pass@1,Unknown,53.0
+ibm-granite/granite-8b-code-instruct-4k,1451,HumanEval,Explain,Rust,Pass@1,Unknown,16.5
+ibm-granite/granite-8b-code-instruct-4k,1451,HumanEval,Fix,C++,Pass@1,Unknown,39.0
+ibm-granite/granite-8b-code-instruct-4k,1451,HumanEval,Fix,Go,Pass@1,Unknown,41.5
+ibm-granite/granite-8b-code-instruct-4k,1451,HumanEval,Fix,Java,Pass@1,Unknown,48.2
+ibm-granite/granite-8b-code-instruct-4k,1451,HumanEval,Fix,JavaScript,Pass@1,Unknown,40.9
+ibm-granite/granite-8b-code-instruct-4k,1451,HumanEval,Fix,Python,Pass@1,Unknown,39.6
+ibm-granite/granite-8b-code-instruct-4k,1451,HumanEval,Fix,Rust,Pass@1,Unknown,32.9
+ibm-granite/granite-8b-code-instruct-4k,1451,HumanEval,Synthesis,C++,Pass@1,Unknown,48.2
+ibm-granite/granite-8b-code-instruct-4k,1451,HumanEval,Synthesis,Go,Pass@1,Unknown,43.3
+ibm-granite/granite-8b-code-instruct-4k,1451,HumanEval,Synthesis,Java,Pass@1,Unknown,58.5
+ibm-granite/granite-8b-code-instruct-4k,1451,HumanEval,Synthesis,JavaScript,Pass@1,Unknown,52.4
+ibm-granite/granite-8b-code-instruct-4k,1451,HumanEval,Synthesis,Python,Pass@1,Unknown,57.9
+ibm-granite/granite-8b-code-instruct-4k,1451,HumanEval,Synthesis,Rust,Pass@1,Unknown,37.2
+ibm-research/PowerLM-3b,1452,ARC,Unknown,Unknown,Normalized Accuracy,Unknown,60.5
+ibm-research/PowerLM-3b,1452,BoolQ,Unknown,Unknown,Accuracy,Unknown,72.0
+ibm-research/PowerLM-3b,1452,Grade School Math 8K (GSM8K),5 Shot,Unknown,Accuracy,Unknown,34.9
+ibm-research/PowerLM-3b,1452,HellaSwag,Unknown,Unknown,Normalized Accuracy,Unknown,74.6
+ibm-research/PowerLM-3b,1452,HumanEval,Unknown,Unknown,Pass@1,Unknown,26.8
+ibm-research/PowerLM-3b,1452,Math,4 Shot,Unknown,Accuracy,Unknown,15.2
+ibm-research/PowerLM-3b,1452,Measuring Massive Multitask Language Understanding (MMLU),5 Shot,Unknown,Accuracy,Unknown,49.2
+ibm-research/PowerLM-3b,1452,Mostly Basic Python Problems (MBPP),Unknown,Unknown,Pass@1,Unknown,33.6
+ibm-research/PowerLM-3b,1452,OpenBookQA,Unknown,Unknown,Normalized Accuracy,Unknown,43.6
+ibm-research/PowerLM-3b,1452,PIQA,Unknown,Unknown,Normalized Accuracy,Unknown,79.9
+ibm-research/PowerLM-3b,1452,WinoGrande,Unknown,Unknown,Normalized Accuracy,Unknown,70.0
+InfosysEnterprise/NT-Java-1.1B,1458,MultiPL-HumanEval,Unknown,Java,Pass@1,Unknown,20.2
+jacobcarajo/starcoder2-15b-instruct-v0.1-Q5_K_M-GGUF,1475,DS-1000,Unknown,Unknown,Pass@1,Unknown,40.6
+jacobcarajo/starcoder2-15b-instruct-v0.1-Q5_K_M-GGUF,1475,HumanEval,HumanEval+,Unknown,Pass@1,Unknown,63.4
+jacobcarajo/starcoder2-15b-instruct-v0.1-Q5_K_M-GGUF,1475,HumanEval,Unknown,Unknown,Pass@1,Unknown,72.6
+jacobcarajo/starcoder2-15b-instruct-v0.1-Q5_K_M-GGUF,1475,LiveCodeBench,Code Execution,Unknown,Pass@1,Unknown,28.1
+jacobcarajo/starcoder2-15b-instruct-v0.1-Q5_K_M-GGUF,1475,LiveCodeBench,Code Generation,Unknown,Pass@1,Unknown,20.4
+jacobcarajo/starcoder2-15b-instruct-v0.1-Q5_K_M-GGUF,1475,LiveCodeBench,Self Repair,Unknown,Pass@1,Unknown,20.9
+jacobcarajo/starcoder2-15b-instruct-v0.1-Q5_K_M-GGUF,1475,LiveCodeBench,Test Output Prediction,Unknown,Pass@1,Unknown,29.8
+jacobcarajo/starcoder2-15b-instruct-v0.1-Q5_K_M-GGUF,1475,Mostly Basic Python Problems (MBPP),MBPP+,Unknown,Pass@1,Unknown,61.2
+jacobcarajo/starcoder2-15b-instruct-v0.1-Q5_K_M-GGUF,1475,Mostly Basic Python Problems (MBPP),Unknown,Unknown,Pass@1,Unknown,75.2
+jncraton/granite-3b-code-instruct-ct2-int8,1488,HumanEval,Explain,C++,Pass@1,Unknown,23.8
+jncraton/granite-3b-code-instruct-ct2-int8,1488,HumanEval,Explain,Go,Pass@1,Unknown,14.0
+jncraton/granite-3b-code-instruct-ct2-int8,1488,HumanEval,Explain,Java,Pass@1,Unknown,39.0
+jncraton/granite-3b-code-instruct-ct2-int8,1488,HumanEval,Explain,JavaScript,Pass@1,Unknown,26.8
+jncraton/granite-3b-code-instruct-ct2-int8,1488,HumanEval,Explain,Python,Pass@1,Unknown,39.6
+jncraton/granite-3b-code-instruct-ct2-int8,1488,HumanEval,Explain,Rust,Pass@1,Unknown,12.8
+jncraton/granite-3b-code-instruct-ct2-int8,1488,HumanEval,Fix,C++,Pass@1,Unknown,31.7
+jncraton/granite-3b-code-instruct-ct2-int8,1488,HumanEval,Fix,Go,Pass@1,Unknown,27.4
+jncraton/granite-3b-code-instruct-ct2-int8,1488,HumanEval,Fix,Java,Pass@1,Unknown,33.5
+jncraton/granite-3b-code-instruct-ct2-int8,1488,HumanEval,Fix,JavaScript,Pass@1,Unknown,28.0
+jncraton/granite-3b-code-instruct-ct2-int8,1488,HumanEval,Fix,Python,Pass@1,Unknown,26.8
+jncraton/granite-3b-code-instruct-ct2-int8,1488,HumanEval,Fix,Rust,Pass@1,Unknown,16.5
+jncraton/granite-3b-code-instruct-ct2-int8,1488,HumanEval,Synthesis,C++,Pass@1,Unknown,40.2
+jncraton/granite-3b-code-instruct-ct2-int8,1488,HumanEval,Synthesis,Go,Pass@1,Unknown,31.7
+jncraton/granite-3b-code-instruct-ct2-int8,1488,HumanEval,Synthesis,Java,Pass@1,Unknown,41.5
+jncraton/granite-3b-code-instruct-ct2-int8,1488,HumanEval,Synthesis,JavaScript,Pass@1,Unknown,43.9
+jncraton/granite-3b-code-instruct-ct2-int8,1488,HumanEval,Synthesis,Python,Pass@1,Unknown,51.2
+jncraton/granite-3b-code-instruct-ct2-int8,1488,HumanEval,Synthesis,Rust,Pass@1,Unknown,29.3
+jradchenko/DeciCoder-1b,1490,MultiPL-HumanEval,Unknown,Java,Pass@1,Unknown,16.6
+jradchenko/DeciCoder-1b,1490,MultiPL-HumanEval,Unknown,JavaScript,Pass@1,Unknown,18.4
+jradchenko/DeciCoder-1b,1490,MultiPL-HumanEval,Unknown,Python,Pass@1,Unknown,19.1
+lentan/replit,1511,HumanEval,Unknown,Unknown,Pass@1,Unknown,21.9
+lmstudio-community/stable-code-instruct-3b-GGUF,1536,MultiPL-HumanEval,Unknown,C++,Pass@1,Unknown,30.9
+lmstudio-community/stable-code-instruct-3b-GGUF,1536,MultiPL-HumanEval,Unknown,Java,Pass@1,Unknown,32.1
+lmstudio-community/stable-code-instruct-3b-GGUF,1536,MultiPL-HumanEval,Unknown,JavaScript,Pass@1,Unknown,32.1
+lmstudio-community/stable-code-instruct-3b-GGUF,1536,MultiPL-HumanEval,Unknown,PHP,Pass@1,Unknown,24.2
+lmstudio-community/stable-code-instruct-3b-GGUF,1536,MultiPL-HumanEval,Unknown,Python,Pass@1,Unknown,32.4
+lmstudio-community/stable-code-instruct-3b-GGUF,1536,MultiPL-HumanEval,Unknown,Rust,Pass@1,Unknown,23.0
+lmstudio-community/starcoder2-15b-instruct-v0.1-GGUF,1537,DS-1000,Unknown,Unknown,Pass@1,Unknown,40.6
+lmstudio-community/starcoder2-15b-instruct-v0.1-GGUF,1537,HumanEval,HumanEval+,Unknown,Pass@1,Unknown,63.4
+lmstudio-community/starcoder2-15b-instruct-v0.1-GGUF,1537,HumanEval,Unknown,Unknown,Pass@1,Unknown,72.6
+lmstudio-community/starcoder2-15b-instruct-v0.1-GGUF,1537,LiveCodeBench,Code Execution,Unknown,Pass@1,Unknown,28.1
+lmstudio-community/starcoder2-15b-instruct-v0.1-GGUF,1537,LiveCodeBench,Code Generation,Unknown,Pass@1,Unknown,20.4
+lmstudio-community/starcoder2-15b-instruct-v0.1-GGUF,1537,LiveCodeBench,Self Repair,Unknown,Pass@1,Unknown,20.9
+lmstudio-community/starcoder2-15b-instruct-v0.1-GGUF,1537,LiveCodeBench,Test Output Prediction,Unknown,Pass@1,Unknown,29.8
+lmstudio-community/starcoder2-15b-instruct-v0.1-GGUF,1537,Mostly Basic Python Problems (MBPP),MBPP+,Unknown,Pass@1,Unknown,61.2
+lmstudio-community/starcoder2-15b-instruct-v0.1-GGUF,1537,Mostly Basic Python Problems (MBPP),Unknown,Unknown,Pass@1,Unknown,75.2
+lvwerra/science-timeline,1552,HumanEval,Unknown,Unknown,Pass@1,Unknown,3.17
+lvwerra/science-timeline,1552,HumanEval,Unknown,Unknown,Pass@10,Unknown,8.69
+lvwerra/science-timeline,1552,HumanEval,Unknown,Unknown,Pass@100,Unknown,17.88
+maddes8cht/stabilityai-stablecode-instruct-alpha-3b-gguf,1555,HumanEval,Unknown,Unknown,Pass@1,Unknown,26.89
+maddes8cht/stabilityai-stablecode-instruct-alpha-3b-gguf,1555,HumanEval,Unknown,Unknown,Pass@10,Unknown,36.18
+maddes8cht/syzymon-long_llama_3b_instruct-gguf,1556,HumanEval,Unknown,Unknown,Pass@1,Unknown,12.0
+michaelfeil/ct2fast-Phind-CodeLlama-34B-v2,1573,HumanEval,Unknown,Unknown,Pass@1,Unknown,73.8
+mlx-community/starcoder2-15b-instruct-v0.1-4bit,1621,DS-1000,Unknown,Unknown,Pass@1,Unknown,40.6
+mlx-community/starcoder2-15b-instruct-v0.1-4bit,1621,HumanEval,HumanEval+,Unknown,Pass@1,Unknown,63.4
+mlx-community/starcoder2-15b-instruct-v0.1-4bit,1621,HumanEval,Unknown,Unknown,Pass@1,Unknown,72.6
+mlx-community/starcoder2-15b-instruct-v0.1-4bit,1621,LiveCodeBench,Code Execution,Unknown,Pass@1,Unknown,28.1
+mlx-community/starcoder2-15b-instruct-v0.1-4bit,1621,LiveCodeBench,Code Generation,Unknown,Pass@1,Unknown,20.4
+mlx-community/starcoder2-15b-instruct-v0.1-4bit,1621,LiveCodeBench,Self Repair,Unknown,Pass@1,Unknown,20.9
+mlx-community/starcoder2-15b-instruct-v0.1-4bit,1621,LiveCodeBench,Test Output Prediction,Unknown,Pass@1,Unknown,29.8
+mlx-community/starcoder2-15b-instruct-v0.1-4bit,1621,Mostly Basic Python Problems (MBPP),MBPP+,Unknown,Pass@1,Unknown,61.2
+mlx-community/starcoder2-15b-instruct-v0.1-4bit,1621,Mostly Basic Python Problems (MBPP),Unknown,Unknown,Pass@1,Unknown,75.2
+niansong1996/lever-mbpp-codex,1722,Mostly Basic Python Problems (MBPP),Code Generation,Python,Accuracy,Unknown,68.9
+niansong1996/lever-spider-codex,1723,Spider,Text-to-sql,Unknown,Accuracy,Unknown,81.9
+niansong1996/lever-wikitq-codex,1724,WikiTQ,Text-to-sql,Unknown,Accuracy,Unknown,65.8
+pankajmathur/orca_mini_v2_13b,1775,AI2 Reasoning Challenge,25 Shot,Unknown,Normalized Accuracy,Unknown,55.12
+pankajmathur/orca_mini_v2_13b,1775,Grade School Math 8K (GSM8K),5 Shot,Unknown,Accuracy,Unknown,6.37
+pankajmathur/orca_mini_v2_13b,1775,HellaSwag,10 Shot,Unknown,Normalized Accuracy,Unknown,79.69
+pankajmathur/orca_mini_v2_13b,1775,Measuring Massive Multitask Language Understanding (MMLU),5 Shot,Unknown,Accuracy,Unknown,50.07
+pankajmathur/orca_mini_v2_13b,1775,TruthfulQA,0 Shot,Unknown,MC2,Unknown,52.56
+pankajmathur/orca_mini_v2_13b,1775,WinoGrande,5 Shot,Unknown,Accuracy,Unknown,72.69
+pankajmathur/orca_mini_v2_7b,1776,AI2 Reasoning Challenge,25 Shot,Unknown,Normalized Accuracy,Unknown,50.77
+pankajmathur/orca_mini_v2_7b,1776,Grade School Math 8K (GSM8K),5 Shot,Unknown,Accuracy,Unknown,2.88
+pankajmathur/orca_mini_v2_7b,1776,HellaSwag,10 Shot,Unknown,Normalized Accuracy,Unknown,76.02
+pankajmathur/orca_mini_v2_7b,1776,Measuring Massive Multitask Language Understanding (MMLU),5 Shot,Unknown,Accuracy,Unknown,39.5
+pankajmathur/orca_mini_v2_7b,1776,TruthfulQA,0 Shot,Unknown,MC2,Unknown,43.86
+pankajmathur/orca_mini_v2_7b,1776,WinoGrande,5 Shot,Unknown,Accuracy,Unknown,71.43
+patched-codes/patched-coder-34b,1777,HumanEval,Fix,Python,Pass@1,Unknown,41.34
+patched-codes/patched-coder-34b,1777,HumanEval,Unknown,Unknown,Pass@1,Unknown,53.57
+patched-codes/patched-coder-34b,1777,Static Analysis Eval,Unknown,Unknown,Pass@1,Unknown,51.32
+poisson-fish/Phind-CodeLlama-34B-v2-AWQ,1783,HumanEval,Unknown,Unknown,Pass@1,Unknown,73.8
+prithivMLmods/COCO-7B-Instruct-1M,1789,BBH,3 Shot,Unknown,Normalized Accuracy,Unknown,34.68
+prithivMLmods/COCO-7B-Instruct-1M,1789,GPQA,0 Shot,Unknown,Normalized Accuracy,Unknown,7.72
+prithivMLmods/COCO-7B-Instruct-1M,1789,IFEval,0 Shot,Unknown,Averaged Accuracy,Unknown,47.43
+prithivMLmods/COCO-7B-Instruct-1M,1789,MATH Lvl 5,4 Shot,Unknown,Exact Match,Unknown,30.29
+prithivMLmods/COCO-7B-Instruct-1M,1789,Measuring Massive Multitask Language Understanding (MMLU),PRO 5 Shot,Unknown,Accuracy,Unknown,35.4
+prithivMLmods/COCO-7B-Instruct-1M,1789,MuSR,0 Shot,Unknown,Normalized Accuracy,Unknown,13.51
+prithivMLmods/Calcium-Opus-14B-Elite,1790,BBH,3 Shot,Unknown,Normalized Accuracy,Unknown,46.53
+prithivMLmods/Calcium-Opus-14B-Elite,1790,GPQA,0 Shot,Unknown,Normalized Accuracy,Unknown,16.44
+prithivMLmods/Calcium-Opus-14B-Elite,1790,IFEval,0 Shot,Unknown,Averaged Accuracy,Unknown,60.64
+prithivMLmods/Calcium-Opus-14B-Elite,1790,MATH Lvl 5,4 Shot,Unknown,Exact Match,Unknown,37.08
+prithivMLmods/Calcium-Opus-14B-Elite,1790,Measuring Massive Multitask Language Understanding (MMLU),PRO 5 Shot,Unknown,Accuracy,Unknown,47.85
+prithivMLmods/Calcium-Opus-14B-Elite,1790,MuSR,0 Shot,Unknown,Normalized Accuracy,Unknown,20.95
+prithivMLmods/Calcium-Opus-14B-Elite2,1791,BBH,3 Shot,Unknown,Normalized Accuracy,Unknown,46.81
+prithivMLmods/Calcium-Opus-14B-Elite2,1791,GPQA,0 Shot,Unknown,Normalized Accuracy,Unknown,16.0
+prithivMLmods/Calcium-Opus-14B-Elite2,1791,IFEval,0 Shot,Unknown,Averaged Accuracy,Unknown,61.76
+prithivMLmods/Calcium-Opus-14B-Elite2,1791,MATH Lvl 5,4 Shot,Unknown,Exact Match,Unknown,36.1
+prithivMLmods/Calcium-Opus-14B-Elite2,1791,Measuring Massive Multitask Language Understanding (MMLU),PRO 5 Shot,Unknown,Accuracy,Unknown,47.79
+prithivMLmods/Calcium-Opus-14B-Elite2,1791,MuSR,0 Shot,Unknown,Normalized Accuracy,Unknown,22.24
+prithivMLmods/Calcium-Opus-14B-Elite2-R1,1792,BBH,3 Shot,Unknown,Normalized Accuracy,Unknown,47.34
+prithivMLmods/Calcium-Opus-14B-Elite2-R1,1792,GPQA,0 Shot,Unknown,Normalized Accuracy,Unknown,18.79
+prithivMLmods/Calcium-Opus-14B-Elite2-R1,1792,IFEval,0 Shot,Unknown,Averaged Accuracy,Unknown,63.26
+prithivMLmods/Calcium-Opus-14B-Elite2-R1,1792,MATH Lvl 5,4 Shot,Unknown,Exact Match,Unknown,29.83
+prithivMLmods/Calcium-Opus-14B-Elite2-R1,1792,Measuring Massive Multitask Language Understanding (MMLU),PRO 5 Shot,Unknown,Accuracy,Unknown,47.2
+prithivMLmods/Calcium-Opus-14B-Elite2-R1,1792,MuSR,0 Shot,Unknown,Normalized Accuracy,Unknown,21.42
+prithivMLmods/Calcium-Opus-20B-v1,1793,BBH,3 Shot,Unknown,Normalized Accuracy,Unknown,41.81
+prithivMLmods/Calcium-Opus-20B-v1,1793,GPQA,0 Shot,Unknown,Normalized Accuracy,Unknown,13.76
+prithivMLmods/Calcium-Opus-20B-v1,1793,IFEval,0 Shot,Unknown,Averaged Accuracy,Unknown,30.93
+prithivMLmods/Calcium-Opus-20B-v1,1793,MATH Lvl 5,4 Shot,Unknown,Exact Match,Unknown,11.03
+prithivMLmods/Calcium-Opus-20B-v1,1793,Measuring Massive Multitask Language Understanding (MMLU),PRO 5 Shot,Unknown,Accuracy,Unknown,41.49
+prithivMLmods/Calcium-Opus-20B-v1,1793,MuSR,0 Shot,Unknown,Normalized Accuracy,Unknown,22.09
+prithivMLmods/Elita-1,1795,BBH,3 Shot,Unknown,Normalized Accuracy,Unknown,49.93
+prithivMLmods/Elita-1,1795,GPQA,0 Shot,Unknown,Normalized Accuracy,Unknown,16.78
+prithivMLmods/Elita-1,1795,IFEval,0 Shot,Unknown,Averaged Accuracy,Unknown,49.06
+prithivMLmods/Elita-1,1795,MATH Lvl 5,4 Shot,Unknown,Exact Match,Unknown,34.14
+prithivMLmods/Elita-1,1795,Measuring Massive Multitask Language Understanding (MMLU),PRO 5 Shot,Unknown,Accuracy,Unknown,48.68
+prithivMLmods/Elita-1,1795,MuSR,0 Shot,Unknown,Normalized Accuracy,Unknown,20.53
+prithivMLmods/Gauss-Opus-14B-R999,1799,BBH,3 Shot,Unknown,Normalized Accuracy,Unknown,44.94
+prithivMLmods/Gauss-Opus-14B-R999,1799,GPQA,0 Shot,Unknown,Normalized Accuracy,Unknown,18.9
+prithivMLmods/Gauss-Opus-14B-R999,1799,IFEval,0 Shot,Unknown,Averaged Accuracy,Unknown,39.07
+prithivMLmods/Gauss-Opus-14B-R999,1799,MATH Lvl 5,4 Shot,Unknown,Exact Match,Unknown,57.55
+prithivMLmods/Gauss-Opus-14B-R999,1799,Measuring Massive Multitask Language Understanding (MMLU),PRO 5 Shot,Unknown,Accuracy,Unknown,44.53
+prithivMLmods/Gauss-Opus-14B-R999,1799,MuSR,0 Shot,Unknown,Normalized Accuracy,Unknown,27.83
+prithivMLmods/Jolt-v0.1,1800,BBH,3 Shot,Unknown,Normalized Accuracy,Unknown,50.03
+prithivMLmods/Jolt-v0.1,1800,GPQA,0 Shot,Unknown,Normalized Accuracy,Unknown,17.34
+prithivMLmods/Jolt-v0.1,1800,IFEval,0 Shot,Unknown,Averaged Accuracy,Unknown,50.92
+prithivMLmods/Jolt-v0.1,1800,MATH Lvl 5,4 Shot,Unknown,Exact Match,Unknown,35.88
+prithivMLmods/Jolt-v0.1,1800,Measuring Massive Multitask Language Understanding (MMLU),PRO 5 Shot,Unknown,Accuracy,Unknown,48.74
+prithivMLmods/Jolt-v0.1,1800,MuSR,0 Shot,Unknown,Normalized Accuracy,Unknown,20.49
+prithivMLmods/Megatron-Corpus-14B-Exp,1806,BBH,3 Shot,Unknown,Normalized Accuracy,Unknown,47.92
+prithivMLmods/Megatron-Corpus-14B-Exp,1806,GPQA,0 Shot,Unknown,Normalized Accuracy,Unknown,15.1
+prithivMLmods/Megatron-Corpus-14B-Exp,1806,IFEval,0 Shot,Unknown,Averaged Accuracy,Unknown,49.83
+prithivMLmods/Megatron-Corpus-14B-Exp,1806,MATH Lvl 5,4 Shot,Unknown,Exact Match,Unknown,34.29
+prithivMLmods/Megatron-Corpus-14B-Exp,1806,Measuring Massive Multitask Language Understanding (MMLU),PRO 5 Shot,Unknown,Accuracy,Unknown,47.33
+prithivMLmods/Megatron-Corpus-14B-Exp,1806,MuSR,0 Shot,Unknown,Normalized Accuracy,Unknown,18.85
+prithivMLmods/Megatron-Corpus-14B-Exp.v2,1807,BBH,3 Shot,Unknown,Normalized Accuracy,Unknown,46.79
+prithivMLmods/Megatron-Corpus-14B-Exp.v2,1807,GPQA,0 Shot,Unknown,Normalized Accuracy,Unknown,12.3
+prithivMLmods/Megatron-Corpus-14B-Exp.v2,1807,IFEval,0 Shot,Unknown,Averaged Accuracy,Unknown,48.7
+prithivMLmods/Megatron-Corpus-14B-Exp.v2,1807,MATH Lvl 5,4 Shot,Unknown,Exact Match,Unknown,25.3
+prithivMLmods/Megatron-Corpus-14B-Exp.v2,1807,Measuring Massive Multitask Language Understanding (MMLU),PRO 5 Shot,Unknown,Accuracy,Unknown,42.33
+prithivMLmods/Megatron-Corpus-14B-Exp.v2,1807,MuSR,0 Shot,Unknown,Normalized Accuracy,Unknown,15.36
+prithivMLmods/Primal-Opus-14B-Optimus-v1,1812,BBH,3 Shot,Unknown,Normalized Accuracy,Unknown,48.27
+prithivMLmods/Primal-Opus-14B-Optimus-v1,1812,GPQA,0 Shot,Unknown,Normalized Accuracy,Unknown,16.33
+prithivMLmods/Primal-Opus-14B-Optimus-v1,1812,IFEval,0 Shot,Unknown,Averaged Accuracy,Unknown,50.13
+prithivMLmods/Primal-Opus-14B-Optimus-v1,1812,MATH Lvl 5,4 Shot,Unknown,Exact Match,Unknown,33.23
+prithivMLmods/Primal-Opus-14B-Optimus-v1,1812,Measuring Massive Multitask Language Understanding (MMLU),PRO 5 Shot,Unknown,Accuracy,Unknown,47.33
+prithivMLmods/Primal-Opus-14B-Optimus-v1,1812,MuSR,0 Shot,Unknown,Normalized Accuracy,Unknown,20.49
+prithivMLmods/Primal-Opus-14B-Optimus-v2,1813,BBH,3 Shot,Unknown,Normalized Accuracy,Unknown,50.18
+prithivMLmods/Primal-Opus-14B-Optimus-v2,1813,GPQA,0 Shot,Unknown,Normalized Accuracy,Unknown,18.9
+prithivMLmods/Primal-Opus-14B-Optimus-v2,1813,IFEval,0 Shot,Unknown,Averaged Accuracy,Unknown,64.04
+prithivMLmods/Primal-Opus-14B-Optimus-v2,1813,MATH Lvl 5,4 Shot,Unknown,Exact Match,Unknown,42.07
+prithivMLmods/Primal-Opus-14B-Optimus-v2,1813,Measuring Massive Multitask Language Understanding (MMLU),PRO 5 Shot,Unknown,Accuracy,Unknown,49.14
+prithivMLmods/Primal-Opus-14B-Optimus-v2,1813,MuSR,0 Shot,Unknown,Normalized Accuracy,Unknown,21.15
+prithivMLmods/Sombrero-Opus-14B-Sm1,1819,BBH,3 Shot,Unknown,Normalized Accuracy,Unknown,47.03
+prithivMLmods/Sombrero-Opus-14B-Sm1,1819,GPQA,0 Shot,Unknown,Normalized Accuracy,Unknown,20.47
+prithivMLmods/Sombrero-Opus-14B-Sm1,1819,IFEval,0 Shot,Unknown,Averaged Accuracy,Unknown,38.13
+prithivMLmods/Sombrero-Opus-14B-Sm1,1819,MATH Lvl 5,4 Shot,Unknown,Exact Match,Unknown,56.65
+prithivMLmods/Sombrero-Opus-14B-Sm1,1819,Measuring Massive Multitask Language Understanding (MMLU),PRO 5 Shot,Unknown,Accuracy,Unknown,45.83
+prithivMLmods/Sombrero-Opus-14B-Sm1,1819,MuSR,0 Shot,Unknown,Normalized Accuracy,Unknown,27.24
+prithivMLmods/Sombrero-Opus-14B-Sm2,1820,BBH,3 Shot,Unknown,Normalized Accuracy,Unknown,51.25
+prithivMLmods/Sombrero-Opus-14B-Sm2,1820,GPQA,0 Shot,Unknown,Normalized Accuracy,Unknown,18.46
+prithivMLmods/Sombrero-Opus-14B-Sm2,1820,IFEval,0 Shot,Unknown,Averaged Accuracy,Unknown,42.72
+prithivMLmods/Sombrero-Opus-14B-Sm2,1820,MATH Lvl 5,4 Shot,Unknown,Exact Match,Unknown,48.64
+prithivMLmods/Sombrero-Opus-14B-Sm2,1820,Measuring Massive Multitask Language Understanding (MMLU),PRO 5 Shot,Unknown,Accuracy,Unknown,48.28
+prithivMLmods/Sombrero-Opus-14B-Sm2,1820,MuSR,0 Shot,Unknown,Normalized Accuracy,Unknown,24.53
+prithivMLmods/Taurus-Opus-7B,1824,BBH,3 Shot,Unknown,Normalized Accuracy,Unknown,34.23
+prithivMLmods/Taurus-Opus-7B,1824,GPQA,0 Shot,Unknown,Normalized Accuracy,Unknown,10.18
+prithivMLmods/Taurus-Opus-7B,1824,IFEval,0 Shot,Unknown,Averaged Accuracy,Unknown,42.23
+prithivMLmods/Taurus-Opus-7B,1824,MATH Lvl 5,4 Shot,Unknown,Exact Match,Unknown,22.73
+prithivMLmods/Taurus-Opus-7B,1824,Measuring Massive Multitask Language Understanding (MMLU),PRO 5 Shot,Unknown,Accuracy,Unknown,32.79
+prithivMLmods/Taurus-Opus-7B,1824,MuSR,0 Shot,Unknown,Normalized Accuracy,Unknown,14.22
+prithivMLmods/Viper-Coder-Hybrid-v1.2,1825,BBH,3 Shot,Unknown,Normalized Accuracy,Unknown,48.29
+prithivMLmods/Viper-Coder-Hybrid-v1.2,1825,GPQA,0 Shot,Unknown,Normalized Accuracy,Unknown,16.55
+prithivMLmods/Viper-Coder-Hybrid-v1.2,1825,IFEval,0 Shot,Unknown,Averaged Accuracy,Unknown,67.36
+prithivMLmods/Viper-Coder-Hybrid-v1.2,1825,MATH Lvl 5,4 Shot,Unknown,Exact Match,Unknown,33.31
+prithivMLmods/Viper-Coder-Hybrid-v1.2,1825,Measuring Massive Multitask Language Understanding (MMLU),PRO 5 Shot,Unknown,Accuracy,Unknown,47.14
+prithivMLmods/Viper-Coder-Hybrid-v1.2,1825,MuSR,0 Shot,Unknown,Normalized Accuracy,Unknown,20.31
+prithivMLmods/Viper-Coder-Hybrid-v1.3,1826,BBH,3 Shot,Unknown,Normalized Accuracy,Unknown,49.61
+prithivMLmods/Viper-Coder-Hybrid-v1.3,1826,GPQA,0 Shot,Unknown,Normalized Accuracy,Unknown,11.74
+prithivMLmods/Viper-Coder-Hybrid-v1.3,1826,IFEval,0 Shot,Unknown,Averaged Accuracy,Unknown,75.55
+prithivMLmods/Viper-Coder-Hybrid-v1.3,1826,MATH Lvl 5,4 Shot,Unknown,Exact Match,Unknown,45.17
+prithivMLmods/Viper-Coder-Hybrid-v1.3,1826,Measuring Massive Multitask Language Understanding (MMLU),PRO 5 Shot,Unknown,Accuracy,Unknown,45.52
+prithivMLmods/Viper-Coder-Hybrid-v1.3,1826,MuSR,0 Shot,Unknown,Normalized Accuracy,Unknown,14.87
+prithivMLmods/Viper-Coder-HybridMini-v1.3,1827,BBH,3 Shot,Unknown,Normalized Accuracy,Unknown,33.67
+prithivMLmods/Viper-Coder-HybridMini-v1.3,1827,GPQA,0 Shot,Unknown,Normalized Accuracy,Unknown,8.95
+prithivMLmods/Viper-Coder-HybridMini-v1.3,1827,IFEval,0 Shot,Unknown,Averaged Accuracy,Unknown,61.04
+prithivMLmods/Viper-Coder-HybridMini-v1.3,1827,MATH Lvl 5,4 Shot,Unknown,Exact Match,Unknown,46.3
+prithivMLmods/Viper-Coder-HybridMini-v1.3,1827,Measuring Massive Multitask Language Understanding (MMLU),PRO 5 Shot,Unknown,Accuracy,Unknown,37.24
+prithivMLmods/Viper-Coder-HybridMini-v1.3,1827,MuSR,0 Shot,Unknown,Normalized Accuracy,Unknown,15.61
+prithivMLmods/Viper-Coder-v0.1,1828,BBH,3 Shot,Unknown,Normalized Accuracy,Unknown,44.63
+prithivMLmods/Viper-Coder-v0.1,1828,GPQA,0 Shot,Unknown,Normalized Accuracy,Unknown,13.87
+prithivMLmods/Viper-Coder-v0.1,1828,IFEval,0 Shot,Unknown,Averaged Accuracy,Unknown,55.21
+prithivMLmods/Viper-Coder-v0.1,1828,MATH Lvl 5,4 Shot,Unknown,Exact Match,Unknown,31.87
+prithivMLmods/Viper-Coder-v0.1,1828,Measuring Massive Multitask Language Understanding (MMLU),PRO 5 Shot,Unknown,Accuracy,Unknown,32.53
+prithivMLmods/Viper-Coder-v0.1,1828,MuSR,0 Shot,Unknown,Normalized Accuracy,Unknown,13.03
+prithivMLmods/Viper-Coder-v1.1,1830,BBH,3 Shot,Unknown,Normalized Accuracy,Unknown,49.27
+prithivMLmods/Viper-Coder-v1.1,1830,GPQA,0 Shot,Unknown,Normalized Accuracy,Unknown,20.13
+prithivMLmods/Viper-Coder-v1.1,1830,IFEval,0 Shot,Unknown,Averaged Accuracy,Unknown,44.32
+prithivMLmods/Viper-Coder-v1.1,1830,MATH Lvl 5,4 Shot,Unknown,Exact Match,Unknown,54.61
+prithivMLmods/Viper-Coder-v1.1,1830,Measuring Massive Multitask Language Understanding (MMLU),PRO 5 Shot,Unknown,Accuracy,Unknown,47.02
+prithivMLmods/Viper-Coder-v1.1,1830,MuSR,0 Shot,Unknown,Normalized Accuracy,Unknown,26.21
+prithivMLmods/Viper-Coder-v1.7-Vsm6,1832,BBH,3 Shot,Unknown,Normalized Accuracy,Unknown,49.53
+prithivMLmods/Viper-Coder-v1.7-Vsm6,1832,GPQA,0 Shot,Unknown,Normalized Accuracy,Unknown,19.57
+prithivMLmods/Viper-Coder-v1.7-Vsm6,1832,IFEval,0 Shot,Unknown,Averaged Accuracy,Unknown,50.04
+prithivMLmods/Viper-Coder-v1.7-Vsm6,1832,MATH Lvl 5,4 Shot,Unknown,Exact Match,Unknown,46.45
+prithivMLmods/Viper-Coder-v1.7-Vsm6,1832,Measuring Massive Multitask Language Understanding (MMLU),PRO 5 Shot,Unknown,Accuracy,Unknown,47.64
+prithivMLmods/Viper-Coder-v1.7-Vsm6,1832,MuSR,0 Shot,Unknown,Normalized Accuracy,Unknown,18.86
+replit/replit-code-v1-3b,1853,HumanEval,Unknown,Unknown,Pass@1,Unknown,21.9
+retrain-pipelines/function_caller_lora,1856,Retrain-pipelines Function Calling,Unknown,Unknown,F1,Unknown,77.37
+retrain-pipelines/function_caller_lora,1856,Retrain-pipelines Function Calling,Unknown,Unknown,Jaccard,Unknown,75.57
+retrain-pipelines/function_caller_lora,1856,Retrain-pipelines Function Calling,Unknown,Unknown,Precision,Unknown,77.42
+retrain-pipelines/function_caller_lora,1856,Retrain-pipelines Function Calling,Unknown,Unknown,Recall,Unknown,77.36
+royleibov/granite-3b-code-base-128k-ZipNN-Compressed,1863,HumanEval,Explain,Average,Pass@1,Unknown,22.4
+royleibov/granite-3b-code-base-128k-ZipNN-Compressed,1863,HumanEval,Fix,Average,Pass@1,Unknown,19.9
+royleibov/granite-3b-code-base-128k-ZipNN-Compressed,1863,HumanEval,Synthesis,Average,Pass@1,Unknown,30.5
+royleibov/granite-3b-code-base-128k-ZipNN-Compressed,1863,HumanEval,Synthesis,Python,Pass@1,Unknown,36.0
+royleibov/granite-3b-code-base-128k-ZipNN-Compressed,1863,LCC,Balanced,Unknown,Exact Match,@16K,52.2
+royleibov/granite-3b-code-base-128k-ZipNN-Compressed,1863,LCC,Balanced,Unknown,Exact Match,@32K,57.8
+royleibov/granite-3b-code-base-128k-ZipNN-Compressed,1863,LCC,Balanced,Unknown,Exact Match,@4K,54.6
+royleibov/granite-3b-code-base-128k-ZipNN-Compressed,1863,LCC,Balanced,Unknown,Exact Match,@8K,56.8
+royleibov/granite-3b-code-base-128k-ZipNN-Compressed,1863,RepoBench-P,Balanced,Unknown,Exact Match,@16K,43.1
+royleibov/granite-3b-code-base-128k-ZipNN-Compressed,1863,RepoBench-P,Balanced,Unknown,Exact Match,@32K,45.3
+royleibov/granite-3b-code-base-128k-ZipNN-Compressed,1863,RepoBench-P,Balanced,Unknown,Exact Match,@4K,39.8
+royleibov/granite-3b-code-base-128k-ZipNN-Compressed,1863,RepoBench-P,Balanced,Unknown,Exact Match,@8K,46.8
+royleibov/granite-3b-code-base-128k-ZipNN-Compressed,1863,RepoQA,@16K,C++,Pass@1,Threshold = 0.5,36.0
+royleibov/granite-3b-code-base-128k-ZipNN-Compressed,1863,RepoQA,@16K,Java,Pass@1,Threshold = 0.5,37.0
+royleibov/granite-3b-code-base-128k-ZipNN-Compressed,1863,RepoQA,@16K,Python,Pass@1,Threshold = 0.5,40.0
+royleibov/granite-3b-code-base-128k-ZipNN-Compressed,1863,RepoQA,@16K,Rust,Pass@1,Threshold = 0.5,29.0
+royleibov/granite-3b-code-base-128k-ZipNN-Compressed,1863,RepoQA,@16K,TypeScript,Pass@1,Threshold = 0.5,27.0
+senseable/moe-x33,1882,AI2 Reasoning Challenge,25 Shot,Unknown,Normalized Accuracy,Unknown,26.19
+senseable/moe-x33,1882,Grade School Math 8K (GSM8K),5 Shot,Unknown,Accuracy,Unknown,0.0
+senseable/moe-x33,1882,HellaSwag,10 Shot,Unknown,Normalized Accuracy,Unknown,26.44
+senseable/moe-x33,1882,Measuring Massive Multitask Language Understanding (MMLU),5 Shot,Unknown,Accuracy,Unknown,24.93
+senseable/moe-x33,1882,TruthfulQA,0 Shot,Unknown,MC2,Unknown,51.14
+senseable/moe-x33,1882,WinoGrande,5 Shot,Unknown,Accuracy,Unknown,50.99
+shawhin/distilroberta-ai-job-embeddings,1889,AI Job,Test,Unknown,Cosine Accuracy,Unknown,100.0
+shawhin/distilroberta-ai-job-embeddings,1889,AI Job,Validation,Unknown,Cosine Accuracy,Unknown,99.01
+sithot28/distilroberta-ai-job-embeddings,1893,AI Job,Test,Unknown,Cosine Accuracy,Unknown,94.96
+sithot28/distilroberta-ai-job-embeddings,1893,AI Job,Validation,Unknown,Cosine Accuracy,Unknown,96.58
+refactai/Refact-1_6B-fim,1895,DS-1000,Overall Completion,Unknown,Pass@1,Threshold = 0.2,10.1
+refactai/Refact-1_6B-fim,1895,HumanEval,Explain,C++,Pass@1,Threshold = 0.2,18.78
+refactai/Refact-1_6B-fim,1895,HumanEval,Explain,Java,Pass@1,Threshold = 0.2,20.94
+refactai/Refact-1_6B-fim,1895,HumanEval,Explain,JavaScript,Pass@1,Threshold = 0.2,17.86
+refactai/Refact-1_6B-fim,1895,HumanEval,Explain,Python,Pass@1,Threshold = 0.2,26.46
+refactai/Refact-1_6B-fim,1895,HumanEval,Fix Docs,C++,Pass@1,Threshold = 0.2,25.94
+refactai/Refact-1_6B-fim,1895,HumanEval,Fix Docs,Java,Pass@1,Threshold = 0.2,30.76
+refactai/Refact-1_6B-fim,1895,HumanEval,Fix Docs,JavaScript,Pass@1,Threshold = 0.2,26.85
+refactai/Refact-1_6B-fim,1895,HumanEval,Fix Docs,Python,Pass@1,Threshold = 0.2,26.92
+refactai/Refact-1_6B-fim,1895,HumanEval,Fix Docs,Rust,Pass@1,Threshold = 0.2,8.44
+refactai/Refact-1_6B-fim,1895,HumanEval,Fix Tests,C++,Pass@1,Threshold = 0.2,13.17
+refactai/Refact-1_6B-fim,1895,HumanEval,Fix Tests,Java,Pass@1,Threshold = 0.2,15.12
+refactai/Refact-1_6B-fim,1895,HumanEval,Fix Tests,JavaScript,Pass@1,Threshold = 0.2,12.28
+refactai/Refact-1_6B-fim,1895,HumanEval,Fix Tests,Python,Pass@1,Threshold = 0.2,18.38
+refactai/Refact-1_6B-fim,1895,HumanEval,Fix Tests,Rust,Pass@1,Threshold = 0.2,2.8
+refactai/Refact-1_6B-fim,1895,HumanEval,Synthesize,C++,Pass@1,Threshold = 0.2,26.3
+refactai/Refact-1_6B-fim,1895,HumanEval,Synthesize,Java,Pass@1,Threshold = 0.2,29.1
+refactai/Refact-1_6B-fim,1895,HumanEval,Synthesize,JavaScript,Pass@1,Threshold = 0.2,31.6
+refactai/Refact-1_6B-fim,1895,HumanEval,Synthesize,Python,Pass@1,Threshold = 0.2,35.8
+refactai/Refact-1_6B-fim,1895,HumanEval,Unknown,Unknown,Pass@1,Threshold = 0.01,32.0
+refactai/Refact-1_6B-fim,1895,HumanEval,Unknown,Unknown,Pass@1,Threshold = 0.2,31.5
+refactai/Refact-1_6B-fim,1895,HumanEval,Unknown,Unknown,Pass@10,Threshold = 0.8,53.0
+refactai/Refact-1_6B-fim,1895,HumanEval,Unknown,Unknown,Pass@100,Threshold = 0.8,76.9
+refactai/Refact-1_6B-fim,1895,Mostly Basic Python Problems (MBPP),Unknown,Unknown,Pass@1,Threshold = 0.01,31.15
+refactai/Refact-1_6B-fim,1895,MultiPL-HumanEval,Unknown,Bash,Pass@1,Threshold = 0.2,5.7
+refactai/Refact-1_6B-fim,1895,MultiPL-HumanEval,Unknown,C#,Pass@1,Threshold = 0.2,13.91
+refactai/Refact-1_6B-fim,1895,MultiPL-HumanEval,Unknown,C++,Pass@1,Threshold = 0.2,21.61
+refactai/Refact-1_6B-fim,1895,MultiPL-HumanEval,Unknown,D,Pass@1,Threshold = 0.2,9.5
+refactai/Refact-1_6B-fim,1895,MultiPL-HumanEval,Unknown,Go,Pass@1,Threshold = 0.2,53.57
+refactai/Refact-1_6B-fim,1895,MultiPL-HumanEval,Unknown,Java,Pass@1,Threshold = 0.2,21.58
+refactai/Refact-1_6B-fim,1895,MultiPL-HumanEval,Unknown,JavaScript,Pass@1,Threshold = 0.2,26.88
+refactai/Refact-1_6B-fim,1895,MultiPL-HumanEval,Unknown,Julia,Pass@1,Threshold = 0.2,13.75
+refactai/Refact-1_6B-fim,1895,MultiPL-HumanEval,Unknown,Lua,Pass@1,Threshold = 0.2,15.26
+refactai/Refact-1_6B-fim,1895,MultiPL-HumanEval,Unknown,PHP,Pass@1,Threshold = 0.2,23.04
+refactai/Refact-1_6B-fim,1895,MultiPL-HumanEval,Unknown,Perl,Pass@1,Threshold = 0.2,12.1
+refactai/Refact-1_6B-fim,1895,MultiPL-HumanEval,Unknown,Python,Pass@1,Threshold = 0.2,29.6
+refactai/Refact-1_6B-fim,1895,MultiPL-HumanEval,Unknown,R,Pass@1,Threshold = 0.2,13.77
+refactai/Refact-1_6B-fim,1895,MultiPL-HumanEval,Unknown,Racket,Pass@1,Threshold = 0.2,4.29
+refactai/Refact-1_6B-fim,1895,MultiPL-HumanEval,Unknown,Ruby,Pass@1,Threshold = 0.2,12.68
+refactai/Refact-1_6B-fim,1895,MultiPL-HumanEval,Unknown,Rust,Pass@1,Threshold = 0.2,19.54
+refactai/Refact-1_6B-fim,1895,MultiPL-HumanEval,Unknown,Scala,Pass@1,Threshold = 0.2,18.33
+refactai/Refact-1_6B-fim,1895,MultiPL-HumanEval,Unknown,Swift,Pass@1,Threshold = 0.2,17.68
+refactai/Refact-1_6B-fim,1895,MultiPL-HumanEval,Unknown,TypeScript,Pass@1,Threshold = 0.2,25.0
+solidrust/Hyperion-1.5-Mistral-7B-AWQ,1900,AI2 Reasoning Challenge,25 Shot,Unknown,Normalized Accuracy,Unknown,60.49
+solidrust/Hyperion-1.5-Mistral-7B-AWQ,1900,Grade School Math 8K (GSM8K),5 Shot,Unknown,Accuracy,Unknown,40.49
+solidrust/Hyperion-1.5-Mistral-7B-AWQ,1900,HellaSwag,10 Shot,Unknown,Normalized Accuracy,Unknown,83.64
+solidrust/Hyperion-1.5-Mistral-7B-AWQ,1900,Measuring Massive Multitask Language Understanding (MMLU),5 Shot,Unknown,Accuracy,Unknown,63.57
+solidrust/Hyperion-1.5-Mistral-7B-AWQ,1900,TruthfulQA,0 Shot,Unknown,MC2,Unknown,41.78
+solidrust/Hyperion-1.5-Mistral-7B-AWQ,1900,WinoGrande,5 Shot,Unknown,Accuracy,Unknown,78.61
+solidrust/Mixtral-Instruct-v0.2-2x7B-AWQ,1905,AI2 Reasoning Challenge,25 Shot,Unknown,Normalized Accuracy,Unknown,62.97
+solidrust/Mixtral-Instruct-v0.2-2x7B-AWQ,1905,Grade School Math 8K (GSM8K),5 Shot,Unknown,Accuracy,Unknown,39.42
+solidrust/Mixtral-Instruct-v0.2-2x7B-AWQ,1905,HellaSwag,10 Shot,Unknown,Normalized Accuracy,Unknown,84.88
+solidrust/Mixtral-Instruct-v0.2-2x7B-AWQ,1905,Measuring Massive Multitask Language Understanding (MMLU),5 Shot,Unknown,Accuracy,Unknown,60.74
+solidrust/Mixtral-Instruct-v0.2-2x7B-AWQ,1905,TruthfulQA,0 Shot,Unknown,MC2,Unknown,68.18
+solidrust/Mixtral-Instruct-v0.2-2x7B-AWQ,1905,WinoGrande,5 Shot,Unknown,Accuracy,Unknown,77.43
+speechlessai/speechless-coding-7b-16k-tora,1910,HumanEval,Unknown,Unknown,Pass@1,Unknown,52.44
+stabilityai/stable-code-instruct-3b,1912,MultiPL-HumanEval,Unknown,C++,Pass@1,Unknown,30.9
+stabilityai/stable-code-instruct-3b,1912,MultiPL-HumanEval,Unknown,Java,Pass@1,Unknown,32.1
+stabilityai/stable-code-instruct-3b,1912,MultiPL-HumanEval,Unknown,JavaScript,Pass@1,Unknown,32.1
+stabilityai/stable-code-instruct-3b,1912,MultiPL-HumanEval,Unknown,PHP,Pass@1,Unknown,24.2
+stabilityai/stable-code-instruct-3b,1912,MultiPL-HumanEval,Unknown,Python,Pass@1,Unknown,32.4
+stabilityai/stable-code-instruct-3b,1912,MultiPL-HumanEval,Unknown,Rust,Pass@1,Unknown,23.0
+stabilityai/stablecode-completion-alpha-3b,1913,HumanEval,Unknown,Unknown,Pass@1,Unknown,20.18
+stabilityai/stablecode-completion-alpha-3b,1913,HumanEval,Unknown,Unknown,Pass@10,Unknown,33.75
+stabilityai/stablecode-completion-alpha-3b-4k,1914,HumanEval,Unknown,Unknown,Pass@1,Unknown,17.68
+stabilityai/stablecode-completion-alpha-3b-4k,1914,HumanEval,Unknown,Unknown,Pass@10,Unknown,27.01
+syzymon/long_llama_3b_instruct,1933,HumanEval,Unknown,Unknown,Pass@1,Unknown,12.0
+syzymon/long_llama_code_7b,1934,Grade School Math 8K (GSM8K),Unknown,Python,Pass@1,Unknown,24.9
+syzymon/long_llama_code_7b,1934,Grade School Math 8K (GSM8K),Unknown,Unknown,Pass@1,Unknown,17.4
+syzymon/long_llama_code_7b,1934,HumanEval,Unknown,Unknown,Pass@1,Unknown,28.6
+syzymon/long_llama_code_7b,1934,Measuring Massive Multitask Language Understanding (MMLU),Unknown,Unknown,Accuracy,Unknown,39.9
+tensorblock/bloomz-1b1-GGUF,1944,ANLI,R1,Unknown,Accuracy,Unknown,33.3
+tensorblock/bloomz-1b1-GGUF,1944,ANLI,R2,Unknown,Accuracy,Unknown,33.5
+tensorblock/bloomz-1b1-GGUF,1944,ANLI,R3,Unknown,Accuracy,Unknown,34.5
+tensorblock/bloomz-1b1-GGUF,1944,HumanEval,Unknown,Unknown,Pass@1,Unknown,2.62
+tensorblock/bloomz-1b1-GGUF,1944,HumanEval,Unknown,Unknown,Pass@10,Unknown,6.22
+tensorblock/bloomz-1b1-GGUF,1944,HumanEval,Unknown,Unknown,Pass@100,Unknown,11.68
+tensorblock/bloomz-1b1-GGUF,1944,StoryCloze,2016,Unknown,Accuracy,Unknown,62.75
+tensorblock/bloomz-1b1-GGUF,1944,SuperGLUE,Cb,Unknown,Accuracy,Unknown,58.93
+tensorblock/bloomz-1b1-GGUF,1944,SuperGLUE,Copa,Unknown,Accuracy,Unknown,63.0
+tensorblock/bloomz-1b1-GGUF,1944,SuperGLUE,Rte,Unknown,Accuracy,Unknown,65.7
+tensorblock/bloomz-1b1-GGUF,1944,WinoGrande,Xl,Unknown,Accuracy,Unknown,52.33
+tensorblock/bloomz-1b1-GGUF,1944,XCOPA,Et,Unknown,Accuracy,Unknown,55.0
+tensorblock/bloomz-1b1-GGUF,1944,XCOPA,Ht,Unknown,Accuracy,Unknown,52.0
+tensorblock/bloomz-1b1-GGUF,1944,XCOPA,Id,Unknown,Accuracy,Unknown,60.0
+tensorblock/bloomz-1b1-GGUF,1944,XCOPA,It,Unknown,Accuracy,Unknown,56.0
+tensorblock/bloomz-1b1-GGUF,1944,XCOPA,Qu,Unknown,Accuracy,Unknown,56.0
+tensorblock/bloomz-1b1-GGUF,1944,XCOPA,Sw,Unknown,Accuracy,Unknown,64.0
+tensorblock/bloomz-1b1-GGUF,1944,XCOPA,Ta,Unknown,Accuracy,Unknown,57.0
+tensorblock/bloomz-1b1-GGUF,1944,XCOPA,Th,Unknown,Accuracy,Unknown,59.0
+tensorblock/bloomz-1b1-GGUF,1944,XCOPA,Tr,Unknown,Accuracy,Unknown,55.0
+tensorblock/bloomz-1b1-GGUF,1944,XCOPA,Vi,Unknown,Accuracy,Unknown,63.0
+tensorblock/bloomz-1b1-GGUF,1944,XCOPA,Zh,Unknown,Accuracy,Unknown,61.0
+tensorblock/bloomz-1b1-GGUF,1944,XNLI,Ar,Unknown,Accuracy,Unknown,46.59
+tensorblock/bloomz-1b1-GGUF,1944,XNLI,Bg,Unknown,Accuracy,Unknown,40.4
+tensorblock/bloomz-1b1-GGUF,1944,XNLI,De,Unknown,Accuracy,Unknown,40.12
+tensorblock/bloomz-1b1-GGUF,1944,XNLI,El,Unknown,Accuracy,Unknown,39.32
+tensorblock/bloomz-1b1-GGUF,1944,XNLI,En,Unknown,Accuracy,Unknown,47.11
+tensorblock/bloomz-1b1-GGUF,1944,XNLI,Es,Unknown,Accuracy,Unknown,47.55
+tensorblock/bloomz-1b1-GGUF,1944,XNLI,Fr,Unknown,Accuracy,Unknown,48.51
+tensorblock/bloomz-1b1-GGUF,1944,XNLI,Hi,Unknown,Accuracy,Unknown,42.89
+tensorblock/bloomz-1b1-GGUF,1944,XNLI,Ru,Unknown,Accuracy,Unknown,42.81
+tensorblock/bloomz-1b1-GGUF,1944,XNLI,Sw,Unknown,Accuracy,Unknown,41.29
+tensorblock/bloomz-1b1-GGUF,1944,XNLI,Th,Unknown,Accuracy,Unknown,42.93
+tensorblock/bloomz-1b1-GGUF,1944,XNLI,Tr,Unknown,Accuracy,Unknown,37.51
+tensorblock/bloomz-1b1-GGUF,1944,XNLI,Ur,Unknown,Accuracy,Unknown,41.37
+tensorblock/bloomz-1b1-GGUF,1944,XNLI,Vi,Unknown,Accuracy,Unknown,47.19
+tensorblock/bloomz-1b1-GGUF,1944,XNLI,Zh,Unknown,Accuracy,Unknown,47.63
+tensorblock/bloomz-1b1-GGUF,1944,XStoryCloze,Ar,Unknown,Accuracy,Unknown,53.54
+tensorblock/bloomz-1b1-GGUF,1944,XStoryCloze,Es,Unknown,Accuracy,Unknown,58.37
+tensorblock/bloomz-1b1-GGUF,1944,XStoryCloze,Eu,Unknown,Accuracy,Unknown,52.35
+tensorblock/bloomz-1b1-GGUF,1944,XStoryCloze,Hi,Unknown,Accuracy,Unknown,55.92
+tensorblock/bloomz-1b1-GGUF,1944,XStoryCloze,Id,Unknown,Accuracy,Unknown,57.97
+tensorblock/bloomz-1b1-GGUF,1944,XStoryCloze,My,Unknown,Accuracy,Unknown,47.05
+tensorblock/bloomz-1b1-GGUF,1944,XStoryCloze,Ru,Unknown,Accuracy,Unknown,50.3
+tensorblock/bloomz-1b1-GGUF,1944,XStoryCloze,Sw,Unknown,Accuracy,Unknown,49.97
+tensorblock/bloomz-1b1-GGUF,1944,XStoryCloze,Te,Unknown,Accuracy,Unknown,55.86
+tensorblock/bloomz-1b1-GGUF,1944,XStoryCloze,Zh,Unknown,Accuracy,Unknown,58.17
+tensorblock/bloomz-1b1-GGUF,1944,XWinograd,En,Unknown,Accuracy,Unknown,50.49
+tensorblock/bloomz-1b1-GGUF,1944,XWinograd,Fr,Unknown,Accuracy,Unknown,59.04
+tensorblock/bloomz-1b1-GGUF,1944,XWinograd,Jp,Unknown,Accuracy,Unknown,51.82
+tensorblock/bloomz-1b1-GGUF,1944,XWinograd,Pt,Unknown,Accuracy,Unknown,54.75
+tensorblock/bloomz-1b1-GGUF,1944,XWinograd,Ru,Unknown,Accuracy,Unknown,53.97
+tensorblock/bloomz-1b1-GGUF,1944,XWinograd,Zh,Unknown,Accuracy,Unknown,55.16
+tensorblock/bloomz-1b7-GGUF,1945,ANLI,R1,Unknown,Accuracy,Unknown,34.0
+tensorblock/bloomz-1b7-GGUF,1945,ANLI,R2,Unknown,Accuracy,Unknown,36.1
+tensorblock/bloomz-1b7-GGUF,1945,ANLI,R3,Unknown,Accuracy,Unknown,37.08
+tensorblock/bloomz-1b7-GGUF,1945,HumanEval,Unknown,Unknown,Pass@1,Unknown,4.38
+tensorblock/bloomz-1b7-GGUF,1945,HumanEval,Unknown,Unknown,Pass@10,Unknown,8.73
+tensorblock/bloomz-1b7-GGUF,1945,HumanEval,Unknown,Unknown,Pass@100,Unknown,16.09
+tensorblock/bloomz-1b7-GGUF,1945,StoryCloze,2016,Unknown,Accuracy,Unknown,82.9
+tensorblock/bloomz-1b7-GGUF,1945,SuperGLUE,Cb,Unknown,Accuracy,Unknown,71.43
+tensorblock/bloomz-1b7-GGUF,1945,SuperGLUE,Copa,Unknown,Accuracy,Unknown,69.0
+tensorblock/bloomz-1b7-GGUF,1945,SuperGLUE,Rte,Unknown,Accuracy,Unknown,76.17
+tensorblock/bloomz-1b7-GGUF,1945,WinoGrande,Xl,Unknown,Accuracy,Unknown,51.14
+tensorblock/bloomz-1b7-GGUF,1945,XCOPA,Et,Unknown,Accuracy,Unknown,50.0
+tensorblock/bloomz-1b7-GGUF,1945,XCOPA,Ht,Unknown,Accuracy,Unknown,54.0
+tensorblock/bloomz-1b7-GGUF,1945,XCOPA,Id,Unknown,Accuracy,Unknown,61.0
+tensorblock/bloomz-1b7-GGUF,1945,XCOPA,It,Unknown,Accuracy,Unknown,49.0
+tensorblock/bloomz-1b7-GGUF,1945,XCOPA,Qu,Unknown,Accuracy,Unknown,56.0
+tensorblock/bloomz-1b7-GGUF,1945,XCOPA,Sw,Unknown,Accuracy,Unknown,57.0
+tensorblock/bloomz-1b7-GGUF,1945,XCOPA,Ta,Unknown,Accuracy,Unknown,56.0
+tensorblock/bloomz-1b7-GGUF,1945,XCOPA,Th,Unknown,Accuracy,Unknown,60.0
+tensorblock/bloomz-1b7-GGUF,1945,XCOPA,Tr,Unknown,Accuracy,Unknown,59.0
+tensorblock/bloomz-1b7-GGUF,1945,XCOPA,Vi,Unknown,Accuracy,Unknown,70.0
+tensorblock/bloomz-1b7-GGUF,1945,XCOPA,Zh,Unknown,Accuracy,Unknown,67.0
+tensorblock/bloomz-1b7-GGUF,1945,XNLI,Ar,Unknown,Accuracy,Unknown,50.04
+tensorblock/bloomz-1b7-GGUF,1945,XNLI,Bg,Unknown,Accuracy,Unknown,42.17
+tensorblock/bloomz-1b7-GGUF,1945,XNLI,De,Unknown,Accuracy,Unknown,42.73
+tensorblock/bloomz-1b7-GGUF,1945,XNLI,El,Unknown,Accuracy,Unknown,41.81
+tensorblock/bloomz-1b7-GGUF,1945,XNLI,En,Unknown,Accuracy,Unknown,55.02
+tensorblock/bloomz-1b7-GGUF,1945,XNLI,Es,Unknown,Accuracy,Unknown,52.97
+tensorblock/bloomz-1b7-GGUF,1945,XNLI,Fr,Unknown,Accuracy,Unknown,52.21
+tensorblock/bloomz-1b7-GGUF,1945,XNLI,Hi,Unknown,Accuracy,Unknown,48.07
+tensorblock/bloomz-1b7-GGUF,1945,XNLI,Ru,Unknown,Accuracy,Unknown,45.1
+tensorblock/bloomz-1b7-GGUF,1945,XNLI,Sw,Unknown,Accuracy,Unknown,44.34
+tensorblock/bloomz-1b7-GGUF,1945,XNLI,Th,Unknown,Accuracy,Unknown,40.36
+tensorblock/bloomz-1b7-GGUF,1945,XNLI,Tr,Unknown,Accuracy,Unknown,37.15
+tensorblock/bloomz-1b7-GGUF,1945,XNLI,Ur,Unknown,Accuracy,Unknown,44.38
+tensorblock/bloomz-1b7-GGUF,1945,XNLI,Vi,Unknown,Accuracy,Unknown,51.08
+tensorblock/bloomz-1b7-GGUF,1945,XNLI,Zh,Unknown,Accuracy,Unknown,51.12
+tensorblock/bloomz-1b7-GGUF,1945,XStoryCloze,Ar,Unknown,Accuracy,Unknown,73.33
+tensorblock/bloomz-1b7-GGUF,1945,XStoryCloze,Es,Unknown,Accuracy,Unknown,77.96
+tensorblock/bloomz-1b7-GGUF,1945,XStoryCloze,Eu,Unknown,Accuracy,Unknown,60.49
+tensorblock/bloomz-1b7-GGUF,1945,XStoryCloze,Hi,Unknown,Accuracy,Unknown,72.87
+tensorblock/bloomz-1b7-GGUF,1945,XStoryCloze,Id,Unknown,Accuracy,Unknown,74.92
+tensorblock/bloomz-1b7-GGUF,1945,XStoryCloze,My,Unknown,Accuracy,Unknown,51.09
+tensorblock/bloomz-1b7-GGUF,1945,XStoryCloze,Ru,Unknown,Accuracy,Unknown,56.39
+tensorblock/bloomz-1b7-GGUF,1945,XStoryCloze,Sw,Unknown,Accuracy,Unknown,61.28
+tensorblock/bloomz-1b7-GGUF,1945,XStoryCloze,Te,Unknown,Accuracy,Unknown,66.25
+tensorblock/bloomz-1b7-GGUF,1945,XStoryCloze,Zh,Unknown,Accuracy,Unknown,78.69
+tensorblock/bloomz-1b7-GGUF,1945,XWinograd,En,Unknown,Accuracy,Unknown,56.34
+tensorblock/bloomz-1b7-GGUF,1945,XWinograd,Fr,Unknown,Accuracy,Unknown,55.42
+tensorblock/bloomz-1b7-GGUF,1945,XWinograd,Jp,Unknown,Accuracy,Unknown,52.55
+tensorblock/bloomz-1b7-GGUF,1945,XWinograd,Pt,Unknown,Accuracy,Unknown,53.23
+tensorblock/bloomz-1b7-GGUF,1945,XWinograd,Ru,Unknown,Accuracy,Unknown,55.24
+tensorblock/bloomz-1b7-GGUF,1945,XWinograd,Zh,Unknown,Accuracy,Unknown,56.15
+tensorblock/bloomz-3b-GGUF,1946,ANLI,R1,Unknown,Accuracy,Unknown,40.1
+tensorblock/bloomz-3b-GGUF,1946,ANLI,R2,Unknown,Accuracy,Unknown,36.8
+tensorblock/bloomz-3b-GGUF,1946,ANLI,R3,Unknown,Accuracy,Unknown,40.0
+tensorblock/bloomz-3b-GGUF,1946,HumanEval,Unknown,Unknown,Pass@1,Unknown,6.29
+tensorblock/bloomz-3b-GGUF,1946,HumanEval,Unknown,Unknown,Pass@10,Unknown,11.94
+tensorblock/bloomz-3b-GGUF,1946,HumanEval,Unknown,Unknown,Pass@100,Unknown,19.06
+tensorblock/bloomz-3b-GGUF,1946,StoryCloze,2016,Unknown,Accuracy,Unknown,87.33
+tensorblock/bloomz-3b-GGUF,1946,SuperGLUE,Cb,Unknown,Accuracy,Unknown,75.0
+tensorblock/bloomz-3b-GGUF,1946,SuperGLUE,Copa,Unknown,Accuracy,Unknown,76.0
+tensorblock/bloomz-3b-GGUF,1946,SuperGLUE,Rte,Unknown,Accuracy,Unknown,76.17
+tensorblock/bloomz-3b-GGUF,1946,WinoGrande,Xl,Unknown,Accuracy,Unknown,53.67
+tensorblock/bloomz-3b-GGUF,1946,XCOPA,Et,Unknown,Accuracy,Unknown,53.0
+tensorblock/bloomz-3b-GGUF,1946,XCOPA,Ht,Unknown,Accuracy,Unknown,64.0
+tensorblock/bloomz-3b-GGUF,1946,XCOPA,Id,Unknown,Accuracy,Unknown,70.0
+tensorblock/bloomz-3b-GGUF,1946,XCOPA,It,Unknown,Accuracy,Unknown,53.0
+tensorblock/bloomz-3b-GGUF,1946,XCOPA,Qu,Unknown,Accuracy,Unknown,56.0
+tensorblock/bloomz-3b-GGUF,1946,XCOPA,Sw,Unknown,Accuracy,Unknown,66.0
+tensorblock/bloomz-3b-GGUF,1946,XCOPA,Ta,Unknown,Accuracy,Unknown,59.0
+tensorblock/bloomz-3b-GGUF,1946,XCOPA,Th,Unknown,Accuracy,Unknown,63.0
+tensorblock/bloomz-3b-GGUF,1946,XCOPA,Tr,Unknown,Accuracy,Unknown,61.0
+tensorblock/bloomz-3b-GGUF,1946,XCOPA,Vi,Unknown,Accuracy,Unknown,77.0
+tensorblock/bloomz-3b-GGUF,1946,XCOPA,Zh,Unknown,Accuracy,Unknown,73.0
+tensorblock/bloomz-3b-GGUF,1946,XNLI,Ar,Unknown,Accuracy,Unknown,53.29
+tensorblock/bloomz-3b-GGUF,1946,XNLI,Bg,Unknown,Accuracy,Unknown,43.82
+tensorblock/bloomz-3b-GGUF,1946,XNLI,De,Unknown,Accuracy,Unknown,45.26
+tensorblock/bloomz-3b-GGUF,1946,XNLI,El,Unknown,Accuracy,Unknown,42.61
+tensorblock/bloomz-3b-GGUF,1946,XNLI,En,Unknown,Accuracy,Unknown,57.31
+tensorblock/bloomz-3b-GGUF,1946,XNLI,Es,Unknown,Accuracy,Unknown,56.14
+tensorblock/bloomz-3b-GGUF,1946,XNLI,Fr,Unknown,Accuracy,Unknown,55.78
+tensorblock/bloomz-3b-GGUF,1946,XNLI,Hi,Unknown,Accuracy,Unknown,51.49
+tensorblock/bloomz-3b-GGUF,1946,XNLI,Ru,Unknown,Accuracy,Unknown,47.11
+tensorblock/bloomz-3b-GGUF,1946,XNLI,Sw,Unknown,Accuracy,Unknown,47.83
+tensorblock/bloomz-3b-GGUF,1946,XNLI,Th,Unknown,Accuracy,Unknown,42.93
+tensorblock/bloomz-3b-GGUF,1946,XNLI,Tr,Unknown,Accuracy,Unknown,37.23
+tensorblock/bloomz-3b-GGUF,1946,XNLI,Ur,Unknown,Accuracy,Unknown,49.04
+tensorblock/bloomz-3b-GGUF,1946,XNLI,Vi,Unknown,Accuracy,Unknown,53.98
+tensorblock/bloomz-3b-GGUF,1946,XNLI,Zh,Unknown,Accuracy,Unknown,54.18
+tensorblock/bloomz-3b-GGUF,1946,XStoryCloze,Ar,Unknown,Accuracy,Unknown,80.61
+tensorblock/bloomz-3b-GGUF,1946,XStoryCloze,Es,Unknown,Accuracy,Unknown,85.9
+tensorblock/bloomz-3b-GGUF,1946,XStoryCloze,Eu,Unknown,Accuracy,Unknown,70.95
+tensorblock/bloomz-3b-GGUF,1946,XStoryCloze,Hi,Unknown,Accuracy,Unknown,78.89
+tensorblock/bloomz-3b-GGUF,1946,XStoryCloze,Id,Unknown,Accuracy,Unknown,82.99
+tensorblock/bloomz-3b-GGUF,1946,XStoryCloze,My,Unknown,Accuracy,Unknown,49.9
+tensorblock/bloomz-3b-GGUF,1946,XStoryCloze,Ru,Unknown,Accuracy,Unknown,61.42
+tensorblock/bloomz-3b-GGUF,1946,XStoryCloze,Sw,Unknown,Accuracy,Unknown,69.69
+tensorblock/bloomz-3b-GGUF,1946,XStoryCloze,Te,Unknown,Accuracy,Unknown,73.66
+tensorblock/bloomz-3b-GGUF,1946,XStoryCloze,Zh,Unknown,Accuracy,Unknown,84.32
+tensorblock/bloomz-3b-GGUF,1946,XWinograd,En,Unknown,Accuracy,Unknown,59.23
+tensorblock/bloomz-3b-GGUF,1946,XWinograd,Fr,Unknown,Accuracy,Unknown,53.01
+tensorblock/bloomz-3b-GGUF,1946,XWinograd,Jp,Unknown,Accuracy,Unknown,52.45
+tensorblock/bloomz-3b-GGUF,1946,XWinograd,Pt,Unknown,Accuracy,Unknown,53.61
+tensorblock/bloomz-3b-GGUF,1946,XWinograd,Ru,Unknown,Accuracy,Unknown,53.97
+tensorblock/bloomz-3b-GGUF,1946,XWinograd,Zh,Unknown,Accuracy,Unknown,60.91
+tensorblock/bloomz-560m-GGUF,1947,ANLI,R1,Unknown,Accuracy,Unknown,33.4
+tensorblock/bloomz-560m-GGUF,1947,ANLI,R2,Unknown,Accuracy,Unknown,33.4
+tensorblock/bloomz-560m-GGUF,1947,ANLI,R3,Unknown,Accuracy,Unknown,33.5
+tensorblock/bloomz-560m-GGUF,1947,HumanEval,Unknown,Unknown,Pass@1,Unknown,2.18
+tensorblock/bloomz-560m-GGUF,1947,HumanEval,Unknown,Unknown,Pass@10,Unknown,4.11
+tensorblock/bloomz-560m-GGUF,1947,HumanEval,Unknown,Unknown,Pass@100,Unknown,9.0
+tensorblock/bloomz-560m-GGUF,1947,StoryCloze,2016,Unknown,Accuracy,Unknown,60.29
+tensorblock/bloomz-560m-GGUF,1947,SuperGLUE,Cb,Unknown,Accuracy,Unknown,53.57
+tensorblock/bloomz-560m-GGUF,1947,SuperGLUE,Copa,Unknown,Accuracy,Unknown,52.0
+tensorblock/bloomz-560m-GGUF,1947,SuperGLUE,Rte,Unknown,Accuracy,Unknown,67.15
+tensorblock/bloomz-560m-GGUF,1947,WinoGrande,Xl,Unknown,Accuracy,Unknown,52.41
+tensorblock/bloomz-560m-GGUF,1947,XCOPA,Et,Unknown,Accuracy,Unknown,53.0
+tensorblock/bloomz-560m-GGUF,1947,XCOPA,Ht,Unknown,Accuracy,Unknown,49.0
+tensorblock/bloomz-560m-GGUF,1947,XCOPA,Id,Unknown,Accuracy,Unknown,57.0
+tensorblock/bloomz-560m-GGUF,1947,XCOPA,It,Unknown,Accuracy,Unknown,52.0
+tensorblock/bloomz-560m-GGUF,1947,XCOPA,Qu,Unknown,Accuracy,Unknown,55.0
+tensorblock/bloomz-560m-GGUF,1947,XCOPA,Sw,Unknown,Accuracy,Unknown,56.0
+tensorblock/bloomz-560m-GGUF,1947,XCOPA,Ta,Unknown,Accuracy,Unknown,58.0
+tensorblock/bloomz-560m-GGUF,1947,XCOPA,Th,Unknown,Accuracy,Unknown,58.0
+tensorblock/bloomz-560m-GGUF,1947,XCOPA,Tr,Unknown,Accuracy,Unknown,61.0
+tensorblock/bloomz-560m-GGUF,1947,XCOPA,Vi,Unknown,Accuracy,Unknown,61.0
+tensorblock/bloomz-560m-GGUF,1947,XCOPA,Zh,Unknown,Accuracy,Unknown,61.0
+tensorblock/bloomz-560m-GGUF,1947,XNLI,Ar,Unknown,Accuracy,Unknown,44.46
+tensorblock/bloomz-560m-GGUF,1947,XNLI,Bg,Unknown,Accuracy,Unknown,39.76
+tensorblock/bloomz-560m-GGUF,1947,XNLI,De,Unknown,Accuracy,Unknown,39.36
+tensorblock/bloomz-560m-GGUF,1947,XNLI,El,Unknown,Accuracy,Unknown,40.96
+tensorblock/bloomz-560m-GGUF,1947,XNLI,En,Unknown,Accuracy,Unknown,46.43
+tensorblock/bloomz-560m-GGUF,1947,XNLI,Es,Unknown,Accuracy,Unknown,44.98
+tensorblock/bloomz-560m-GGUF,1947,XNLI,Fr,Unknown,Accuracy,Unknown,45.54
+tensorblock/bloomz-560m-GGUF,1947,XNLI,Hi,Unknown,Accuracy,Unknown,41.81
+tensorblock/bloomz-560m-GGUF,1947,XNLI,Ru,Unknown,Accuracy,Unknown,39.64
+tensorblock/bloomz-560m-GGUF,1947,XNLI,Sw,Unknown,Accuracy,Unknown,38.35
+tensorblock/bloomz-560m-GGUF,1947,XNLI,Th,Unknown,Accuracy,Unknown,35.5
+tensorblock/bloomz-560m-GGUF,1947,XNLI,Tr,Unknown,Accuracy,Unknown,37.31
+tensorblock/bloomz-560m-GGUF,1947,XNLI,Ur,Unknown,Accuracy,Unknown,38.96
+tensorblock/bloomz-560m-GGUF,1947,XNLI,Vi,Unknown,Accuracy,Unknown,44.74
+tensorblock/bloomz-560m-GGUF,1947,XNLI,Zh,Unknown,Accuracy,Unknown,44.66
+tensorblock/bloomz-560m-GGUF,1947,XStoryCloze,Ar,Unknown,Accuracy,Unknown,54.4
+tensorblock/bloomz-560m-GGUF,1947,XStoryCloze,Es,Unknown,Accuracy,Unknown,56.45
+tensorblock/bloomz-560m-GGUF,1947,XStoryCloze,Eu,Unknown,Accuracy,Unknown,50.56
+tensorblock/bloomz-560m-GGUF,1947,XStoryCloze,Hi,Unknown,Accuracy,Unknown,55.79
+tensorblock/bloomz-560m-GGUF,1947,XStoryCloze,Id,Unknown,Accuracy,Unknown,57.84
+tensorblock/bloomz-560m-GGUF,1947,XStoryCloze,My,Unknown,Accuracy,Unknown,47.05
+tensorblock/bloomz-560m-GGUF,1947,XStoryCloze,Ru,Unknown,Accuracy,Unknown,53.14
+tensorblock/bloomz-560m-GGUF,1947,XStoryCloze,Sw,Unknown,Accuracy,Unknown,51.36
+tensorblock/bloomz-560m-GGUF,1947,XStoryCloze,Te,Unknown,Accuracy,Unknown,54.86
+tensorblock/bloomz-560m-GGUF,1947,XStoryCloze,Zh,Unknown,Accuracy,Unknown,56.52
+tensorblock/bloomz-560m-GGUF,1947,XWinograd,En,Unknown,Accuracy,Unknown,51.01
+tensorblock/bloomz-560m-GGUF,1947,XWinograd,Fr,Unknown,Accuracy,Unknown,51.81
+tensorblock/bloomz-560m-GGUF,1947,XWinograd,Jp,Unknown,Accuracy,Unknown,52.03
+tensorblock/bloomz-560m-GGUF,1947,XWinograd,Pt,Unknown,Accuracy,Unknown,53.99
+tensorblock/bloomz-560m-GGUF,1947,XWinograd,Ru,Unknown,Accuracy,Unknown,53.97
+tensorblock/bloomz-560m-GGUF,1947,XWinograd,Zh,Unknown,Accuracy,Unknown,54.76
+tensorblock/bloomz-7b1-mt-GGUF,1948,ANLI,R1,Unknown,Accuracy,Unknown,42.6
+tensorblock/bloomz-7b1-mt-GGUF,1948,ANLI,R2,Unknown,Accuracy,Unknown,39.4
+tensorblock/bloomz-7b1-mt-GGUF,1948,ANLI,R3,Unknown,Accuracy,Unknown,42.0
+tensorblock/bloomz-7b1-mt-GGUF,1948,HumanEval,Unknown,Unknown,Pass@1,Unknown,7.23
+tensorblock/bloomz-7b1-mt-GGUF,1948,HumanEval,Unknown,Unknown,Pass@10,Unknown,14.46
+tensorblock/bloomz-7b1-mt-GGUF,1948,HumanEval,Unknown,Unknown,Pass@100,Unknown,25.86
+tensorblock/bloomz-7b1-mt-GGUF,1948,StoryCloze,2016,Unknown,Accuracy,Unknown,89.58
+tensorblock/bloomz-7b1-mt-GGUF,1948,SuperGLUE,Cb,Unknown,Accuracy,Unknown,83.93
+tensorblock/bloomz-7b1-mt-GGUF,1948,SuperGLUE,Copa,Unknown,Accuracy,Unknown,84.0
+tensorblock/bloomz-7b1-mt-GGUF,1948,SuperGLUE,Rte,Unknown,Accuracy,Unknown,82.67
+tensorblock/bloomz-7b1-mt-GGUF,1948,WinoGrande,Xl,Unknown,Accuracy,Unknown,56.51
+tensorblock/bloomz-7b1-mt-GGUF,1948,XCOPA,Et,Unknown,Accuracy,Unknown,52.0
+tensorblock/bloomz-7b1-mt-GGUF,1948,XCOPA,Ht,Unknown,Accuracy,Unknown,54.0
+tensorblock/bloomz-7b1-mt-GGUF,1948,XCOPA,Id,Unknown,Accuracy,Unknown,73.0
+tensorblock/bloomz-7b1-mt-GGUF,1948,XCOPA,It,Unknown,Accuracy,Unknown,62.0
+tensorblock/bloomz-7b1-mt-GGUF,1948,XCOPA,Qu,Unknown,Accuracy,Unknown,61.0
+tensorblock/bloomz-7b1-mt-GGUF,1948,XCOPA,Sw,Unknown,Accuracy,Unknown,61.0
+tensorblock/bloomz-7b1-mt-GGUF,1948,XCOPA,Ta,Unknown,Accuracy,Unknown,62.0
+tensorblock/bloomz-7b1-mt-GGUF,1948,XCOPA,Th,Unknown,Accuracy,Unknown,61.0
+tensorblock/bloomz-7b1-mt-GGUF,1948,XCOPA,Tr,Unknown,Accuracy,Unknown,56.0
+tensorblock/bloomz-7b1-mt-GGUF,1948,XCOPA,Vi,Unknown,Accuracy,Unknown,77.0
+tensorblock/bloomz-7b1-mt-GGUF,1948,XCOPA,Zh,Unknown,Accuracy,Unknown,80.0
+tensorblock/bloomz-7b1-mt-GGUF,1948,XNLI,Ar,Unknown,Accuracy,Unknown,55.58
+tensorblock/bloomz-7b1-mt-GGUF,1948,XNLI,Bg,Unknown,Accuracy,Unknown,44.9
+tensorblock/bloomz-7b1-mt-GGUF,1948,XNLI,De,Unknown,Accuracy,Unknown,48.92
+tensorblock/bloomz-7b1-mt-GGUF,1948,XNLI,El,Unknown,Accuracy,Unknown,42.89
+tensorblock/bloomz-7b1-mt-GGUF,1948,XNLI,En,Unknown,Accuracy,Unknown,58.92
+tensorblock/bloomz-7b1-mt-GGUF,1948,XNLI,Es,Unknown,Accuracy,Unknown,57.35
+tensorblock/bloomz-7b1-mt-GGUF,1948,XNLI,Fr,Unknown,Accuracy,Unknown,56.67
+tensorblock/bloomz-7b1-mt-GGUF,1948,XNLI,Hi,Unknown,Accuracy,Unknown,53.45
+tensorblock/bloomz-7b1-mt-GGUF,1948,XNLI,Ru,Unknown,Accuracy,Unknown,50.24
+tensorblock/bloomz-7b1-mt-GGUF,1948,XNLI,Sw,Unknown,Accuracy,Unknown,48.27
+tensorblock/bloomz-7b1-mt-GGUF,1948,XNLI,Th,Unknown,Accuracy,Unknown,41.08
+tensorblock/bloomz-7b1-mt-GGUF,1948,XNLI,Tr,Unknown,Accuracy,Unknown,38.71
+tensorblock/bloomz-7b1-mt-GGUF,1948,XNLI,Ur,Unknown,Accuracy,Unknown,49.48
+tensorblock/bloomz-7b1-mt-GGUF,1948,XNLI,Vi,Unknown,Accuracy,Unknown,54.5
+tensorblock/bloomz-7b1-mt-GGUF,1948,XNLI,Zh,Unknown,Accuracy,Unknown,54.3
+tensorblock/bloomz-7b1-mt-GGUF,1948,XStoryCloze,Ar,Unknown,Accuracy,Unknown,83.85
+tensorblock/bloomz-7b1-mt-GGUF,1948,XStoryCloze,Es,Unknown,Accuracy,Unknown,88.82
+tensorblock/bloomz-7b1-mt-GGUF,1948,XStoryCloze,Eu,Unknown,Accuracy,Unknown,73.26
+tensorblock/bloomz-7b1-mt-GGUF,1948,XStoryCloze,Hi,Unknown,Accuracy,Unknown,80.41
+tensorblock/bloomz-7b1-mt-GGUF,1948,XStoryCloze,Id,Unknown,Accuracy,Unknown,84.58
+tensorblock/bloomz-7b1-mt-GGUF,1948,XStoryCloze,My,Unknown,Accuracy,Unknown,51.56
+tensorblock/bloomz-7b1-mt-GGUF,1948,XStoryCloze,Ru,Unknown,Accuracy,Unknown,64.26
+tensorblock/bloomz-7b1-mt-GGUF,1948,XStoryCloze,Sw,Unknown,Accuracy,Unknown,71.01
+tensorblock/bloomz-7b1-mt-GGUF,1948,XStoryCloze,Te,Unknown,Accuracy,Unknown,73.06
+tensorblock/bloomz-7b1-mt-GGUF,1948,XStoryCloze,Zh,Unknown,Accuracy,Unknown,85.9
+tensorblock/bloomz-7b1-mt-GGUF,1948,XWinograd,En,Unknown,Accuracy,Unknown,65.76
+tensorblock/bloomz-7b1-mt-GGUF,1948,XWinograd,Fr,Unknown,Accuracy,Unknown,57.83
+tensorblock/bloomz-7b1-mt-GGUF,1948,XWinograd,Jp,Unknown,Accuracy,Unknown,51.82
+tensorblock/bloomz-7b1-mt-GGUF,1948,XWinograd,Pt,Unknown,Accuracy,Unknown,57.41
+tensorblock/bloomz-7b1-mt-GGUF,1948,XWinograd,Ru,Unknown,Accuracy,Unknown,55.87
+tensorblock/bloomz-7b1-mt-GGUF,1948,XWinograd,Zh,Unknown,Accuracy,Unknown,62.7
+tensorblock/starcoder2-15b-instruct-v0.1-GGUF,1950,DS-1000,Unknown,Unknown,Pass@1,Unknown,40.6
+tensorblock/starcoder2-15b-instruct-v0.1-GGUF,1950,HumanEval,HumanEval+,Unknown,Pass@1,Unknown,63.4
+tensorblock/starcoder2-15b-instruct-v0.1-GGUF,1950,HumanEval,Unknown,Unknown,Pass@1,Unknown,72.6
+tensorblock/starcoder2-15b-instruct-v0.1-GGUF,1950,LiveCodeBench,Code Execution,Unknown,Pass@1,Unknown,28.1
+tensorblock/starcoder2-15b-instruct-v0.1-GGUF,1950,LiveCodeBench,Code Generation,Unknown,Pass@1,Unknown,20.4
+tensorblock/starcoder2-15b-instruct-v0.1-GGUF,1950,LiveCodeBench,Self Repair,Unknown,Pass@1,Unknown,20.9
+tensorblock/starcoder2-15b-instruct-v0.1-GGUF,1950,LiveCodeBench,Test Output Prediction,Unknown,Pass@1,Unknown,29.8
+tensorblock/starcoder2-15b-instruct-v0.1-GGUF,1950,Mostly Basic Python Problems (MBPP),MBPP+,Unknown,Pass@1,Unknown,61.2
+tensorblock/starcoder2-15b-instruct-v0.1-GGUF,1950,Mostly Basic Python Problems (MBPP),Unknown,Unknown,Pass@1,Unknown,75.2
+uukuguy/speechless-code-mistral-7b-v1.0,1984,HumanEval,Unknown,Unknown,Pass@1,Unknown,51.22
+uukuguy/speechless-code-mistral-orca-7b-v1.0,1986,HumanEval,Unknown,Unknown,Pass@1,Unknown,47.56
+uukuguy/speechless-codellama-34b-v1.9,1987,HumanEval,Unknown,Unknown,Pass@1,Unknown,70.73
+uukuguy/speechless-codellama-34b-v2.0,1988,HumanEval,Unknown,Unknown,Pass@1,Unknown,75.61
+uukuguy/speechless-codellama-dolphin-orca-platypus-34b,1990,HumanEval,Unknown,Unknown,Pass@1,Unknown,70.12
+uukuguy/speechless-coding-7b-16k-tora,1992,HumanEval,Unknown,Unknown,Pass@1,Unknown,52.44
+uukuguy/speechless-mistral-dolphin-orca-platypus-samantha-7b,1995,HumanEval,Unknown,Unknown,Pass@1,Unknown,34.15
+uukuguy/speechless-mistral-six-in-one-7b,1996,HumanEval,Unknown,Unknown,Pass@1,Unknown,0.0
+uukuguy/speechless-mistral-six-in-one-7b-orth-1.0,1997,HumanEval,Unknown,Unknown,Pass@1,Unknown,0.0
+uukuguy/speechless-tora-code-7b-v1.0,2001,HumanEval,Unknown,Unknown,Pass@1,Unknown,51.83
+vodkaslime/test-repo-stablecode,2004,HumanEval,Unknown,Unknown,Pass@1,Unknown,26.89
+vodkaslime/test-repo-stablecode,2004,HumanEval,Unknown,Unknown,Pass@10,Unknown,36.18
+wyt2000/InverseCoder-CL-7B,2010,DS-1000,Overall Completion,Unknown,Pass@1,Unknown,39.9
+wyt2000/InverseCoder-CL-7B,2010,HumanEval,HumanEval+,Unknown,Pass@1,Unknown,72.0
+wyt2000/InverseCoder-CL-7B,2010,HumanEval,Unknown,Unknown,Pass@1,Unknown,76.2
+wyt2000/InverseCoder-CL-7B,2010,Mostly Basic Python Problems (MBPP),MBPP+,Unknown,Pass@1,Unknown,60.1
+wyt2000/InverseCoder-CL-7B,2010,Mostly Basic Python Problems (MBPP),Unknown,Unknown,Pass@1,Unknown,70.6
+wyt2000/InverseCoder-CL-7B,2010,MultiPL-HumanEval,Unknown,Average For Non-Python Languages,Pass@1,Unknown,52.9
+wyt2000/InverseCoder-CL-7B,2010,MultiPL-HumanEval,Unknown,C++,Pass@1,Unknown,52.6
+wyt2000/InverseCoder-CL-7B,2010,MultiPL-HumanEval,Unknown,Java,Pass@1,Unknown,48.7
+wyt2000/InverseCoder-CL-7B,2010,MultiPL-HumanEval,Unknown,JavaScript,Pass@1,Unknown,61.9
+wyt2000/InverseCoder-CL-7B,2010,MultiPL-HumanEval,Unknown,PHP,Pass@1,Unknown,55.2
+wyt2000/InverseCoder-CL-7B,2010,MultiPL-HumanEval,Unknown,Rust,Pass@1,Unknown,46.1
+wyt2000/InverseCoder-CL-7B,2010,MultiPL-HumanEval,Unknown,Swift,Pass@1,Unknown,53.0
+yulan-team/YuLan-Mini-Instruct,2024,Grade School Math 8K (GSM8K),Unknown,Unknown,Maj@1,Unknown,71.7
+yulan-team/YuLan-Mini-Instruct,2024,HumanEval,Unknown,Unknown,Pass@10,Unknown,86.6
+yulan-team/YuLan-Mini-Instruct,2024,Math,Unknown,Unknown,Maj@1,Unknown,55.2
+yulan-team/YuLan-Mini-Instruct,2024,Mostly Basic Python Problems (MBPP),Unknown,Unknown,Pass@10,Unknown,85.7
+claudios/VulBERTa-MLP-Devign,2065,CodeXGlue-Devign,Unknown,Unknown,Accuracy,Unknown,64.71
+claudios/VulBERTa-MLP-Devign,2065,CodeXGlue-Devign,Unknown,Unknown,F1,Unknown,56.93
+claudios/VulBERTa-MLP-Devign,2065,CodeXGlue-Devign,Unknown,Unknown,Precision,Unknown,64.8
+claudios/VulBERTa-MLP-Devign,2065,CodeXGlue-Devign,Unknown,Unknown,ROC AUC,Unknown,71.02
+claudios/VulBERTa-MLP-Devign,2065,CodeXGlue-Devign,Unknown,Unknown,Recall,Unknown,50.76
+Ch333tah/modernbert-finqalab-embeddings,2118,AI Job,Test,Unknown,Cosine Accuracy,Unknown,91.3
+Ch333tah/modernbert-finqalab-embeddings,2118,AI Job,Train,Unknown,Cosine Accuracy,Unknown,96.04
+Ch333tah/modernbert-finqalab-embeddings,2118,AI Job,Valid,Unknown,Cosine Accuracy,Unknown,95.24
+indischepartij/TinyUltra-4x1.1B-Base-Alpha,2165,AI2 Reasoning Challenge,25 Shot,Unknown,Normalized Accuracy,Unknown,34.9
+indischepartij/TinyUltra-4x1.1B-Base-Alpha,2165,Grade School Math 8K (GSM8K),5 Shot,Unknown,Accuracy,Unknown,2.58
+indischepartij/TinyUltra-4x1.1B-Base-Alpha,2165,HellaSwag,10 Shot,Unknown,Normalized Accuracy,Unknown,61.42
+indischepartij/TinyUltra-4x1.1B-Base-Alpha,2165,Measuring Massive Multitask Language Understanding (MMLU),5 Shot,Unknown,Accuracy,Unknown,25.42
+indischepartij/TinyUltra-4x1.1B-Base-Alpha,2165,TruthfulQA,0 Shot,Unknown,MC2,Unknown,37.59
+indischepartij/TinyUltra-4x1.1B-Base-Alpha,2165,WinoGrande,5 Shot,Unknown,Accuracy,Unknown,65.75
+Prince-1/Mellum-4b-base-Onnx,2624,HumanEval,Multi-Line,Unknown,Pass@1,Unknown,38.52
+Prince-1/Mellum-4b-base-Onnx,2624,HumanEval,Random Span,Unknown,Pass@1,Unknown,29.69
+Prince-1/Mellum-4b-base-Onnx,2624,HumanEval,Single-Line,Unknown,Pass@1,Unknown,66.21
+Prince-1/Mellum-4b-base-Onnx,2624,RepoBench 1.1,"Java, 12k",Unknown,Em,Unknown,24.92
+Prince-1/Mellum-4b-base-Onnx,2624,RepoBench 1.1,"Java, 16k",Unknown,Em,Unknown,24.74
+Prince-1/Mellum-4b-base-Onnx,2624,RepoBench 1.1,"Java, 2k",Unknown,Em,Unknown,32.02
+Prince-1/Mellum-4b-base-Onnx,2624,RepoBench 1.1,"Java, 4k",Unknown,Em,Unknown,32.12
+Prince-1/Mellum-4b-base-Onnx,2624,RepoBench 1.1,"Java, 8k",Unknown,Em,Unknown,29.1
+Prince-1/Mellum-4b-base-Onnx,2624,RepoBench 1.1,"Python, 12k",Unknown,Em,Unknown,24.53
+Prince-1/Mellum-4b-base-Onnx,2624,RepoBench 1.1,"Python, 16k",Unknown,Em,Unknown,21.1
+Prince-1/Mellum-4b-base-Onnx,2624,RepoBench 1.1,"Python, 2k",Unknown,Em,Unknown,28.2
+Prince-1/Mellum-4b-base-Onnx,2624,RepoBench 1.1,"Python, 4k",Unknown,Em,Unknown,27.95
+Prince-1/Mellum-4b-base-Onnx,2624,RepoBench 1.1,"Python, 8k",Unknown,Em,Unknown,27.77
+Prince-1/Mellum-4b-base-Onnx,2624,RepoBench 1.1,Unknown,Java,Em,Unknown,28.58
+Prince-1/Mellum-4b-base-Onnx,2624,RepoBench 1.1,Unknown,Java,Em â¤ 8k,Unknown,31.08
+Prince-1/Mellum-4b-base-Onnx,2624,RepoBench 1.1,Unknown,Python,Em,Unknown,25.91
+Prince-1/Mellum-4b-base-Onnx,2624,RepoBench 1.1,Unknown,Python,Em â¤ 8k,Unknown,27.97
+Prince-1/Mellum-4b-base-Onnx,2624,SAFIM,API,Unknown,Pass@1,Unknown,50.65
+Prince-1/Mellum-4b-base-Onnx,2624,SAFIM,Algorithmic,Unknown,Pass@1,Unknown,25.3
+Prince-1/Mellum-4b-base-Onnx,2624,SAFIM,Control,Unknown,Pass@1,Unknown,38.39
+Prince-1/Mellum-4b-base-Onnx,2624,SAFIM,Unknown,Unknown,Pass@1,Unknown,38.11
+Mungert/granite-3b-code-base-2k-GGUF,2656,HumanEval,Explain,C++,Pass@1,Unknown,26.8
+Mungert/granite-3b-code-base-2k-GGUF,2656,HumanEval,Explain,Go,Pass@1,Unknown,17.1
+Mungert/granite-3b-code-base-2k-GGUF,2656,HumanEval,Explain,Java,Pass@1,Unknown,29.9
+Mungert/granite-3b-code-base-2k-GGUF,2656,HumanEval,Explain,JavaScript,Pass@1,Unknown,18.9
+Mungert/granite-3b-code-base-2k-GGUF,2656,HumanEval,Explain,Python,Pass@1,Unknown,25.0
+Mungert/granite-3b-code-base-2k-GGUF,2656,HumanEval,Explain,Rust,Pass@1,Unknown,14.0
+Mungert/granite-3b-code-base-2k-GGUF,2656,HumanEval,Fix,C++,Pass@1,Unknown,16.5
+Mungert/granite-3b-code-base-2k-GGUF,2656,HumanEval,Fix,Go,Pass@1,Unknown,24.4
+Mungert/granite-3b-code-base-2k-GGUF,2656,HumanEval,Fix,Java,Pass@1,Unknown,29.9
+Mungert/granite-3b-code-base-2k-GGUF,2656,HumanEval,Fix,JavaScript,Pass@1,Unknown,23.2
+Mungert/granite-3b-code-base-2k-GGUF,2656,HumanEval,Fix,Python,Pass@1,Unknown,18.3
+Mungert/granite-3b-code-base-2k-GGUF,2656,HumanEval,Fix,Rust,Pass@1,Unknown,3.7
+Mungert/granite-3b-code-base-2k-GGUF,2656,HumanEval,Synthesis,C++,Pass@1,Unknown,35.4
+Mungert/granite-3b-code-base-2k-GGUF,2656,HumanEval,Synthesis,Go,Pass@1,Unknown,26.2
+Mungert/granite-3b-code-base-2k-GGUF,2656,HumanEval,Synthesis,Java,Pass@1,Unknown,40.9
+Mungert/granite-3b-code-base-2k-GGUF,2656,HumanEval,Synthesis,JavaScript,Pass@1,Unknown,37.2
+Mungert/granite-3b-code-base-2k-GGUF,2656,HumanEval,Synthesis,Python,Pass@1,Unknown,36.6
+Mungert/granite-3b-code-base-2k-GGUF,2656,HumanEval,Synthesis,Rust,Pass@1,Unknown,22.0
+Mungert/granite-3b-code-base-2k-GGUF,2656,Mostly Basic Python Problems (MBPP),MBPP+,Unknown,Pass@1,Unknown,45.1
+Mungert/granite-3b-code-base-2k-GGUF,2656,Mostly Basic Python Problems (MBPP),Unknown,Unknown,Pass@1,Unknown,36.0
+Mungert/granite-20b-code-base-r1.1-GGUF,2661,HumanEval,Explain,C++,Pass@1,Unknown,29.9
+Mungert/granite-20b-code-base-r1.1-GGUF,2661,HumanEval,Explain,Go,Pass@1,Unknown,13.8
+Mungert/granite-20b-code-base-r1.1-GGUF,2661,HumanEval,Explain,Java,Pass@1,Unknown,43.3
+Mungert/granite-20b-code-base-r1.1-GGUF,2661,HumanEval,Explain,JavaScript,Pass@1,Unknown,24.4
+Mungert/granite-20b-code-base-r1.1-GGUF,2661,HumanEval,Explain,Python,Pass@1,Unknown,28.7
+Mungert/granite-20b-code-base-r1.1-GGUF,2661,HumanEval,Explain,Rust,Pass@1,Unknown,18.3
+Mungert/granite-20b-code-base-r1.1-GGUF,2661,HumanEval,Fix,C++,Pass@1,Unknown,30.5
+Mungert/granite-20b-code-base-r1.1-GGUF,2661,HumanEval,Fix,Go,Pass@1,Unknown,28.0
+Mungert/granite-20b-code-base-r1.1-GGUF,2661,HumanEval,Fix,Java,Pass@1,Unknown,32.3
+Mungert/granite-20b-code-base-r1.1-GGUF,2661,HumanEval,Fix,JavaScript,Pass@1,Unknown,24.4
+Mungert/granite-20b-code-base-r1.1-GGUF,2661,HumanEval,Fix,Python,Pass@1,Unknown,22.0
+Mungert/granite-20b-code-base-r1.1-GGUF,2661,HumanEval,Fix,Rust,Pass@1,Unknown,13.4
+Mungert/granite-20b-code-base-r1.1-GGUF,2661,HumanEval,Synthesis,C++,Pass@1,Unknown,50.6
+Mungert/granite-20b-code-base-r1.1-GGUF,2661,HumanEval,Synthesis,Go,Pass@1,Unknown,33.5
+Mungert/granite-20b-code-base-r1.1-GGUF,2661,HumanEval,Synthesis,Java,Pass@1,Unknown,59.8
+Mungert/granite-20b-code-base-r1.1-GGUF,2661,HumanEval,Synthesis,JavaScript,Pass@1,Unknown,56.1
+Mungert/granite-20b-code-base-r1.1-GGUF,2661,HumanEval,Synthesis,Python,Pass@1,Unknown,48.2
+Mungert/granite-20b-code-base-r1.1-GGUF,2661,HumanEval,Synthesis,Rust,Pass@1,Unknown,40.9
+llmchecks/CrawlIQ,2669,HumanEval,Unknown,Unknown,Pass@1,Unknown,64.0
+raimondskrauklis/gpt-neo-1.3b-code-conversation,2673,CodeSearchNet,Unknown,Python,Training Loss,Unknown,45.54
+Mungert/granite-8b-code-instruct-4k-GGUF,2676,HumanEval,Explain,C++,Pass@1,Unknown,43.9
+Mungert/granite-8b-code-instruct-4k-GGUF,2676,HumanEval,Explain,Go,Pass@1,Unknown,36.6
+Mungert/granite-8b-code-instruct-4k-GGUF,2676,HumanEval,Explain,Java,Pass@1,Unknown,52.4
+Mungert/granite-8b-code-instruct-4k-GGUF,2676,HumanEval,Explain,JavaScript,Pass@1,Unknown,42.7
+Mungert/granite-8b-code-instruct-4k-GGUF,2676,HumanEval,Explain,Python,Pass@1,Unknown,53.0
+Mungert/granite-8b-code-instruct-4k-GGUF,2676,HumanEval,Explain,Rust,Pass@1,Unknown,16.5
+Mungert/granite-8b-code-instruct-4k-GGUF,2676,HumanEval,Fix,C++,Pass@1,Unknown,39.0
+Mungert/granite-8b-code-instruct-4k-GGUF,2676,HumanEval,Fix,Go,Pass@1,Unknown,41.5
+Mungert/granite-8b-code-instruct-4k-GGUF,2676,HumanEval,Fix,Java,Pass@1,Unknown,48.2
+Mungert/granite-8b-code-instruct-4k-GGUF,2676,HumanEval,Fix,JavaScript,Pass@1,Unknown,40.9
+Mungert/granite-8b-code-instruct-4k-GGUF,2676,HumanEval,Fix,Python,Pass@1,Unknown,39.6
+Mungert/granite-8b-code-instruct-4k-GGUF,2676,HumanEval,Fix,Rust,Pass@1,Unknown,32.9
+Mungert/granite-8b-code-instruct-4k-GGUF,2676,HumanEval,Synthesis,C++,Pass@1,Unknown,48.2
+Mungert/granite-8b-code-instruct-4k-GGUF,2676,HumanEval,Synthesis,Go,Pass@1,Unknown,43.3
+Mungert/granite-8b-code-instruct-4k-GGUF,2676,HumanEval,Synthesis,Java,Pass@1,Unknown,58.5
+Mungert/granite-8b-code-instruct-4k-GGUF,2676,HumanEval,Synthesis,JavaScript,Pass@1,Unknown,52.4
+Mungert/granite-8b-code-instruct-4k-GGUF,2676,HumanEval,Synthesis,Python,Pass@1,Unknown,57.9
+Mungert/granite-8b-code-instruct-4k-GGUF,2676,HumanEval,Synthesis,Rust,Pass@1,Unknown,37.2
+Mungert/granite-20b-code-instruct-8k-GGUF,2677,HumanEval,Explain,C++,Pass@1,Unknown,42.1
+Mungert/granite-20b-code-instruct-8k-GGUF,2677,HumanEval,Explain,Go,Pass@1,Unknown,32.3
+Mungert/granite-20b-code-instruct-8k-GGUF,2677,HumanEval,Explain,Java,Pass@1,Unknown,49.4
+Mungert/granite-20b-code-instruct-8k-GGUF,2677,HumanEval,Explain,JavaScript,Pass@1,Unknown,42.7
+Mungert/granite-20b-code-instruct-8k-GGUF,2677,HumanEval,Explain,Python,Pass@1,Unknown,44.5
+Mungert/granite-20b-code-instruct-8k-GGUF,2677,HumanEval,Explain,Rust,Pass@1,Unknown,18.3
+Mungert/granite-20b-code-instruct-8k-GGUF,2677,HumanEval,Fix,C++,Pass@1,Unknown,41.5
+Mungert/granite-20b-code-instruct-8k-GGUF,2677,HumanEval,Fix,Go,Pass@1,Unknown,41.5
+Mungert/granite-20b-code-instruct-8k-GGUF,2677,HumanEval,Fix,Java,Pass@1,Unknown,45.7
+Mungert/granite-20b-code-instruct-8k-GGUF,2677,HumanEval,Fix,JavaScript,Pass@1,Unknown,43.9
+Mungert/granite-20b-code-instruct-8k-GGUF,2677,HumanEval,Fix,Python,Pass@1,Unknown,43.9
+Mungert/granite-20b-code-instruct-8k-GGUF,2677,HumanEval,Fix,Rust,Pass@1,Unknown,29.9
+Mungert/granite-20b-code-instruct-8k-GGUF,2677,HumanEval,Synthesis,C++,Pass@1,Unknown,45.7
+Mungert/granite-20b-code-instruct-8k-GGUF,2677,HumanEval,Synthesis,Go,Pass@1,Unknown,42.1
+Mungert/granite-20b-code-instruct-8k-GGUF,2677,HumanEval,Synthesis,Java,Pass@1,Unknown,58.5
+Mungert/granite-20b-code-instruct-8k-GGUF,2677,HumanEval,Synthesis,JavaScript,Pass@1,Unknown,53.7
+Mungert/granite-20b-code-instruct-8k-GGUF,2677,HumanEval,Synthesis,Python,Pass@1,Unknown,60.4
+Mungert/granite-20b-code-instruct-8k-GGUF,2677,HumanEval,Synthesis,Rust,Pass@1,Unknown,42.7
+Maaac/CodeLLaMA-Linux-BugFix,2700,Linux Kernel Bugfix Commits,Unknown,Unknown,BLEU,Unknown,33.87
+Maaac/CodeLLaMA-Linux-BugFix,2700,Linux Kernel Bugfix Commits,Unknown,Unknown,ROUGE 1 F1,Unknown,43.55
+Maaac/CodeLLaMA-Linux-BugFix,2700,Linux Kernel Bugfix Commits,Unknown,Unknown,ROUGE 2 F1,Unknown,34.57
+Maaac/CodeLLaMA-Linux-BugFix,2700,Linux Kernel Bugfix Commits,Unknown,Unknown,ROUGE L F1,Unknown,36.12
+Mungert/granite-8b-code-instruct-128k-GGUF,2706,HumanEval,Explain,Average,Pass@1,Unknown,38.9
+Mungert/granite-8b-code-instruct-128k-GGUF,2706,HumanEval,Fix,Average,Pass@1,Unknown,38.3
+Mungert/granite-8b-code-instruct-128k-GGUF,2706,HumanEval,Synthesis,Average,Pass@1,Unknown,51.4
+Mungert/granite-8b-code-instruct-128k-GGUF,2706,HumanEval,Synthesis,Python,Pass@1,Unknown,62.2
+Mungert/granite-8b-code-instruct-128k-GGUF,2706,RepoQA,@16K,C++,Pass@1,Threshold = 0.5,37.0
+Mungert/granite-8b-code-instruct-128k-GGUF,2706,RepoQA,@16K,Java,Pass@1,Threshold = 0.5,73.0
+Mungert/granite-8b-code-instruct-128k-GGUF,2706,RepoQA,@16K,Python,Pass@1,Threshold = 0.5,73.0
+Mungert/granite-8b-code-instruct-128k-GGUF,2706,RepoQA,@16K,Rust,Pass@1,Threshold = 0.5,63.0
+Mungert/granite-8b-code-instruct-128k-GGUF,2706,RepoQA,@16K,TypeScript,Pass@1,Threshold = 0.5,62.0
+wisent-ai/qwen2.5-coder-7b-wisent-caa,2984,Mostly Basic Python Problems (MBPP),Plus,Unknown,Pass@1,Unknown,52.1
+Harish102005/Qwen2.5-Coder-7B-manim,3049,3blue1brown-manim,Unknown,Unknown,Final Training Loss,Unknown,55.3
+MikeKuykendall/gpt-oss-20b-moe-cpu-offload-gguf,3193,MoE CPU Offloading,First Implementation,Unknown,Gpu Memory Usage,MB,2.0
+MikeKuykendall/gpt-oss-20b-moe-cpu-offload-gguf,3193,MoE CPU Offloading,First Implementation,Unknown,Vram Reduction %,Unknown,99.9
+rajinikarcg/RequirementClassifier,3196,PROMISE NFR,Unknown,Unknown,Accuracy,Unknown,0.0
+AMaslovskyi/qwen-devops-foundation-lora,3328,DevOps Expert Evaluation,Unknown,Unknown,Average Response Time,seconds,40.4
+AMaslovskyi/qwen-devops-foundation-lora,3328,DevOps Expert Evaluation,Unknown,Unknown,Devops Relevance Score,0-10,6.0
+AMaslovskyi/qwen-devops-foundation-lora,3328,DevOps Expert Evaluation,Unknown,Unknown,Overall Devops Accuracy,Unknown,60.0
+remodlai/nova-embeddings-v1,3547,GitHub Functions,Unknown,Unknown,Em@5,baseline,41.2
+remodlai/nova-embeddings-v1,3547,GitHub Functions,Unknown,Unknown,Em@5,with instructions,53.8
+remodlai/nova-embeddings-v1,3547,PubMed Abstracts,Unknown,Unknown,Ndcg@20,baseline,70.1
+remodlai/nova-embeddings-v1,3547,PubMed Abstracts,Unknown,Unknown,Ndcg@20,with instructions,84.3
+remodlai/nova-embeddings-v1,3547,SEC Filings,Unknown,Unknown,Mrr,baseline,55.4
+remodlai/nova-embeddings-v1,3547,SEC Filings,Unknown,Unknown,Mrr,with instructions,71.2
+remodlai/nova-embeddings-v1,3547,US Case Law Corpus,Unknown,Unknown,P@10,baseline,62.3
+remodlai/nova-embeddings-v1,3547,US Case Law Corpus,Unknown,Unknown,P@10,with instructions,79.1
+dgtalbug/stable-code-instruct-3b,3687,MultiPL-HumanEval,Unknown,C++,Pass@1,Unknown,30.9
+dgtalbug/stable-code-instruct-3b,3687,MultiPL-HumanEval,Unknown,Java,Pass@1,Unknown,32.1
+dgtalbug/stable-code-instruct-3b,3687,MultiPL-HumanEval,Unknown,JavaScript,Pass@1,Unknown,32.1
+dgtalbug/stable-code-instruct-3b,3687,MultiPL-HumanEval,Unknown,PHP,Pass@1,Unknown,24.2
+dgtalbug/stable-code-instruct-3b,3687,MultiPL-HumanEval,Unknown,Python,Pass@1,Unknown,32.4
+dgtalbug/stable-code-instruct-3b,3687,MultiPL-HumanEval,Unknown,Rust,Pass@1,Unknown,23.0
+HarleyCooper/nanochat561,3797,ARC,Challenge,Unknown,Accuracy,Unknown,28.07
+HarleyCooper/nanochat561,3797,ARC,Easy,Unknown,Accuracy,Unknown,38.76
+HarleyCooper/nanochat561,3797,CORE,Base Model Evaluation,Unknown,Core Score,Unknown,22.19
+HarleyCooper/nanochat561,3797,Grade School Math 8K (GSM8K),Unknown,Unknown,Accuracy,Unknown,4.55
+HarleyCooper/nanochat561,3797,HumanEval,Unknown,Unknown,Pass@1,Unknown,8.54
+HarleyCooper/nanochat561,3797,Measuring Massive Multitask Language Understanding (MMLU),Unknown,Unknown,Accuracy,Unknown,31.51
+OpenTrouter/Troviku-1.1,3821,CodeContests,Unknown,Unknown,Pass@1,Unknown,45.0
+OpenTrouter/Troviku-1.1,3821,HumanEval,Unknown,Unknown,Pass@1,Unknown,72.0
+OpenTrouter/Troviku-1.1,3821,HumanEval,Unknown,Unknown,Pass@10,Unknown,89.0
+OpenTrouter/Troviku-1.1,3821,Mostly Basic Python Problems (MBPP),Unknown,Unknown,Pass@1,Unknown,68.0
+AndrewAndrewsen/longformer-secret-masker,3889,SecretMask v2,600 test examples,Unknown,F1 Score,Unknown,52.0
+AndrewAndrewsen/longformer-secret-masker,3889,SecretMask v2,600 test examples,Unknown,Precision,Unknown,82.0
+AndrewAndrewsen/longformer-secret-masker,3889,SecretMask v2,600 test examples,Unknown,Recall,Unknown,38.0
+AndrewAndrewsen/distilbert-secret-masker,3890,SecretMask v2,600 test examples,Unknown,F1 Score,Unknown,52.0
+AndrewAndrewsen/distilbert-secret-masker,3890,SecretMask v2,600 test examples,Unknown,Precision,Unknown,82.0
+AndrewAndrewsen/distilbert-secret-masker,3890,SecretMask v2,600 test examples,Unknown,Recall,Unknown,38.0
+DeepXR/Helion-V2,3921,ARC,Challenge,Unknown,Accuracy,Unknown,58.3
+DeepXR/Helion-V2,3921,Grade School Math 8K (GSM8K),Unknown,Unknown,Accuracy,Unknown,68.7
+DeepXR/Helion-V2,3921,HellaSwag,Unknown,Unknown,Accuracy,Unknown,80.5
+DeepXR/Helion-V2,3921,HumanEval,Unknown,Unknown,Pass@1,Unknown,48.2
+DeepXR/Helion-V2,3921,Measuring Massive Multitask Language Understanding (MMLU),Unknown,Unknown,Accuracy,Unknown,64.2
+DeepXR/Helion-V2,3921,TruthfulQA,Unknown,Unknown,MC2,Unknown,52.1
+Superuser666-Sigil/Llama-3.1-8B-Instruct-Rust-QLora,3933,Rust-code-evaluation,Unknown,Unknown,Avg Functions,Unknown,3.64
+Superuser666-Sigil/Llama-3.1-8B-Instruct-Rust-QLora,3933,Rust-code-evaluation,Unknown,Unknown,Avg Structs,Unknown,28.0
+Superuser666-Sigil/Llama-3.1-8B-Instruct-Rust-QLora,3933,Rust-code-evaluation,Unknown,Unknown,Avg Traits,Unknown,2.0
+Superuser666-Sigil/Llama-3.1-8B-Instruct-Rust-QLora,3933,Rust-code-evaluation,Unknown,Unknown,Clippy Warnings,avg,0.0
+Superuser666-Sigil/Llama-3.1-8B-Instruct-Rust-QLora,3933,Rust-code-evaluation,Unknown,Unknown,Compilation Rate,Unknown,54.0
+Superuser666-Sigil/Llama-3.1-8B-Instruct-Rust-QLora,3933,Rust-code-evaluation,Unknown,Unknown,Documentation Rate,Unknown,0.0
+Superuser666-Sigil/Llama-3.1-8B-Instruct-Rust-QLora,3933,Rust-code-evaluation,Unknown,Unknown,Idiomatic Score,Unknown,16.25
+Superuser666-Sigil/Llama-3.1-8B-Instruct-Rust-QLora,3933,Rust-code-evaluation,Unknown,Unknown,Prompt Match Score,Unknown,16.75
+Superuser666-Sigil/Llama-3.1-8B-Instruct-Rust-QLora,3933,Rust-code-evaluation,Unknown,Unknown,Test Rate,Unknown,0.0
+Kiy-K/Fyodor-Q3-8B-Instruct,3956,Grade School Math 8K (GSM8K),Unknown,Unknown,Gsm8k Score,Unknown,18.88
+Kiy-K/Fyodor-Q3-8B-Instruct,3956,HellaSwag,Unknown,Unknown,Hellaswag Score,Unknown,74.94
+Kiy-K/Fyodor-Q3-8B-Instruct,3956,HellaSwag,Unknown,Unknown,Vs Base Model,Unknown,-500.0
+Kiy-K/Fyodor-Q3-8B-Instruct,3956,Measuring Massive Multitask Language Understanding (MMLU),Unknown,Unknown,Mmlu Score,Unknown,72.95
+Kiy-K/Fyodor-Q3-8B-Instruct,3956,Measuring Massive Multitask Language Understanding (MMLU),Unknown,Unknown,Vs Base Model,Unknown,-150.0
+smkrv/Qwen3-0.6B-CoreML-4bit,4037,Custom Benchmark,M4 MacBook Air,Unknown,Decode Latency,ms,9.0
+smkrv/Qwen3-0.6B-CoreML-4bit,4037,Custom Benchmark,M4 MacBook Air,Unknown,Memory Peak,MB,82.0
+smkrv/Qwen3-0.6B-CoreML-4bit,4037,Custom Benchmark,M4 MacBook Air,Unknown,Prefill Latency,ms,27.0
+smkrv/Qwen3-0.6B-CoreML-4bit,4037,Custom Benchmark,M4 MacBook Air,Unknown,Tokens Per Second,Unknown,13.0
+SonarSource/SonarSweep-java-gpt-oss-20b,4054,Measuring Massive Multitask Language Understanding (MMLU),Unknown,Unknown,Accuracy,Unknown,78.12
+SonarSource/SonarSweep-java-gpt-oss-20b,4054,Mostly Basic Python Problems (MBPP),Unknown,Go,Pass@1,Unknown,36.9
+SonarSource/SonarSweep-java-gpt-oss-20b,4054,Mostly Basic Python Problems (MBPP),Unknown,Java,Pass@1,Unknown,67.4
+SonarSource/SonarSweep-java-gpt-oss-20b,4054,Mostly Basic Python Problems (MBPP),Unknown,PHP,Pass@1,Unknown,65.8
+SonarSource/SonarSweep-java-gpt-oss-20b,4054,Mostly Basic Python Problems (MBPP),Unknown,Python,Pass@1,Unknown,29.89
+SonarSource/SonarSweep-java-gpt-oss-20b,4054,Mostly Basic Python Problems (MBPP),Unknown,TypeScript,Pass@1,Unknown,73.0
+SonarSource/SonarSweep-java-gpt-oss-20b,4054,MultiPL-HumanEval,Unknown,Java,Pass@1,Unknown,84.5
+SonarSource/SonarSweep-java-gpt-oss-20b,4054,MultiPL-HumanEval,Unknown,Python,Pass@1,Unknown,47.39
+zapabobouj/AEGIS-Phi3.5-v2.2,4083,ELYZA-100,Unknown,Unknown,Accuracy,Unknown,100.0
+zapabobouj/AEGIS-Phi3.5-v2.2,4083,ELYZA-100,Unknown,Unknown,Inference Time,Unknown,17.27
+zapabobouj/AEGIS-Phi3.5-v2.2,4083,Grade School Math 8K (GSM8K),Unknown,Unknown,Accuracy,Unknown,100.0
+zapabobouj/AEGIS-Phi3.5-v2.2,4083,Grade School Math 8K (GSM8K),Unknown,Unknown,Inference Time,Unknown,34.2
+zapabobouj/AEGIS-Phi3.5-v2.2,4083,Measuring Massive Multitask Language Understanding (MMLU),Unknown,Unknown,Accuracy,Unknown,100.0
+zapabobouj/AEGIS-Phi3.5-v2.2,4083,Measuring Massive Multitask Language Understanding (MMLU),Unknown,Unknown,Inference Time,Unknown,29.1
+srallabandi0225/inframind-0.5b-grpo,4125,InfraMind-Bench,Unknown,Unknown,Grpo Accuracy,Unknown,97.3
+HemanthKari/Llama-3.1-Pro-Coder-v1,4262,HumanEval,Unknown,Unknown,Pass@1,Unknown,68.3
+Oluwaferanmiii/codet5p-220m-pytest-edge-generator,4300,Custom edge-case functionâtest pairs,Unknown,Unknown,Best Eval Loss,Unknown,1.78
+Oluwaferanmiii/codet5p-220m-pytest-generator,4301,Custom,Functionâtest Pairs,Unknown,Eval Loss,best,1.62
+metadev7/metadev-7b,4390,HumanEval,Unknown,Unknown,Pass@1,Unknown,62.5
+metadev7/metadev-7b,4390,Mostly Basic Python Problems (MBPP),Unknown,Unknown,Pass@1,Unknown,58.3
+adityakum667388/lumichats_4Bz_v1.4,4415,HellaSwag,Unknown,Unknown,10 Shot Accuracy,Unknown,77.2
+adityakum667388/lumichats_4Bz_v1.4,4415,Measuring Massive Multitask Language Understanding (MMLU),Unknown,Unknown,5 Shot Accuracy,Unknown,59.6
+adityakum667388/lumichats_4Bz_v1.4,4415,PIQA,Unknown,Unknown,0 Shot Accuracy,Unknown,79.6
+faisalmumtaz/codecompass-embed,4480,CodeSearchNet,Unknown,Python,Ndcg@10,Unknown,92.28
+faisalmumtaz/codecompass-embed,4480,CodeTrans-DL,Unknown,Unknown,Ndcg@10,Unknown,33.05
+radai-agent/radai-wm811k-defect-detection,7175,WM-811K,Unknown,Unknown,Accuracy,Unknown,95.25
+radai-agent/radai-wm811k-defect-detection,7175,WM-811K,Unknown,Unknown,F1,Unknown,95.28
+AlphaExaAI/ExaMind,7224,HumanEval,Unknown,Unknown,Humaneval Pass@1,Unknown,79.3
+AlphaExaAI/ExaMind,7224,Measuring Massive Multitask Language Understanding (MMLU),Unknown,Unknown,Mmlu World Religions,0 Shot,94.8
+VextLabs/vext-pentest-7b,7245,VEXT Security Testing Data,Unknown,Unknown,Autonomous Runs,Unknown,30.6
+VextLabs/vext-pentest-7b,7245,VEXT Security Testing Data,Unknown,Unknown,Owasp Categories Covered,Unknown,8.0
+VextLabs/vext-pentest-7b,7245,VEXT Security Testing Data,Unknown,Unknown,Total Findings Generated,Unknown,19.77
+VextLabs/vext-pentest-7b,7245,VEXT Security Testing Data,Unknown,Unknown,Unique Vulnerability Types,Unknown,77.0
+VextLabs/vext-pentest-7b,7245,VEXT Security Testing Data,Unknown,Unknown,Validated Findings,True Positives,13.9
+chipcraftx-io/chipcraftx-rtlgen-7b,7336,VerilogEval-Human,Unknown,Unknown,Functional Pass Rate,ChipCraftX hybrid system,98.7
+chipcraftx-io/chipcraftx-rtlgen-7b,7336,VerilogEval-Human,Unknown,Unknown,Functional Pass Rate,standalone,36.5
+qoranet/QORA-LLM-3B,7352,ARC,Challenge,Unknown,Accuracy,Unknown,65.61
+qoranet/QORA-LLM-3B,7352,BoolQ,Unknown,Unknown,Accuracy,Unknown,78.99
+qoranet/QORA-LLM-3B,7352,Grade School Math 8K (GSM8K),Unknown,Unknown,Accuracy,Unknown,67.63
+qoranet/QORA-LLM-3B,7352,HellaSwag,Unknown,Unknown,Accuracy,Unknown,76.15
+qoranet/QORA-LLM-3B,7352,HumanEval,HumanEval+,Unknown,Pass@1,Unknown,30.48
+qoranet/QORA-LLM-3B,7352,Math,Unknown,Unknown,Accuracy,Unknown,46.1
+qoranet/QORA-LLM-3B,7352,Measuring Massive Multitask Language Understanding (MMLU),Unknown,Unknown,Accuracy,Unknown,44.13
+Flexan/NoesisLab-Kai-0.35B-Instruct-GGUF,7372,ARC,Challenge,Unknown,Accuracy,normalized,37.8
+Flexan/NoesisLab-Kai-0.35B-Instruct-GGUF,7372,HellaSwag,Unknown,Unknown,Accuracy,normalized,55.88
+Flexan/NoesisLab-Kai-0.35B-Instruct-GGUF,7372,Mostly Basic Python Problems (MBPP),Unknown,Unknown,Pass@1,Unknown,22.2
+Flexan/NoesisLab-Kai-0.35B-Instruct-GGUF,7372,PIQA,Unknown,Unknown,Accuracy,normalized,71.82
+tool-genesis/Tool-Genesis-Qwen3-8B-SFT,7419,Tool-Genesis Benchmark,Unknown,Unknown,L1 Compliance,Unknown,82.6
+tool-genesis/Tool-Genesis-Qwen3-8B-SFT,7419,Tool-Genesis Benchmark,Unknown,Unknown,L1 Launch Rate,Unknown,4.7
+tool-genesis/Tool-Genesis-Qwen3-8B-SFT,7419,Tool-Genesis Benchmark,Unknown,Unknown,L2 Schema F1,Unknown,4.6
+tool-genesis/Tool-Genesis-Qwen3-8B-SFT,7419,Tool-Genesis Benchmark,Unknown,Unknown,L2 Ut Soft,Unknown,1.7
+ronantakizawa/codereview-qwen32b-adapter,7488,GitHub Code Review,Unknown,Unknown,BLEU 4,Unknown,16.91
+ronantakizawa/codereview-qwen32b-adapter,7488,GitHub Code Review,Unknown,Unknown,Comment Type Accuracy,Unknown,64.0
+ronantakizawa/codereview-qwen32b-adapter,7488,GitHub Code Review,Unknown,Unknown,ROUGE L F1,Unknown,21.6
+ronantakizawa/codereview-qwen32b-adapter,7488,GitHub Code Review,Unknown,Unknown,Sentence Bert Cosine Similarity,Unknown,52.6
+AbdulElahGwaith/bloom,7553,HumanEval,Unknown,Unknown,Pass@1,Unknown,15.54
+AbdulElahGwaith/bloom,7553,HumanEval,Unknown,Unknown,Pass@10,Unknown,32.78
+AbdulElahGwaith/bloom,7553,HumanEval,Unknown,Unknown,Pass@100,Unknown,57.2
+Tesslate/OmniCoder-9B,7599,AIME 2025,Unknown,Unknown,Pass@5,Unknown,90.0
+Tesslate/OmniCoder-9B,7599,GPQA Diamond,Unknown,Unknown,Pass@1,Unknown,83.8
+Tesslate/OmniCoder-9B,7599,GPQA Diamond,Unknown,Unknown,Pass@3,Unknown,86.4
+Tesslate/OmniCoder-9B,7599,Terminal-Bench 2.0,Unknown,Unknown,Pass Rate,Unknown,28.1
+cyankiwi/OmniCoder-9B-AWQ-4bit,7644,AIME 2025,Unknown,Unknown,Pass@5,Unknown,90.0
+cyankiwi/OmniCoder-9B-AWQ-4bit,7644,GPQA Diamond,Unknown,Unknown,Pass@1,Unknown,83.8
+cyankiwi/OmniCoder-9B-AWQ-4bit,7644,GPQA Diamond,Unknown,Unknown,Pass@3,Unknown,86.4
+cyankiwi/OmniCoder-9B-AWQ-4bit,7644,Terminal-Bench 2.0,Unknown,Unknown,Pass Rate,Unknown,28.1
+xamxte/cwe-classifier-roberta-base,7676,CTI-Bench cti-rcm,Unknown,Unknown,Hierarchy Aware Top 1,Unknown,86.5
+xamxte/cwe-classifier-roberta-base,7676,CTI-Bench cti-rcm,Unknown,Unknown,Strict Top 1,Unknown,75.6
+xamxte/cwe-classifier-roberta-base,7676,Cve-to-cwe,Test Split,Unknown,Macro F1,Unknown,60.71
+xamxte/cwe-classifier-roberta-base,7676,Cve-to-cwe,Test Split,Unknown,Top 1 Accuracy,Unknown,87.44
+xamxte/cwe-classifier-roberta-base,7676,Cve-to-cwe,Test Split,Unknown,Top 3 Accuracy,Unknown,94.67
