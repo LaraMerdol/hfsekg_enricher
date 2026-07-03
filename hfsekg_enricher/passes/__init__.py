@@ -7,6 +7,7 @@ from .pass4_collections import run_pass4_collections
 from .pass5_papers      import run_pass5_papers
 from .pass7_users       import run_pass7_users
 from .pass8_se_context  import run_pass8_se_context
+from .pass8_fill        import run_pass8_fill
 
 __all__ = [
     "run_pass0_lineage",
@@ -17,4 +18,6 @@ __all__ = [
     "run_pass5_papers",
     "run_pass7_users",
     "run_pass8_se_context",
+    "run_pass8_fill",
+
 ]

@@ -1,0 +1,586 @@
+﻿[
+    {
+        "seTask_id": "use cases generation",
+        "seActivity_id": "requirements engineering"
+    },
+    {
+        "seTask_id": "requirements engineering",
+        "seActivity_id": "requirements engineering"
+    },
+    {
+        "seTask_id": "software requirement",
+        "seActivity_id": "requirements engineering"
+    },
+    {
+        "seTask_id": "requirements analysis",
+        "seActivity_id": "requirements engineering"
+    },
+    {
+        "seTask_id": "functional requirement",
+        "seActivity_id": "requirements engineering"
+    },
+    {
+        "seTask_id": "requirements classification",
+        "seActivity_id": "requirements engineering"
+    },
+    {
+        "seTask_id": "requirements validation",
+        "seActivity_id": "requirements engineering"
+    },
+    {
+        "seTask_id": "requirements specification",
+        "seActivity_id": "requirements engineering"
+    },
+    {
+        "seTask_id": "system requirement",
+        "seActivity_id": "requirements engineering"
+    },
+    {
+        "seTask_id": "rapid prototyping",
+        "seActivity_id": "software design"
+    },
+    {
+        "seTask_id": "architectural design",
+        "seActivity_id": "software design"
+    },
+    {
+        "seTask_id": "system design",
+        "seActivity_id": "software design"
+    },
+    {
+        "seTask_id": "design pattern",
+        "seActivity_id": "software design"
+    },
+    {
+        "seTask_id": "software design",
+        "seActivity_id": "software design"
+    },
+    {
+        "seTask_id": "software architecture",
+        "seActivity_id": "software design"
+    },
+    {
+        "seTask_id": "code generation",
+        "seActivity_id": "software implementation"
+    },
+    {
+        "seTask_id": "code summarization",
+        "seActivity_id": "software implementation"
+    },
+    {
+        "seTask_id": "code completion",
+        "seActivity_id": "software implementation"
+    },
+    {
+        "seTask_id": "coding",
+        "seActivity_id": "software implementation"
+    },
+    {
+        "seTask_id": "code understanding",
+        "seActivity_id": "software implementation"
+    },
+    {
+        "seTask_id": "code comment generation",
+        "seActivity_id": "software implementation"
+    },
+    {
+        "seTask_id": "data analysis",
+        "seActivity_id": "software implementation"
+    },
+    {
+        "seTask_id": "code translation",
+        "seActivity_id": "software implementation"
+    },
+    {
+        "seTask_id": "program synthesis",
+        "seActivity_id": "software implementation"
+    },
+    {
+        "seTask_id": "code representation",
+        "seActivity_id": "software implementation"
+    },
+    {
+        "seTask_id": "code search",
+        "seActivity_id": "software implementation"
+    },
+    {
+        "seTask_id": "type inference",
+        "seActivity_id": "software implementation"
+    },
+    {
+        "seTask_id": "instruction generation",
+        "seActivity_id": "software implementation"
+    },
+    {
+        "seTask_id": "code editing",
+        "seActivity_id": "software implementation"
+    },
+    {
+        "seTask_id": "software implementation",
+        "seActivity_id": "software implementation"
+    },
+    {
+        "seTask_id": "api recommendation",
+        "seActivity_id": "software implementation"
+    },
+    {
+        "seTask_id": "code recommendation",
+        "seActivity_id": "software implementation"
+    },
+    {
+        "seTask_id": "test generation",
+        "seActivity_id": "software quality assurance"
+    },
+    {
+        "seTask_id": "vulnerability detection",
+        "seActivity_id": "software quality assurance"
+    },
+    {
+        "seTask_id": "verification",
+        "seActivity_id": "software quality assurance"
+    },
+    {
+        "seTask_id": "cybersecurity",
+        "seActivity_id": "software quality assurance"
+    },
+    {
+        "seTask_id": "defect detection",
+        "seActivity_id": "software quality assurance"
+    },
+    {
+        "seTask_id": "security testing",
+        "seActivity_id": "software quality assurance"
+    },
+    {
+        "seTask_id": "decompilation",
+        "seActivity_id": "software quality assurance"
+    },
+    {
+        "seTask_id": "quality assurance",
+        "seActivity_id": "software quality assurance"
+    },
+    {
+        "seTask_id": "software testing",
+        "seActivity_id": "software quality assurance"
+    },
+    {
+        "seTask_id": "testing automation",
+        "seActivity_id": "software quality assurance"
+    },
+    {
+        "seTask_id": "bug localization",
+        "seActivity_id": "software quality assurance"
+    },
+    {
+        "seTask_id": "static analysis",
+        "seActivity_id": "software quality assurance"
+    },
+    {
+        "seTask_id": "vulnerability management",
+        "seActivity_id": "software quality assurance"
+    },
+    {
+        "seTask_id": "software security",
+        "seActivity_id": "software quality assurance"
+    },
+    {
+        "seTask_id": "code review",
+        "seActivity_id": "software maintenance"
+    },
+    {
+        "seTask_id": "sentiment analysis",
+        "seActivity_id": "software maintenance"
+    },
+    {
+        "seTask_id": "logging",
+        "seActivity_id": "software maintenance"
+    },
+    {
+        "seTask_id": "debugging",
+        "seActivity_id": "software maintenance"
+    },
+    {
+        "seTask_id": "software maintenance",
+        "seActivity_id": "software maintenance"
+    },
+    {
+        "seTask_id": "duplicate bug report detection",
+        "seActivity_id": "software maintenance"
+    },
+    {
+        "seTask_id": "preventive maintenance",
+        "seActivity_id": "software maintenance"
+    },
+    {
+        "seTask_id": "program repair",
+        "seActivity_id": "software maintenance"
+    },
+    {
+        "seTask_id": "log parsing",
+        "seActivity_id": "software maintenance"
+    },
+    {
+        "seTask_id": "code clone detection",
+        "seActivity_id": "software maintenance"
+    },
+    {
+        "seTask_id": "bug prediction",
+        "seActivity_id": "software maintenance"
+    },
+    {
+        "seTask_id": "code coverage prediction",
+        "seActivity_id": "software maintenance"
+    },
+    {
+        "seTask_id": "anaphoric ambiguity treatment",
+        "seActivity_id": "requirements engineering"
+    },
+    {
+        "seTask_id": "requirement analysis and evaluation",
+        "seActivity_id": "requirements engineering"
+    },
+    {
+        "seTask_id": "specification generation",
+        "seActivity_id": "requirements engineering"
+    },
+    {
+        "seTask_id": "coreference detection",
+        "seActivity_id": "requirements engineering"
+    },
+    {
+        "seTask_id": "requirements elicitation",
+        "seActivity_id": "requirements engineering"
+    },
+    {
+        "seTask_id": "specification formalization",
+        "seActivity_id": "requirements engineering"
+    },
+    {
+        "seTask_id": "traceability automation",
+        "seActivity_id": "requirements engineering"
+    },
+    {
+        "seTask_id": "requirements review",
+        "seActivity_id": "requirements engineering"
+    },
+    {
+        "seTask_id": "requirements management",
+        "seActivity_id": "requirements engineering"
+    },
+    {
+        "seTask_id": "requirements scrubbing",
+        "seActivity_id": "requirements engineering"
+    },
+    {
+        "seTask_id": "requirements change control",
+        "seActivity_id": "requirements engineering"
+    },
+    {
+        "seTask_id": "software project requirement",
+        "seActivity_id": "requirements engineering"
+    },
+    {
+        "seTask_id": "software product requirement",
+        "seActivity_id": "requirements engineering"
+    },
+    {
+        "seTask_id": "nonfunctional requirement",
+        "seActivity_id": "requirements engineering"
+    },
+    {
+        "seTask_id": "technology constraints",
+        "seActivity_id": "requirements engineering"
+    },
+    {
+        "seTask_id": "quality of service constraints",
+        "seActivity_id": "requirements engineering"
+    },
+    {
+        "seTask_id": "gui retrieval",
+        "seActivity_id": "software design"
+    },
+    {
+        "seTask_id": "software specification synthesis",
+        "seActivity_id": "software design"
+    },
+    {
+        "seTask_id": "high-level design",
+        "seActivity_id": "software design"
+    },
+    {
+        "seTask_id": "detailed design",
+        "seActivity_id": "software design"
+    },
+    {
+        "seTask_id": "model-based design",
+        "seActivity_id": "software design"
+    },
+    {
+        "seTask_id": "structural design",
+        "seActivity_id": "software design"
+    },
+    {
+        "seTask_id": "behavioural design",
+        "seActivity_id": "software design"
+    },
+    {
+        "seTask_id": "design rationale",
+        "seActivity_id": "software design"
+    },
+    {
+        "seTask_id": "architecture style",
+        "seActivity_id": "software design"
+    },
+    {
+        "seTask_id": "architecture pattern",
+        "seActivity_id": "software design"
+    },
+    {
+        "seTask_id": "architecture framework",
+        "seActivity_id": "software design"
+    },
+    {
+        "seTask_id": "architectural decisions",
+        "seActivity_id": "software design"
+    },
+    {
+        "seTask_id": "api inference",
+        "seActivity_id": "software implementation"
+    },
+    {
+        "seTask_id": "method name generation",
+        "seActivity_id": "software implementation"
+    },
+    {
+        "seTask_id": "api documentation augment",
+        "seActivity_id": "software implementation"
+    },
+    {
+        "seTask_id": "api documentation smells",
+        "seActivity_id": "software implementation"
+    },
+    {
+        "seTask_id": "api entity and relation extraction",
+        "seActivity_id": "software implementation"
+    },
+    {
+        "seTask_id": "fuzz driver generation",
+        "seActivity_id": "software implementation"
+    },
+    {
+        "seTask_id": "control flow graph generation",
+        "seActivity_id": "software implementation"
+    },
+    {
+        "seTask_id": "identifier normalization",
+        "seActivity_id": "software implementation"
+    },
+    {
+        "seTask_id": "reuse in construction",
+        "seActivity_id": "software implementation"
+    },
+    {
+        "seTask_id": "construction quality",
+        "seActivity_id": "software implementation"
+    },
+    {
+        "seTask_id": "construction integration",
+        "seActivity_id": "software implementation"
+    },
+    {
+        "seTask_id": "fault localization",
+        "seActivity_id": "software quality assurance"
+    },
+    {
+        "seTask_id": "gui testing",
+        "seActivity_id": "software quality assurance"
+    },
+    {
+        "seTask_id": "binary taint analysis",
+        "seActivity_id": "software quality assurance"
+    },
+    {
+        "seTask_id": "compiler fuzzing",
+        "seActivity_id": "software quality assurance"
+    },
+    {
+        "seTask_id": "invariant prediction",
+        "seActivity_id": "software quality assurance"
+    },
+    {
+        "seTask_id": "malicious code localization",
+        "seActivity_id": "software quality assurance"
+    },
+    {
+        "seTask_id": "mobile app crash detection",
+        "seActivity_id": "software quality assurance"
+    },
+    {
+        "seTask_id": "resource leak detection",
+        "seActivity_id": "software quality assurance"
+    },
+    {
+        "seTask_id": "test prediction",
+        "seActivity_id": "software quality assurance"
+    },
+    {
+        "seTask_id": "software quality",
+        "seActivity_id": "software quality assurance"
+    },
+    {
+        "seTask_id": "quality management",
+        "seActivity_id": "software quality assurance"
+    },
+    {
+        "seTask_id": "equivalence partitioning",
+        "seActivity_id": "software quality assurance"
+    },
+    {
+        "seTask_id": "syntax testing",
+        "seActivity_id": "software quality assurance"
+    },
+    {
+        "seTask_id": "state transition testing",
+        "seActivity_id": "software quality assurance"
+    },
+    {
+        "seTask_id": "scenario testing",
+        "seActivity_id": "software quality assurance"
+    },
+    {
+        "seTask_id": "evidence-based testing",
+        "seActivity_id": "software quality assurance"
+    },
+    {
+        "seTask_id": "control flow testing",
+        "seActivity_id": "software quality assurance"
+    },
+    {
+        "seTask_id": "data flow testing",
+        "seActivity_id": "software quality assurance"
+    },
+    {
+        "seTask_id": "error guessing",
+        "seActivity_id": "software quality assurance"
+    },
+    {
+        "seTask_id": "exploratory testing",
+        "seActivity_id": "software quality assurance"
+    },
+    {
+        "seTask_id": "information security",
+        "seActivity_id": "software quality assurance"
+    },
+    {
+        "seTask_id": "security requirements",
+        "seActivity_id": "software quality assurance"
+    },
+    {
+        "seTask_id": "security design",
+        "seActivity_id": "software quality assurance"
+    },
+    {
+        "seTask_id": "security patterns",
+        "seActivity_id": "software quality assurance"
+    },
+    {
+        "seTask_id": "construction for security",
+        "seActivity_id": "software quality assurance"
+    },
+    {
+        "seTask_id": "bug reproduction",
+        "seActivity_id": "software maintenance"
+    },
+    {
+        "seTask_id": "review/commit/code classification",
+        "seActivity_id": "software maintenance"
+    },
+    {
+        "seTask_id": "code revision",
+        "seActivity_id": "software maintenance"
+    },
+    {
+        "seTask_id": "vulnerability repair",
+        "seActivity_id": "software maintenance"
+    },
+    {
+        "seTask_id": "api misuses repair",
+        "seActivity_id": "software maintenance"
+    },
+    {
+        "seTask_id": "bug triage",
+        "seActivity_id": "software maintenance"
+    },
+    {
+        "seTask_id": "code review explained",
+        "seActivity_id": "software maintenance"
+    },
+    {
+        "seTask_id": "code-review defects repair",
+        "seActivity_id": "software maintenance"
+    },
+    {
+        "seTask_id": "crash bug repair",
+        "seActivity_id": "software maintenance"
+    },
+    {
+        "seTask_id": "dockerfile repair",
+        "seActivity_id": "software maintenance"
+    },
+    {
+        "seTask_id": "patch correctness prediction",
+        "seActivity_id": "software maintenance"
+    },
+    {
+        "seTask_id": "patch detection",
+        "seActivity_id": "software maintenance"
+    },
+    {
+        "seTask_id": "program merge conflicts repair",
+        "seActivity_id": "software maintenance"
+    },
+    {
+        "seTask_id": "rename refactoring",
+        "seActivity_id": "software maintenance"
+    },
+    {
+        "seTask_id": "tag recommendation",
+        "seActivity_id": "software maintenance"
+    },
+    {
+        "seTask_id": "technical debt payback",
+        "seActivity_id": "software maintenance"
+    },
+    {
+        "seTask_id": "traceability recovery",
+        "seActivity_id": "software maintenance"
+    },
+    {
+        "seTask_id": "web test repair",
+        "seActivity_id": "software maintenance"
+    },
+    {
+        "seTask_id": "type error repair",
+        "seActivity_id": "software maintenance"
+    },
+    {
+        "seTask_id": "corrective maintenance",
+        "seActivity_id": "software maintenance"
+    },
+    {
+        "seTask_id": "adaptive maintenance",
+        "seActivity_id": "software maintenance"
+    },
+    {
+        "seTask_id": "additive maintenance",
+        "seActivity_id": "software maintenance"
+    },
+    {
+        "seTask_id": "perfective maintenance",
+        "seActivity_id": "software maintenance"
+    },
+    {
+        "seTask_id": "emergency maintenance",
+        "seActivity_id": "software maintenance"
+    }
+]

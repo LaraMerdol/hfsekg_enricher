@@ -59,6 +59,7 @@ from passes.pass4_collections import run_pass4_collections
 from passes.pass5_papers      import run_pass5_papers
 from passes.pass7_users       import run_pass7_users
 from passes.pass8_se_context  import run_pass8_se_context
+from passes.pass8_fill        import run_pass8_fill
 
 log = logging.getLogger(__name__)
 
@@ -348,9 +349,10 @@ class HFGraphEnricher:
             # run_pass7_users(ctx)
 
             # --- Pass 8: SE context / benchmarks ---
-            if ENABLE_SE_CONTEXT_PASS:
-                run_pass8_se_context(ctx)
-
+            # if ENABLE_SE_CONTEXT_PASS:
+            #     run_pass8_se_context(ctx)
+             # --- Pass 8: SE context / benchmarks ---
+            run_pass8_fill(ctx)           
             # ---- final flush ----
             if ctx.repair.total_size() > 0:
                 log.info("Final flush: %d items", ctx.repair.total_size())
