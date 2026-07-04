@@ -417,6 +417,46 @@ OUTPUT RULES:
 - confidence=low for weak hints only
 - NEVER invent a base model not mentioned in the metadata
 
+Below are eight worked examples showing how to apply the checklist. Each shows the reasoning trace followed by the final JSON.
+ 
+EXAMPLE 1 (finetune, explicit statement):
+Metadata: model_id="acme/chatty-7b", description="Fine-tuned from meta-llama/Llama-2-7b-hf on our internal instruction dataset."
+Reasoning: Step 1, no disqualifier phrases present. Step 2, description explicitly states "Fine-tuned from meta-llama/Llama-2-7b-hf" - clear explicit statement, single base. Step 4, kind=finetune, confidence=high.
+Answer: {{"candidates": [{{"kind": "finetune", "base_id": "meta-llama/Llama-2-7b-hf", "confidence": "high", "evidence": "description states fine-tuned from meta-llama/Llama-2-7b-hf"}}]}}
+ 
+EXAMPLE 2 (adapter, explicit statement):
+Metadata: model_id="acme/llama2-7b-medical-lora", tags=["peft", "lora"], card_summary.base_model="meta-llama/Llama-2-7b-hf"
+Reasoning: Step 1, no disqualifiers. Step 2, card field base_model names the parent directly and peft/lora tags confirm this is adapter weights, not a full finetune. Step 4, kind=adapter, confidence=high.
+Answer: {{"candidates": [{{"kind": "adapter", "base_id": "meta-llama/Llama-2-7b-hf", "confidence": "high", "evidence": "base_model field plus peft/lora tags"}}]}}
+ 
+EXAMPLE 3 (quantized, explicit statement):
+Metadata: model_id="TheBloke/Llama-2-7B-Chat-GGUF", description="GGUF quantized version of meta-llama/Llama-2-7b-chat-hf."
+Reasoning: Step 1, no disqualifiers. Step 2, description explicitly names the original fp16 model being quantized. Step 4, kind=quantized, confidence=high.
+Answer: {{"candidates": [{{"kind": "quantized", "base_id": "meta-llama/Llama-2-7b-chat-hf", "confidence": "high", "evidence": "description states GGUF quantized version of meta-llama/Llama-2-7b-chat-hf"}}]}}
+ 
+EXAMPLE 4 (merge, explicit statement with two sources):
+Metadata: model_id="acme/frankenmerge-13b", description="Merged from mistralai/Mistral-7B-v0.1 and NousResearch/Nous-Hermes-2 using SLERP."
+Reasoning: Step 1, no disqualifiers. Step 2, description names two source models joined by a merge method. Step 4, kind=merge for each source, confidence=high.
+Answer: {{"candidates": [{{"kind": "merge", "base_id": "mistralai/Mistral-7B-v0.1", "confidence": "high", "evidence": "description lists as a merge source"}}, {{"kind": "merge", "base_id": "NousResearch/Nous-Hermes-2", "confidence": "high", "evidence": "description lists as a merge source"}}]}}
+ 
+EXAMPLE 5 (quantized, name pattern only):
+Metadata: model_id="acme/openhermes-2.5-mistral-7b-4bit", description="4-bit quantized weights for local inference.", tags=["4bit"]
+Reasoning: Step 1, no disqualifiers. Step 2, no explicit base model named anywhere in the card. Step 3, repo name follows "[base]-4bit" pattern where [base]="openhermes-2.5-mistral-7b" plausibly resolves to an existing fp16 model. Step 4, kind=quantized, confidence=medium since this rests on a name pattern rather than an explicit statement.
+Answer: {{"candidates": [{{"kind": "quantized", "base_id": "teknium/OpenHermes-2.5-Mistral-7B", "confidence": "medium", "evidence": "repo name follows [base]-4bit pattern"}}]}}
+ 
+EXAMPLE 6 (negative case - mirror upload disqualifier):
+Metadata: model_id="community-mirror/llama-2-7b-chat", description="This is a non-official mirror of the original Llama 2 7B chat weights for faster regional download."
+Reasoning: Step 1, description explicitly says "non-official mirror of" - this is a disqualifier. Stop immediately.
+Answer: {{"candidates": []}}
+ 
+EXAMPLE 7 (negative case - trained from scratch disqualifier):
+Metadata: model_id="acme/proprietary-encoder-v1", description="Trained from scratch on our proprietary corpus with a randomly initialized transformer encoder."
+Reasoning: Step 1, description explicitly says "trained from scratch" and "randomly initialized" - this is a disqualifier. Stop immediately.
+Answer: {{"candidates": []}}
+ 
+EXAMPLE 8 (negative case - name-pattern hallucination):
+Metadata: model_id="acme/best-instruct-model", description="Our top instruction-tuned model for chat.", tags=["text-generation"]
+
 Input JSON:
 {json.dumps(payload, ensure_ascii=False, indent=2)}
 """.strip()
