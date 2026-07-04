@@ -1084,7 +1084,7 @@ class LineageFinder:
         not_found_seed_se_models = 0
 
         queue: Deque[Tuple[str, int]] = deque((s, 0) for s in seeds)
-        self.processed_models.update(ctx.repair.get_all_model_ids()) if ctx else None
+        self.processed_models.update(ctx.writer.get_graph_model_ids()) if ctx else None
         while queue:
             model_id, depth = queue.popleft()
             model_id = _normalize_model_id(model_id)

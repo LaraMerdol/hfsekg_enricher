@@ -128,7 +128,7 @@ def _enrich_user(
                 ctx.follows_org.add((username, target))
         else:
             if target not in ctx.existing_users:
-                ctx.repair.users.append(user_stub(target))
+                ctx.repair.users.append(parse_user_overview(target, { "type": "user" }))
                 ctx.existing_users.add(target)
             if (username, target) not in ctx.follows_user:
                 ctx.repair.follows_user.append({"follower_id": username, "followee_id": target})

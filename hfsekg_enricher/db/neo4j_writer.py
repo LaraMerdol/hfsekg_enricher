@@ -168,6 +168,32 @@ class Neo4jWriter:
             """)
             return {r["username"] for r in result if r.get("username")}
 
+    def user_has_profile(self, username: str) -> bool:
+        """Return True when a User node already has retrieved profile data."""
+        with self.driver.session() as session:
+            result = session.run(
+                """
+                MATCH (u:User {username: $username})
+                RETURN u.details IS NOT NULL AS has_profile
+                """,
+                username=username,
+            )
+            record = result.single()
+            return bool(record and record["has_profile"])
+
+    def org_has_profile(self, org_id: str) -> bool:
+        """Return True when an Organization node already has retrieved data."""
+        with self.driver.session() as session:
+            result = session.run(
+                """
+                MATCH (o:Organization {id: $org_id})
+                RETURN o.fullname IS NOT NULL AS has_profile
+                """,
+                org_id=org_id,
+            )
+            record = result.single()
+            return bool(record and record["has_profile"])
+
     # ------------------------------------------------------------------
     # Node relabelling
     # ------------------------------------------------------------------

@@ -338,14 +338,14 @@ class HFGraphEnricher:
             # if ENABLE_COLLECTION_PASS:
             #     run_pass4_collections(ctx, all=False)
 
-            # # --- Pass 5: papers (optional) ---
-            # if ENABLE_PAPER_PASS:
-            #     run_pass5_papers(ctx)
+            # --- Pass 5: papers (optional) ---
+            if ENABLE_PAPER_PASS:
+                run_pass5_papers(ctx)
 
-            # # --- Pass 6: social/likes — not yet implemented ---
+            # --- Pass 6: social/likes — not yet implemented ---
 
-            # # --- Pass 7: user enrichment + org detection ---
-            # run_pass7_users(ctx)
+            # --- Pass 7: user enrichment + org detection ---
+            run_pass7_users(ctx)
 
             # --- Pass 8: SE context / benchmarks ---
             if ENABLE_SE_CONTEXT_PASS:

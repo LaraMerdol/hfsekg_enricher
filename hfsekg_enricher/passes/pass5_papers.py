@@ -72,10 +72,22 @@ def run_pass5_papers(ctx: "PipelineContext") -> None:  # type: ignore[name-defin
                     ctx.repair.papers.append(bundle["paper_node"])
 
                     # Author stubs
-                    for username in bundle["author_usernames"]:
+                    for author in bundle["author_usernames"]:
+                        if isinstance(author, dict):
+                            username = author.get("name") or author.get("user")
+                        else:
+                            username = author
+
+                        if not username:
+                            continue
+
                         if username not in ctx.existing_users:
                             ctx.repair.users.append(user_stub(username))
                             ctx.existing_users.add(username)
+
+                        if (username, paper_id) not in ctx.published_paper_user:
+                            ctx.repair.published_paper_user.append({"username": username, "paper_id": paper_id})
+                            ctx.published_paper_user.add((username, paper_id))
 
                     ctx.flush_if_needed()
 
